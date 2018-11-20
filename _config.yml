@@ -11,3 +11,7 @@ timezone:
 paginate:
 paginate_path:
 permalink: pretty
+
+# Build settings
+markdown: kramdown
+plugins:

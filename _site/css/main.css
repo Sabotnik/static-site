@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css?family=Amatic+SC|Fira+Sans");
+body {
+  font-size: 1.375em;
+  font-family: "Fira Sans", sans-serif;
+  color: white;
+  font-weight: 400; }
+
+h1 {
+  font-size: 3.75em; }
+
+h2 {
+  font-size: 2.813em; }
+
+.container {
+  padding: 10px;
+  margin: 45px auto; }
+
+.row {
+  padding: 15px;
+  margin: 5px; }
+
+.col {
+  padding: 15px;
+  margin: 5px; }
+
+/*-------------------Flexbox-----------------*/
