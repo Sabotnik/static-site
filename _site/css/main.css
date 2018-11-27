@@ -64,10 +64,6 @@ nav {
   padding-right: 1em;
   padding-left: 1em; }
 
-/* ---- Page Elements ---- */
-.logo {
-  width: 272px; }
-
 /* =================================
   Media Queries
 ==================================== */
@@ -85,7 +81,8 @@ nav {
 @media (min-width: 769px) {
   nav,
   .main-nav,
-  .row {
+  .row,
+  .col {
     display: flex; }
 
   nav {
@@ -93,10 +90,15 @@ nav {
     align-items: center; }
 
   .col {
-    flex: 1 50%; }
+    flex: 1 50%;
+    flex-direction: column; }
 
   .row {
-    flex-wrap: wrap; } }
+    flex-wrap: wrap; }
+
+  .btn {
+    margin-top: auto;
+    align-self: center; } }
 @media (min-width: 1025px) {
   nav {
     flex-direction: row;
