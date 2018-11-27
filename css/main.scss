@@ -7,6 +7,8 @@ $color2: #21a1a1; //teal
 $color3: #f04e29; //orangish red
 $color4: #7d4895; //purple
 
+$dark-brown: #594a42;
+
 // Font import and variables
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fira+Sans');
 
@@ -14,5 +16,5 @@ $font-main: 'Fira Sans', sans-serif;
 $font-accent: 'Amatic SC', cursive;
 
 // Imports of Sass files
-@import "layout";
+@import "base";
 @import "flexbox";

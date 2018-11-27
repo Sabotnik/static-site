@@ -1,1 +1,34 @@
 /*-------------------Flexbox-----------------*/
+
+@media (min-width: 769px) {
+
+  nav,
+  .main-nav,
+  .row {
+    display: flex;
+  }
+
+  nav{
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .col {
+    flex: 1 50%;
+  }
+
+  .row {
+    flex-wrap: wrap;
+  }
+}
+
+@media (min-width: 1025px) {
+  nav {
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .col {
+    flex-basis: 0;
+  }
+}

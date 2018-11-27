@@ -1,8 +1,9 @@
 <header>
 
   <nav>
-    <ul>
-      
+    <a href="#"><img class="logo" src="/images/logo-navbar.svg" alt="Empowert Tanzania logo"></a>
+    <ul class="main-nav">
+
       {% for item in site.data.navigation %}
       <li>
         <a href="{{ item.link }}" class="nav-link {% if item.link == page.url %}active{% endif %}">
@@ -13,4 +14,5 @@
 
     </ul>
   </nav>
+
 </header>
