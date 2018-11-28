@@ -1,4 +1,23 @@
-/*-------------------Flexbox-----------------*/
+/* =================================
+  Base Styles
+==================================== */
+
+/*--- Sticky footer ---*/
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+.row {
+  flex: 1;
+}
+/*as long as there is a 'row' class div in the body on the page,
+there will be a sticky footer due to the above properties*/
+
+/* =================================
+  Media Queries
+==================================== */
 
 @media (min-width: 769px) {
 
