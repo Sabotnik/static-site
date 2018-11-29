@@ -94,6 +94,22 @@ there will be a sticky footer due to the above properties*/
 /* =================================
   Media Queries
 ==================================== */
+@media only screen and (max-width: 768px) {
+  nav,
+  .main-nav {
+    flex-direction: column; }
+
+  .main-nav {
+    display: none; }
+
+  .nav-link-toggle {
+    align-self: flex-end;
+    display: initial;
+    position: absolute;
+    cursor: pointer; }
+
+  .nav-toggle-show {
+    display: flex; } }
 @media (min-width: 769px) {
   nav,
   .main-nav,
@@ -104,6 +120,9 @@ there will be a sticky footer due to the above properties*/
   nav {
     flex-direction: column;
     align-items: center; }
+
+  .nav-link-toggle {
+    display: none; }
 
   .col {
     flex: 1 50%;
