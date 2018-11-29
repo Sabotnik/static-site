@@ -1,7 +1,14 @@
 /* =================================
   Page Elements
 ==================================== */
-
+.hero {
+  height: 85vh;
+  background-image: url('/images/hero.jpg');
+  background-size: cover;
+  background-position: top;
+  color: white;
+  text-transform: uppercase;
+}
 .btn {
   font-family: $font-accent;
   color: white;
