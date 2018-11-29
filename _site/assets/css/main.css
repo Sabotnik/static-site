@@ -36,6 +36,9 @@ img {
   Base Layout Styles
 ==================================== */
 /* ---- Navigation ---- */
+.logo {
+  width: 272px; }
+
 .main-nav {
   margin-top: 5px; }
 
@@ -106,6 +109,8 @@ there will be a sticky footer due to the above properties*/
     align-self: flex-end;
     display: initial;
     position: absolute;
+    top: 20px;
+    right: 10px;
     cursor: pointer; }
 
   .nav-toggle-show {
