@@ -12,6 +12,8 @@ paginate:
 paginate_path:
 permalink: pretty
 
+include: ['_pages']
+
 # Build settings
 markdown: kramdown
 plugins:
