@@ -62,7 +62,11 @@ img {
   text-transform: uppercase;
 }
 
-.main-nav a:hover {
+.social-icon-nav a {
+  color: $color1;
+}
+
+.main-nav a:hover, .social-icon-nav a:hover {
   color: $color3;
 }
 

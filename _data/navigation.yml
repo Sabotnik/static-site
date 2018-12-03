@@ -1,4 +1,10 @@
 - link: /about/
   name: About
-- link: /contact/
-  name: Contact
+- link: /programs/
+  name: Programs
+- link: /join/
+  name: Join Us
+- link: /events/
+  name: Events
+- link: /blog/
+  name: Blog

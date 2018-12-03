@@ -1,7 +1,7 @@
 <header>
 
   <nav>
-    <a href="#"><img class="logo" src="/images/logo-navbar.svg" alt="Empowert Tanzania logo"></a>
+    <a href="{{ site.baseurl }}{% link index.html %}"><img class="logo" src="/images/logo-navbar.svg" alt="Empowert Tanzania logo"></a>
     <div class="nav-link nav-link-toggle">
       <i class="far fa-bars fa-3x"></i>
     </div>
@@ -17,6 +17,57 @@
       {% endfor %}
 
     </ul>
+
+    <ul class="social-icon-nav">
+
+      <li class="nav-link">
+        <a href="https://www.facebook.com/EmpowerTZ/" target="_blank">
+          <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+      </li>
+
+      <li class="nav-link">
+        <a href="https://twitter.com/empowertanzania/" target="_blank">
+          <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>  
+      </li>
+
+      <li class="nav-link">
+        <a href="https://www.youtube.com/EmpowerTZ/" target="_blank">
+          <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+      </li>
+
+      <li class="nav-link">
+        <a href="https://www.instagram.com/empower_tanzania/" target="_blank">
+          <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+      </li>
+
+      <li class="nav-link">
+        <a href="mailto:information@empowertz.org" target="_blank">
+          <span class="fa-stack">
+            <i class="fas fa-circle fa-stack-2x"></i>
+            <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+      </li>
+
+    </ul>
+
+    <a class="btn" href="#">Donate</a>
   </nav>
 
 </header>
