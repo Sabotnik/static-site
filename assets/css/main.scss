@@ -18,5 +18,7 @@ $font-accent: 'Amatic SC', cursive;
 
 // Imports of Sass files
 @import "base";
-@import "elements";
-@import "flexbox";
+@import "layout";
+@import "navbar";
+@import "buttons";
+@import "responsive";

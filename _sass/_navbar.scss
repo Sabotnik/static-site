@@ -1,0 +1,31 @@
+nav {
+  width: 90%;
+  margin: 20px auto;
+  padding: 10px 20px;
+  }
+.logo {
+    width: 272px;
+}
+.main-nav {
+    margin-top: 5px;
+}
+.main-nav a {
+  text-align: center;
+  display: block;
+  padding: 10px 15px;
+  font-size: 1.25em;
+  font-weight: 500;
+  color: $dark-brown;
+  text-transform: uppercase;
+}
+.social-icon-nav a {
+  color: $color1;
+}
+.main-nav a:hover, .social-icon-nav a:hover {
+  color: $color3;
+}
+nav,
+  .main-nav,
+  .social-icon-nav {
+    display: flex;
+  }

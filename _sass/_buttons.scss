@@ -1,0 +1,16 @@
+.btn {
+  font-family: $font-accent;
+  color: white;
+  text-align: center;
+  padding: .625em 1.25em;
+}
+.btn-orange {
+  background-color: $color3;
+}
+.btn-orange:hover {
+  background-color: $color1;
+}
+#donate-navbar {
+  font-size: 3em;
+  padding: 5px 30px;
+}

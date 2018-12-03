@@ -11,6 +11,10 @@
 body {
   font-family: $font-main;
   line-height: 1.28;
+  display: flex;
+  /*--- Sticky footer ---*/
+  flex-direction: column;
+  min-height: 100vh;
 }
 
 ul {
@@ -39,68 +43,4 @@ a {
 
 img {
   max-width: 100%;
-}
-/* =================================
-  Base Layout Styles
-==================================== */
-
-/* ---- Navigation ---- */
-.logo {
-  width: 272px;
-}
-.main-nav {
-  margin-top: 5px;
-}
-
-.main-nav a {
-  text-align: center;
-  display: block;
-  padding: 10px 15px;
-  font-size: 1.25em;
-  font-weight: 500;
-  color: $dark-brown;
-  text-transform: uppercase;
-}
-
-.social-icon-nav a {
-  color: $color1;
-}
-
-.main-nav a:hover, .social-icon-nav a:hover {
-  color: $color3;
-}
-
-/* ---- Layout Containers ---- */
-nav {
-  padding-top: .5em;
-  padding-bottom: .5em;
-}
-
-.main-footer {
-  padding: 2em 0;
-  margin-top: 30px;
-}
-
-.col {
-  padding-right: 1em;
-  padding-left: 1em;
-}
-
-/* =================================
-  Media Queries
-==================================== */
-@media (min-width: 769px) {
-  nav,
-  .row {
-    width: 90%;
-    margin: 0 auto;
-  }
-}
-
-@media (min-width: 1025px) {
-  nav,
-  .row {
-    width: 80%;
-    max-width: 1150px;
-  }
 }
