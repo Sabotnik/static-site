@@ -7,7 +7,6 @@
   padding: 0;
   box-sizing: border-box;
 }
-
 body {
   font-family: $font-main;
   line-height: 1.28;
@@ -16,31 +15,47 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }
-
 ul {
   margin: 0;
   padding: 0;
   list-style: none;
 }
-
 p {
   font-size: 1.375em;
   font-weight: 400;
   margin-bottom: 1.8em;
 }
-
 h1 {
   font-size: 3.75em;
 }
-
 h2 {
   font-size: 2.813em;
 }
-
 a {
   text-decoration: none;
 }
-
 img {
   max-width: 100%;
+}
+/* =================================
+  Media Queries
+==================================== */
+/* Extra small devices (portrait phones, less than 576px)
+- No media query since this should be the default styles */
+
+//Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+
+}
+//Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+
+}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+
+}
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+
 }
