@@ -21,15 +21,15 @@ ul {
   list-style: none;
 }
 p {
-  font-size: 1.375em;
+  font-size: 1em;
   font-weight: 400;
   margin-bottom: 1.8em;
 }
 h1 {
-  font-size: 3.75em;
+  font-size: 1.75em;
 }
 h2 {
-  font-size: 2.813em;
+  font-size: 1.5em;
 }
 a {
   text-decoration: none;
@@ -49,7 +49,15 @@ img {
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-
+  h1 {
+    font-size: 3.75em;
+  }
+  h2 {
+    font-size: 2.813em;
+  }
+  p {
+    font-size: 1.375em;
+  }
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {

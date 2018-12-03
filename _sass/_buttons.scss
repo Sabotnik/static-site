@@ -2,7 +2,12 @@
   font-family: $font-accent;
   color: white;
   text-align: center;
+  display: inline-block;
   padding: .625em 1.25em;
+}
+.btn-block {
+  display: block;
+  width: 100%;
 }
 .btn-orange {
   background-color: $color3;
