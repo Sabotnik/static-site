@@ -17,55 +17,8 @@
       {% endfor %}
 
     </ul>
-
-    <ul class="social-icon-nav">
-
-      <li class="nav-link">
-        <a href="https://www.facebook.com/EmpowerTZ/" target="_blank">
-          <span class="fa-stack">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-facebook-f fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-      </li>
-
-      <li class="nav-link">
-        <a href="https://twitter.com/empowertanzania/" target="_blank">
-          <span class="fa-stack">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-twitter fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>  
-      </li>
-
-      <li class="nav-link">
-        <a href="https://www.youtube.com/EmpowerTZ/" target="_blank">
-          <span class="fa-stack">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-youtube fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-      </li>
-
-      <li class="nav-link">
-        <a href="https://www.instagram.com/empower_tanzania/" target="_blank">
-          <span class="fa-stack">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="fab fa-instagram fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-      </li>
-
-      <li class="nav-link">
-        <a href="mailto:information@empowertz.org" target="_blank">
-          <span class="fa-stack">
-            <i class="fas fa-circle fa-stack-2x"></i>
-            <i class="far fa-envelope fa-stack-1x fa-inverse"></i>
-          </span>
-        </a>
-      </li>
-
-    </ul>
+    
+    {% include social-nav.html %}
 
     <a class="btn nav-btn" href="{{ site.baseurl }} {% link _pages/donate.html %}">Donate</a>
     

@@ -1,7 +1,98 @@
 <footer class="main-footer">
   
+  <div class="footer-row">
+
+    <ul>
+      <li>
+        <h3>Get to Know Us</h3>
+      </li>
+      <li>
+        <a href="#">Read Our Blog</a>
+      </li>
+      <li>
+        <a href="#">Meet Our Board of Directors</a>
+      </li>
+      <li>
+        <a href="#">Meet Our Staff</a>
+      </li>
+      <li>
+        <a href="#">Wezesha Circle Members</a>
+      </li>
+    </ul>
+
+    <ul>
+      <li>
+        <h3>See What We Do</h3>
+      </li>
+      <li>
+        <a href="#">Health</a>
+      </li>
+      <li>
+        <a href="#">Education</a>
+      </li>
+      <li>
+        <a href="#">Economic Development</a>
+      </li>
+    </ul>
+
+    <ul>
+      <li>
+        <h3>Get Involved</h3>
+      </li>
+      <li>
+        <a href="#">Volunteer</a>
+      </li>
+      <li>
+        <a href="#">Make a Donation</a>
+      </li>
+      <li>
+        <a href="#">Shop Our Store</a>
+      </li>
+      <li>
+        <a href="#">View Our Events</a>
+      </li>
+    </ul>
+
+    <ul>
+      <li>
+        <h3>Resources</h3>
+      </li>
+      <li>
+        <a href="#">Annual Reports</a>
+      </li>
+      <li>
+        <a href="#">Privacy Policy</a>
+      </li>
+      <li>
+        <a href="#">Form 990</a>
+      </li>
+    </ul>
+
+    <ul>
+      <li>
+        <h3>Connect</h3>
+      </li>
+      <li>
+        <a href="#">Newsletter Signup</a>
+      </li>
+      <li>
+        <a href="#">Request a Speaker</a>
+      </li>
+    </ul>
+    
+  </div>
+
   <div class="row">
-    <span>&copy;{{ site.time | date: '%Y' }} {{ site.title }}</span>
+    <h4>
+      <span>&copy;{{ site.time | date: '%Y' }} {{ site.title }}</span>
+      | Empower Tanzania is a 501(C)(3) |
+      <a href="mailto:information&#64;empowertz.org">information&#64;empowertz.org</a>
+    </h4>
+
+  </div>
+
+  <div class="row">
+      {% include social-nav.html %}
   </div>
 
 </footer>

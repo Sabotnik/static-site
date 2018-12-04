@@ -1,6 +1,9 @@
 /* =================================
   Base Layout Containers
 ==================================== */
+.row, .col {
+  display: flex;
+}
 .row {
   flex-wrap: wrap;
   flex: 1;
@@ -15,12 +18,37 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   padding-right: 1em;
   padding-left: 1em;
 }
-.row, .col {
-  display: flex;
-}
 .main-footer {
-  padding: 2em 0;
+  .footer-row {
+    display: flex;
+    flex-wrap: wrap;
+    ul {
+      margin: 15px 30px;
+    }
+  }
+  padding: 1em 0;
   margin-top: 30px;
+  line-height: 1.667;
+  text-transform: uppercase;
+  h3 {
+    font-weight: 700;
+    color: $gold;
+  }
+  h4, a {
+    font-weight: 400;
+    color: $dark-brown;
+  }
+  li a {
+    font-size: 1.125em;
+  }
+  a:hover {
+    color: $color3;
+  }
+  .row {
+    width: 100%;
+    max-width: 100%;
+    justify-content: center;
+  }
 }
 /* =================================
   Page Elements
@@ -32,6 +60,10 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   background-position: top;
   color: white;
   text-transform: uppercase;
+  h1 {
+    position: absolute;
+    bottom: 20px;
+  }
 }
 /* =================================
   Media Queries
@@ -52,6 +84,13 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   .row {
     flex-wrap: wrap;
   }
+  .main-footer {
+    .footer-row {
+      flex-direction: row;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+  }
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
@@ -65,5 +104,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
-
+  .main-footer {
+    .footer-row {
+      justify-content: space-evenly;
+    }
+  }
 }
