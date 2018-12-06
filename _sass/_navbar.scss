@@ -27,14 +27,14 @@ nav {
   padding: 10px 15px;
   font-size: 1.25em;
   font-weight: 500;
-  color: $dark-brown;
+  color: $tertiary;
   text-transform: uppercase;
 }
 .social-icon-nav a {
-  color: $color1;
+  color: $primary;
 }
 .main-nav a:hover, .social-icon-nav a:hover {
-  color: $color3;
+  color: $warning;
 }
 .social-icon-nav, .nav-btn {
   display: flex;
@@ -47,12 +47,12 @@ nav {
 .nav-btn {
   font-size: 1.35em;
   font-weight: 700;
-  background-color: $color3;
+  background-color: $warning;
   display: block;
   width: 100%;
 }
 .nav-btn:hover {
-  background-color: $color1;
+  background-color: $primary;
 }
 .nav-link-toggle {
   align-self: flex-end;

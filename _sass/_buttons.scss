@@ -1,20 +1,74 @@
+@mixin button-bg($bg) {
+  background: $bg;
+  &:hover {
+    background:darken($bg,8%);
+    transition: all 0.3s ease;
+  }
+  &:active {
+    background:darken($bg,25%);
+  } 
+}
+@mixin button-inverse($bg) {
+  color: $bg;
+  background: white;
+  &:hover {
+    background:darken(white,8%);
+    transition: all 0.3s ease;
+  }
+  &:active {
+    background:darken(white,25%);
+  }
+}
 .btn {
   font-family: $font-accent;
+  font-size: 1.5em;
   color: white;
   text-align: center;
   display: inline-block;
   padding: .625em 1.25em;
+  text-transform: uppercase;
 }
 .btn-block {
   display: block;
   width: 100%;
 }
-.btn-orange {
-  background-color: $color3;
+.btn-primary {
+  @include button-bg($primary);
 }
-.btn-orange:hover {
-  background-color: $color1;
+.btn-primary-inverse {
+  @include button-inverse($primary);
 }
+.btn-secondary {
+  @include button-bg($secondary);
+}
+.btn-secondary-inverse {
+  @include button-inverse($secondary);
+}
+.btn-tertiary {
+  @include button-bg($tertiary);
+ }
+.btn-tertiary-inverse {
+  @include button-inverse($tertiary);
+}
+.btn-warning {
+  @include button-bg($warning);
+}
+.btn-warning-inverse {
+ @include button-inverse($warning); 
+}
+.btn-success {
+  @include button-bg($success);
+}
+.btn-success-inverse {
+  @include button-inverse($success);
+}
+.btn-info {
+  @include button-bg($info);
+}
+.btn-info-inverse {
+  @include button-inverse($info);
+}
+
 /* =================================
   Media Queries
 ==================================== */
@@ -30,6 +84,7 @@
   .btn {
     margin-top: auto;
     align-self: center;
+    font-size: 2.25em;
   }
 }
 // Large devices (desktops, 992px and up)

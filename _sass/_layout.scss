@@ -32,17 +32,17 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   text-transform: uppercase;
   h3 {
     font-weight: 700;
-    color: $gold;
+    color: $highlight;
   }
   h4, a {
     font-weight: 400;
-    color: $dark-brown;
+    color: $tertiary;
   }
   li a {
     font-size: 1.125em;
   }
   a:hover {
-    color: $color3;
+    color: $warning;
   }
   .row {
     width: 100%;
