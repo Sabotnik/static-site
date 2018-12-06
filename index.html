@@ -27,20 +27,47 @@ title: Home
 
 <div class="row">
 
-  <div class="primary col">
-    <h4>Dummy post 1</h4>
-    <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jícama salsify.</p>
-  </div>
+  {% for post in site.categories.health %}
+    
+    <div class="col">
+      <h4>Health</h4>
+        {% if post.url %}
+          <a href="{{ post.url }}">
+            <p>{{ post.title }}</p>
+          </a>
+          <img src="/images/post-images/{{ post.image }}" alt="{{ post.image_alt_text }}">
+        {% endif %}
+    </div>
+  
+  {% endfor %}
 
-  <div class="secondary col">
-    <h4>Dummy post 2</h4>
-    <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jícama salsify.</p>
-  </div>
+  {% for post in site.categories.education %}
+    
+    <div class="col">
+      <h4>Education</h4>
+        {% if post.url %}
+          <a href="{{ post.url }}">
+            <p>{{ post.title }}</p>
+          </a>
+          <img src="/images/post-images/{{ post.image }}" alt="{{ post.image_alt_text }}">
+        {% endif %}
+    </div>
+  
+  {% endfor %}
 
-  <div class="tertiary col">
-    <h4>Dummy post 3</h4>
-    <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jícama salsify.</p>
-  </div>
+  {% for post in site.categories.development %}
+    
+    <div class="col">
+      <h4>Economic Development</h4>
+        {% if post.url %}
+          <a href="{{ post.url }}">
+            <p>{{ post.title }}</p>
+          </a>
+          <img src="/images/post-images/{{ post.image }}" alt="{{ post.image_alt_text }}">
+        {% endif %}
+    </div>
+  
+  {% endfor %}
 
 </div>
 
