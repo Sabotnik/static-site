@@ -1,7 +1,7 @@
 /* =================================
   Base Layout Containers
 ==================================== */
-.row, .col {
+.row, .col, .full-width {
   display: flex;
 }
 .row {
@@ -10,6 +10,10 @@
   width: 90%;
   margin: 20px auto;
   padding: 10px 20px;
+}
+.full-width {
+  flex-wrap: wrap;
+  flex: 1;
 }
 /*as long as there is a 'row' class div in the body on the page,
 there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
@@ -64,6 +68,37 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     position: absolute;
     bottom: 20px;
   }
+}
+#about {
+  margin-top: -50px;
+  background-image: url('/images/teal-overlay.png');
+  background-size: cover;
+  background-position: top;
+  min-height: 960px;
+  padding-top: 100px;
+}
+#events {
+  background-image: url('/images/striped-rectangle.png');
+  background-size: cover;
+  background-position: top;
+  padding: 100px 0px;
+}
+#programs {
+  background-image: url('/images/people-in-field.jpg');
+  background-size: cover;
+  background-position: bottom;
+  min-height: 500px;
+}
+#shop {
+  background-color: $info;
+}
+#donate {
+  background-color: $warning;
+}
+#newsletter {
+  background-image: url('/images/horizon-gradient.jpg');
+  background-size: cover;
+  background-position: bottom;
 }
 /* =================================
   Media Queries
