@@ -122,9 +122,11 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   background-size: cover;
   background-position: top;
   padding: 100px 0px;
-  .row.col {
-    justify-content: center;
+  .event-info {
+    justify-content: space-between;
     align-items: flex-start;
+    padding-top: 0;
+    padding-bottom: 0;
   }
 }
 #programs {
@@ -141,7 +143,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   }
   h2 {
     background-color: $warning;
-    padding: 10px 20px;
+    padding: 20px 40px;
   }
   a {
     font-size: 1.5em;
