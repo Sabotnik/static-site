@@ -43,6 +43,12 @@ a {
 img {
   max-width: 100%;
 }
+.text-white {
+  color: white;
+}
+.font-accent {
+  font-family: $font-accent;
+}
 /* =================================
   Media Queries
 ==================================== */

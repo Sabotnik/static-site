@@ -33,6 +33,9 @@
   display: block;
   width: 100%;
 }
+.btn-centered {
+  justify-content: center;
+}
 .btn-primary {
   @include button-bg($primary);
 }
@@ -83,9 +86,8 @@
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
   .btn {
-    margin-top: auto;
-    align-self: center;
     font-size: 2.25em;
+    margin: 20px 0;
   }
 }
 // Large devices (desktops, 992px and up)
