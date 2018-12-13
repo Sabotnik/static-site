@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
+<div id="home-hero" class="hero">
   <div class="row">
   
     <h1 class="editable">Empowering the people of Tanzania</h1>
@@ -96,23 +96,7 @@ title: Home
   </div>
 </div>
 
-<div id="programs">
-  <div class="row">
-      <h2 class="text-white">What We Do</h2>
-  </div>
-  
-  <div class="row">
-    <div class="circle-success">
-      <span><a href="#" class="text-white">Health</a></span>
-    </div>
-    <div class="circle-secondary">
-      <span><a href="#" class="text-white">Economic Development</a></span>
-    </div>
-    <div class="circle-warning">
-      <span><a href="#" class="text-white">Education</a></span>
-    </div>
-  </div>
-</div>
+{% include program-highlight.html %}
 
 <div class="full-width text-white">
   <div id="shop" class="col">
@@ -130,15 +114,5 @@ title: Home
   </div>
 </div>
 
-<div id="newsletter">
-  
-    <h2>Sign Up for Our Newsletter</h2>
-    <form action="#">
-      <input type="text">First Name
-      <input type="text">Last Name
-      <input type="text">Email
-    </form>
-    <a href="#" class="btn btn-secondary">Submit</a>
-        
-</div>
+{% include newsletter.html %}
 
