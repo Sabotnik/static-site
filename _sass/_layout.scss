@@ -189,7 +189,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   }
 }
 /* =================================
-  Page Elements - Home and _includes
+  Page Elements - Programs
 ==================================== */
 #programs-hero {
   background-image: 
@@ -215,6 +215,19 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   padding-bottom: 50px;
   span {
     font-weight: 700;
+  }
+}
+.program-info {
+  padding-top: 100px;
+  padding-bottom: 50px;
+  h2 {
+    color: $highlight;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 40px;
+  }
+  p {
+    color: $tertiary;
   }
 }
 /* =================================
@@ -258,6 +271,14 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   #programs-hero {
     h1 {
       font-size: 5.625em;
+    }
+  }
+  .program-info {
+    h2 {
+      font-size: 1.875em;
+    }
+    p {
+      font-size: 1.5em;
     }
   }
 }

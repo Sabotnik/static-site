@@ -1,0 +1,5 @@
+---
+title: Safe Motherhood
+image_path:
+---
+Safe Motherhood for Maasai Women and Children was established in response to an urgent request by the Maasai community of Nadaruru, which had exceptionally high maternal mortality rates. In 2011, with significant local support, Empower Tanzania constructed a clinic building as the site for the provision of a safe motherhood program. Ten women were trained as birth attendants by Tanzanian faculty. Two of the birth attendants staff the clinic building daily and provide education to pregnant women and their newborns. Twice each month, a medical team for Gonja Lutheran Hospital comes to the village to provide maternal checkups, immunizations of children, and other health services to community members. A similar clinic staffed by 10 trained birth attendants was established in the Maasai community of Pangaro in 2012. Both clinics have had solar lighting systems installed and a latrine was built at Nadaruru in 2013—one is planned for Pangaro in 2016. (For the full Women and Children Operation Narrative for 2016, click HERE.)

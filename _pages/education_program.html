@@ -1,0 +1,17 @@
+---
+permalink: /programs/education/
+layout: program
+title: Education
+heading: Empower Tanzania believes that when you empower a woman, she changes her children and, ultimately, a whole village can be transformed. 
+subheading: That is why we focus the majority of our resources on educational programs that improve the lives of women and the most vulnerable children of society. Below are just a few examples of how we work.
+---
+{% for program in site.education_programs %}
+
+<div class="row">
+  <div class="col">
+    <h2>{{ program.title }}</h2>
+  </div>
+  <div class="col">{{ program.content }}</div>
+</div>
+
+{% endfor %}

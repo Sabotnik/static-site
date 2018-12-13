@@ -1,0 +1,5 @@
+---
+title: Community Health Alliance Program (CHAP)
+image_path:
+---
+The Community Health Alliance Program began in 2014 with the purpose of integrating 21 remote underserved Maasai villages with the formal health system to reduce the significant disease burden and high mortality rates in the communities. Thirty Maasai women were each selected by their village leaders and were trained as Community Health Workers (CHWs). These women provide timely life-saving treatments such as newborn resuscitation or control of post-partum hemorrhage, recognize when someone with an illness needs to be referred to a health facility, and treat minor wounds and injuries. The CHWs also provide preventive health education presentations to their fellow community members and in 2015 were given iPads preloaded with health education videos to facilitate these presentations. (Click HERE to read the Community-Hospital Operation Narrative for 2016.)

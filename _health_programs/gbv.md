@@ -1,0 +1,5 @@
+---
+title: Beyond Gender-Based Violence Program (GBV)
+image_path:
+---
+The Gender-Based Violence Program was developed to respond to the high levels of domestic violence in Tanzania. The program was designed to be culturally appropriate with the assistance of local counselors and women who choose to call themselves “survivors” rather than “victims.” The program has established 10 support groups each serving 10 women. The 100 survivors in the program receive twice-monthly group counseling and are preparing to embark on economic strengthening projects that will generate income, autonomy, and dignity. Improvement in depression and anxiety is being measured by instruments developed by psychologists and statisticians. (Read the GBV Operation Narrative HERE.) The women in this program are now called “Entrepreneurs” and have each been trained in solid business practices and are involved in the production and distribution of items such as batik fabric, liquid soap, and reusable menstrual pads. What was once a program of survival is now one of complete empowerment.
