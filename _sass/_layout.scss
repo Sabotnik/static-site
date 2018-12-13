@@ -87,6 +87,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 
   color: white;
   text-transform: uppercase;
+  .row {
+    justify-content: center;
+  }
   h1 {
     position: absolute;
     bottom: 20px;
@@ -194,7 +197,8 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
       to top,
       rgba(black, 0.9),
       rgba(black, 0)),
-    url('./../images/hero.jpg');
+    url('./../images/hero.jpg')
+  ;
 }
 #program-subheads {
   background: url('./../images/programs-purple-overlay.png');
@@ -203,6 +207,14 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   .row {
     padding-top: 100px;
     padding-bottom: 100px;
+  }
+}
+#programs-snippet {
+  font-size: 1.4em;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  span {
+    font-weight: 700;
   }
 }
 /* =================================
@@ -242,6 +254,11 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   #newsletter {
     padding-top: 100px;
     padding-bottom: 50px;
+  }
+  #programs-hero {
+    h1 {
+      font-size: 5.625em;
+    }
   }
 }
 // Large devices (desktops, 992px and up)
