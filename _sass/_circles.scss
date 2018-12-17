@@ -1,0 +1,92 @@
+@mixin circle-gradient-bg($bg, $size) {
+  background: rgba($bg, 0.85);
+  width: $size;
+  height: $size;
+  margin: .5em;
+  border-radius: 50%;
+}
+.circle-success {
+  @include circle-gradient-bg($success, 200px);
+}
+.circle-secondary {
+  @include circle-gradient-bg($secondary, 200px);
+}
+.circle-warning {
+  @include circle-gradient-bg($warning, 200px);
+}
+.lg-circle-succss {
+  @include circle-gradient-bg($success, 250px);
+}
+.lg-circle-secondary {
+  @include circle-gradient-bg($secondary, 250px);
+}
+.lg-circle-warning {
+  @include circle-gradient-bg($warning, 250px);
+}
+.lg-circle-info {
+  @include circle-gradient-bg($info, 250px);
+}
+.lg-circle-highlight {
+  @include circle-gradient-bg($highlight, 250px);
+}
+.inner-circle {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+  text-align: center;
+  h2 {
+    color: white;
+    font-size: 1.25em;
+  } 
+}
+/* =================================
+  Media Queries
+==================================== */
+/* Extra small devices (portrait phones, less than 576px)
+- No media query since this should be the default styles */
+
+//Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+
+}
+//Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .circle-success {
+    @include circle-gradient-bg($success, 300px);
+  }
+  .circle-secondary {
+    @include circle-gradient-bg($secondary, 300px);
+  }
+  .circle-warning {
+    @include circle-gradient-bg($warning, 300px);
+  }
+  .lg-circle-succss {
+    @include circle-gradient-bg($success, 350px);
+  }
+  .lg-circle-secondary {
+    @include circle-gradient-bg($secondary, 350px);
+  }
+  .lg-circle-warning {
+    @include circle-gradient-bg($warning, 350px);
+  }
+  .lg-circle-info {
+    @include circle-gradient-bg($info, 350px);
+  }
+  .lg-circle-highlight {
+    @include circle-gradient-bg($highlight, 350px);
+  }
+  .inner-circle {
+    h2 {
+      font-size: 1.875em;
+    }
+  }
+}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  
+}
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  
+}

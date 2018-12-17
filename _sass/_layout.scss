@@ -21,6 +21,12 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   flex-direction: column;
   padding-right: 1em;
   padding-left: 1em;
+  .one-third {
+    flex-grow: 0;
+  }
+  .two-thirds {
+    flex-grow: 2;
+  }
 }
 .main-footer {
   .footer-row {
@@ -53,29 +59,6 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     max-width: 100%;
     justify-content: center;
   }
-}
-@mixin circle-gradient-bg($bg) {
-  background: rgba($bg, 0.85);
-  width: 300px;
-  height: 300px;
-  margin: .5em;
-  border-radius: 50%;
-}
-.circle-success {
-  @include circle-gradient-bg($success);
-}
-.circle-secondary {
-  @include circle-gradient-bg($secondary);
-}
-.circle-warning {
-  @include circle-gradient-bg($warning);
-}
-.inner-circle {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 100%;
-  text-align: center;
 }
 /* =================================
   Page Elements - Home and _includes
@@ -230,6 +213,12 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     color: $tertiary;
   }
 }
+.odd {
+  background-color: #e5e3e3;
+}
+.even {
+  background-color: #f6f5f5;
+}
 /* =================================
   Media Queries
 ==================================== */
@@ -245,6 +234,12 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   .col {
     flex: 1 50%;
     flex-direction: column;
+  }
+  .one-third {
+    flex: 1 33%;
+  }
+  .two-thirds {
+    flex: 2 66%;
   }
   .row {
     flex-wrap: wrap;
@@ -281,12 +276,12 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
       font-size: 1.5em;
     }
   }
+  
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
   .row {
-    width: 80%;
-    max-width: 1150px;
+    width: 90%;
     }
     .col {
       flex-basis: 0;
