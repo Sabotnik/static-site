@@ -5,6 +5,14 @@
   margin: .5em;
   border-radius: 50%;
 }
+@mixin circle-gradient-overlay($bg, $size) {
+  background: url('./../images/program-circle-pattern.png'); 
+  background-color: $bg;
+  width: $size;
+  height: $size;
+  margin: .5em;
+  border-radius: 50%;
+}
 .circle-success {
   @include circle-gradient-bg($success, 200px);
 }
@@ -14,20 +22,20 @@
 .circle-warning {
   @include circle-gradient-bg($warning, 200px);
 }
-.lg-circle-succss {
-  @include circle-gradient-bg($success, 250px);
+.overlay-circle-success {
+  @include circle-gradient-overlay($success, 250px);
 }
-.lg-circle-secondary {
-  @include circle-gradient-bg($secondary, 250px);
+.overlay-circle-secondary {
+  @include circle-gradient-overlay($secondary, 250px);
 }
-.lg-circle-warning {
-  @include circle-gradient-bg($warning, 250px);
+.overlay-circle-warning {
+  @include circle-gradient-overlay($warning, 250px);
 }
-.lg-circle-info {
-  @include circle-gradient-bg($info, 250px);
+.overlay-circle-info {
+  @include circle-gradient-overlay($info, 250px);
 }
-.lg-circle-highlight {
-  @include circle-gradient-bg($highlight, 250px);
+.overlay-circle-highlight {
+  @include circle-gradient-overlay($highlight, 250px);
 }
 .inner-circle {
   display: flex;
@@ -61,20 +69,20 @@
   .circle-warning {
     @include circle-gradient-bg($warning, 300px);
   }
-  .lg-circle-succss {
-    @include circle-gradient-bg($success, 350px);
+  .overlay-circle-success {
+    @include circle-gradient-overlay($success, 350px);
   }
-  .lg-circle-secondary {
-    @include circle-gradient-bg($secondary, 350px);
+  .overlay-circle-secondary {
+    @include circle-gradient-overlay($secondary, 350px);
   }
-  .lg-circle-warning {
-    @include circle-gradient-bg($warning, 350px);
+  .overlay-circle-warning {
+    @include circle-gradient-overlay($warning, 350px);
   }
-  .lg-circle-info {
-    @include circle-gradient-bg($info, 350px);
+  .overlay-circle-info {
+    @include circle-gradient-overlay($info, 350px);
   }
-  .lg-circle-highlight {
-    @include circle-gradient-bg($highlight, 350px);
+  .overlay-circle-highlight {
+    @include circle-gradient-overlay($highlight, 350px);
   }
   .inner-circle {
     h2 {
