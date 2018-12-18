@@ -21,6 +21,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   flex-direction: column;
   padding-right: 1em;
   padding-left: 1em;
+  justify-content: center;
   .one-third {
     flex-grow: 0;
   }
@@ -63,28 +64,35 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 /* =================================
   Page Elements - Home and _includes
 ==================================== */
+@mixin hero-text-bg($bg) {
+  background: rgba($bg, 0.85);
+  padding: 20px 0;
+}
 .hero {
-  height: 85vh;
   background-size: cover;
   background-position: top;
 
   color: white;
   text-transform: uppercase;
-  .row {
-    justify-content: center;
-  }
-  h1 {
-    position: absolute;
-    bottom: 20px;
-  }
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  text-align: center;
+}
+.hero-text-success {
+  @include hero-text-bg($success);
 }
 #home-hero {
+  height: 80vh;
   background-image: 
     linear-gradient(
       to top,
       rgba(black, 0.9),
       rgba(black, 0)),
     url('./../images/hero.jpg');
+  .home-hero-text {
+    padding-bottom: 30px;
+  }
 }
 #about {
   background: 
@@ -175,6 +183,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   Page Elements - Programs
 ==================================== */
 #programs-hero {
+  height: 80vh;
   background-image: 
     linear-gradient(
       to top,
@@ -200,6 +209,16 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     font-weight: 700;
   }
 }
+#health-hero {
+  height: 77vh;
+  background-image: url('./../images/health-hero.jpg');
+}
+.blue-divider-pattern {
+  background-image: url('./../images/blue-divider-pattern.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 50% -5px;
+}
 .program-info {
   padding-top: 100px;
   padding-bottom: 50px;
@@ -212,6 +231,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   p {
     color: $tertiary;
   }
+  
 }
 .odd {
   background-color: #e5e3e3;
