@@ -82,6 +82,12 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 .hero-text-success {
   @include hero-text-bg($success);
 }
+.hero-text-secondary {
+  @include hero-text-bg($secondary);
+}
+.hero-text-warning {
+  @include hero-text-bg($warning);
+}
 #home-hero {
   height: 80vh;
   background-image: 
@@ -215,6 +221,26 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 }
 .blue-divider-pattern {
   background-image: url('./../images/blue-divider-pattern.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 50% -5px;
+}
+#development-hero {
+  height: 77vh;
+  background-image: url('./../images/health-hero.jpg');
+}
+.orange-divider-pattern {
+  background-image: url('./../images/orange-divider-pattern.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 50% -5px;
+}
+#education-hero {
+  height: 77vh;
+  background-image: url('./../images/health-hero.jpg');
+}
+.teal-divider-pattern {
+  background-image: url('./../images/teal-divider-pattern.png');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 50% -5px;

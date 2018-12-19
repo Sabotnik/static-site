@@ -5,13 +5,30 @@ title: Education
 heading: Empower Tanzania believes that when you empower a woman, she changes her children and, ultimately, a whole village can be transformed. 
 subheading: That is why we focus the majority of our resources on educational programs that improve the lives of women and the most vulnerable children of society. Below are just a few examples of how we work.
 ---
-{% for program in site.education_programs %}
-
-<div class="row">
-  <div class="col">
-    <h2>{{ program.title }}</h2>
+<div id="education-hero" class="hero">
+  <div class="hero-text-warning">
+    <h1>{{ page.title }}</h1>
   </div>
-  <div class="col">{{ program.content }}</div>
 </div>
-
+<div class="orange-divider-pattern">
+  <div class="row program-info">
+    <h2>{{ page.heading }}</h2>
+    <p>{{ page.subheading }}</p>
+  </div>
+</div>
+{% for program in site.education_programs %}
+  <div class="{% cycle 'odd', 'even' %}">
+    <div class="row">
+      <div class="col one-third">
+          <div class="overlay-circle-{% cycle 'secondary', 'success', 'warning', 'highlight', 'info' %}">
+              <div class="inner-circle">
+                  <h2>{{ program.title }}</h2>
+              </div>
+            </div>
+      </div>
+      <div class="col two-thirds">
+        {{ program.content }}
+      </div>
+    </div>
+  </div>
 {% endfor %}

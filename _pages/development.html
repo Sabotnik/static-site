@@ -5,14 +5,30 @@ title: Economic Development
 heading: Economic empowerment looks different in every community, and tends to be woven into nearly every project.
 subheading: Current focus areas include farming as a family income source, livestock and horticulture, community-based alternative education programs, irrigation, infrastructure, and access to clean water. Here are a few examples of how we work
 ---
-
-{% for program in site.development_programs %}
-
-<div class="row">
-  <div class="col">
-    <h2>{{ program.title }}</h2>
+<div id="development-hero" class="hero">
+  <div class="hero-text-secondary">
+    <h1>{{ page.title }}</h1>
   </div>
-  <div class="col">{{ program.content }}</div>
 </div>
-
+<div class="teal-divider-pattern">
+  <div class="row program-info">
+    <h2>{{ page.heading }}</h2>
+    <p>{{ page.subheading }}</p>
+  </div>
+</div>
+{% for program in site.development_programs %}
+  <div class="{% cycle 'odd', 'even' %}">
+    <div class="row">
+      <div class="col one-third">
+          <div class="overlay-circle-{% cycle 'secondary', 'success', 'warning', 'highlight', 'info' %}">
+              <div class="inner-circle">
+                  <h2>{{ program.title }}</h2>
+              </div>
+            </div>
+      </div>
+      <div class="col two-thirds">
+        {{ program.content }}
+      </div>
+    </div>
+  </div>
 {% endfor %}
