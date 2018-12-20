@@ -32,3 +32,25 @@ subheading: Current focus areas include farming as a family income source, lives
     </div>
   </div>
 {% endfor %}
+
+<div class="row">
+
+  {% for post in site.categories.development limit:3 %}
+    <div class="col">
+      <h4>Education</h4>
+        {% if post.url %}
+          <a href="{{ post.url }}">
+            <p>{{ post.title }}</p>
+          </a>
+          {% if post.image %}
+            <img src="{{ site.baseurl }}/assets/images/post-images/{{ post.image }}" alt="{{ post.image_alt_text }}">
+          {% endif %}
+        {% endif %}
+    </div>
+  {% endfor %}
+
+</div>
+
+<div class="row btn-centered">
+  <a class="btn btn-tertiary" href="{{ site.baseurl }}/news/">See all posts</a>
+</div>

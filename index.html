@@ -30,7 +30,7 @@ title: Home
 
 <div class="row">
 
-  {% for post in site.categories.health %}
+  {% for post in site.categories.health limit:1 %}
     
     <div class="col">
       <h4>Health</h4>
@@ -44,7 +44,7 @@ title: Home
   
   {% endfor %}
 
-  {% for post in site.categories.education %}
+  {% for post in site.categories.education limit:1 %}
     
     <div class="col">
       <h4>Education</h4>
@@ -58,7 +58,7 @@ title: Home
   
   {% endfor %}
 
-  {% for post in site.categories.development %}
+  {% for post in site.categories.development limit:1 %}
     
     <div class="col">
       <h4>Economic Development</h4>
@@ -75,7 +75,7 @@ title: Home
 </div>
 
 <div class="row btn-centered">
-  <a class="btn btn-tertiary" href="#">See all blog posts</a>
+  <a class="btn btn-tertiary" href="#">See all posts</a>
 </div>
 
 <div id="events">
