@@ -61,11 +61,46 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     justify-content: center;
   }
 }
+.preview {
+  padding: 0;
+  width: 350px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  img {
+    background-size: cover;
+    background-position: center;
+  }
+  h4 {
+    text-transform: uppercase;
+  }
+  a {
+    color: white;
+  }
+}
+.preview-full-bg {
+  padding: 0;
+  width: 350px;
+  height: 350px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  h4 {
+    text-transform: uppercase;
+  }
+  a {
+    color: white;
+  }
+}
 /* =================================
   Page Elements - Home and _includes
 ==================================== */
+@mixin transparent-bg($bg, $percent) {
+  background: rgba($bg, $percent);
+}
 @mixin hero-text-bg($bg) {
-  background: rgba($bg, 0.85);
+  @include transparent-bg($bg, 0.85);
   padding: 20px 0;
 }
 .hero {
@@ -87,6 +122,26 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 }
 .hero-text-warning {
   @include hero-text-bg($warning);
+}
+.bg-health {
+  @include transparent-bg($success, 0.9);
+  padding: 15px;
+  line-height: 2;
+}
+.bg-development {
+  @include transparent-bg($secondary, 0.9);
+  padding: 15px;
+  line-height: 2;
+}
+.bg-education {
+  @include transparent-bg($warning, 0.9);
+  padding: 15px;
+  line-height: 2;
+}
+.bg-event {
+  @include transparent-bg($highlight, 0.9);
+  padding: 15px;
+  line-height: 2;
 }
 #home-hero {
   height: 80vh;
