@@ -3,7 +3,7 @@
 
       {% if post.image %}
 
-        <div class="preview" style="background: url({{site.baseurl}}/assets/images/post-images/{{ post.image }});">
+        <div class="preview {{ categories }}" style="background: url({{site.baseurl}}/assets/images/post-images/{{ post.image }});">
           <div class="bg-{{ categories.first }} text-white">
             <h4>{{ categories }}</h4>
             <a href="{{ post.url }}">
@@ -14,7 +14,7 @@
 
       {% else %}
 
-        <div class="preview-full-bg bg-{{ categories.first }}">
+        <div class="preview-full-bg bg-{{ categories.first }} {{ categories }}">
           <div class="text-white">
             <h4>{{ categories }}</h4>
             <a href="{{ post.url }}">
