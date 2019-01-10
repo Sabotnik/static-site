@@ -11,6 +11,9 @@ title: News
   <button data-filter=".events">events</button>
 </div>
 
+<div id="outer-grid">
+
+
 <div class="grid" data-isotope='{ "itemSelector": ".grid-item", "layoutMode": "fitRows" }'>
 
   {% for post in site.posts %}
@@ -42,6 +45,8 @@ title: News
     {% endif %}
 
   {% endfor %}
+
+</div>
 
 </div>
 

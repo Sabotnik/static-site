@@ -322,6 +322,17 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   background-color: #f6f5f5;
 }
 /* =================================
+  Page elements - News & Events
+==================================== */
+#outer-grid {
+  display: flex;
+  justify-content: center;
+}
+.grid {
+  width: 95%;
+}
+
+/* =================================
   Media Queries
 ==================================== */
 /* Extra small devices (portrait phones, less than 576px)
@@ -329,7 +340,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 
 //Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
-
+  .grid {
+    width: 350px;
+  }
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
@@ -378,7 +391,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
       font-size: 1.5em;
     }
   }
-  
+  .grid {
+    width: 700px;
+  }
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
@@ -389,6 +404,11 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
       flex-basis: 0;
     }
 }
+@media (min-width: 1050px) {
+  .grid {
+    width: 1050px;
+  }
+}
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .main-footer {
@@ -396,4 +416,15 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
       justify-content: space-evenly;
     }
   }
+  
+}
+@media (min-width: 1400px) {
+  .grid {
+    width: 1400px;
+  }
+}
+@media (min-width: 1750px) {
+  .grid {
+    width: 1750px;
+  } 
 }
