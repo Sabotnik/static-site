@@ -63,8 +63,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 }
 .preview {
   padding: 0;
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
+  margin: 10px 10px;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -81,8 +82,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 }
 .preview-full-bg {
   padding: 0;
-  width: 350px;
-  height: 350px;
+  width: 300px;
+  height: 300px;
+  margin: 10px 10px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -327,9 +329,10 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 #outer-grid, #outer-button-group {
   display: flex;
   justify-content: center;
+  margin-bottom: 15px;
 }
 .grid, .button-group {
-  width: 95%;
+  width: 90%;
 }
 
 /* =================================
@@ -341,7 +344,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 //Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
   .grid {
-    width: 350px;
+    width: 320px;
   }
 }
 //Medium devices (tablets, 768px and up)
@@ -392,7 +395,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     }
   }
   .grid {
-    width: 700px;
+    width: 640px;
   }
 }
 // Large devices (desktops, 992px and up)
@@ -406,7 +409,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 }
 @media (min-width: 1050px) {
   .grid {
-    width: 1050px;
+    width: 960px;
   }
 }
 // Extra large devices (large desktops, 1200px and up)
@@ -420,11 +423,11 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 }
 @media (min-width: 1400px) {
   .grid {
-    width: 1400px;
+    width: 1280px;
   }
 }
 @media (min-width: 1750px) {
-  .grid {
-    width: 1750px;
+  .grid, .button-group {
+    width: 1600px;
   } 
 }
