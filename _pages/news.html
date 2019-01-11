@@ -4,11 +4,11 @@ layout: default
 title: News
 ---
 <div class="button-group filter-button-group">
-  <button data-filter="*">show all</button>
-  <button data-filter=".health">health</button>
-  <button data-filter=".development">development</button>
-  <button data-filter=".education">education</button>
-  <button data-filter=".events">events</button>
+  <button data-filter="*" class="button is-checked">show all</button>
+  <button data-filter=".health" class="button">health</button>
+  <button data-filter=".development" class="button">development</button>
+  <button data-filter=".education" class="button">education</button>
+  <button data-filter=".events" class="button">events</button>
 </div>
 
 <div id="outer-grid">
@@ -61,5 +61,13 @@ title: News
   $('.filter-button-group').on( 'click', 'button', function() {
     var filterValue = $(this).attr('data-filter');
     $grid.isotope({ filter: filterValue });
+  });
+  // change is-checked class on buttons
+  $('.button-group').each( function( i, buttonGroup ) {
+    var $buttonGroup = $( buttonGroup );
+    $buttonGroup.on( 'click', 'button', function() {
+      $buttonGroup.find('.is-checked').removeClass('is-checked');
+      $( this ).addClass('is-checked');
+    });
   });
 </script>
