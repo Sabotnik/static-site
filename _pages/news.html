@@ -3,50 +3,51 @@ permalink: /news/
 layout: default
 title: News
 ---
-<div class="button-group filter-button-group">
-  <button data-filter="*" class="button is-checked">show all</button>
-  <button data-filter=".health" class="button">health</button>
-  <button data-filter=".development" class="button">development</button>
-  <button data-filter=".education" class="button">education</button>
-  <button data-filter=".events" class="button">events</button>
+<div id="outer-button-group">
+  <div class="button-group filter-button-group">
+    <button data-filter="*" class="button is-checked">show all</button>
+    <button data-filter=".health" class="button">health</button>
+    <button data-filter=".development" class="button">development</button>
+    <button data-filter=".education" class="button">education</button>
+    <button data-filter=".events" class="button">events</button>
+  </div>
 </div>
 
 <div id="outer-grid">
 
+  <div class="grid" data-isotope='{ "itemSelector": ".grid-item", "layoutMode": "fitRows" }'>
 
-<div class="grid" data-isotope='{ "itemSelector": ".grid-item", "layoutMode": "fitRows" }'>
+    {% for post in site.posts %}
 
-  {% for post in site.posts %}
+    {% assign categories = post.categories %}
 
-  {% assign categories = post.categories %}
+      {% if post.image %}
 
-    {% if post.image %}
-
-      <div class="grid-item preview {{ categories }}" style="background: url({{site.baseurl}}/assets/images/post-images/{{ post.image }});">
-        <div class="bg-{{ categories.first }} text-white">
-          <h4>{{ categories }}</h4>
-          <a href="{{ post.url }}">
-            {{ post.title | truncatewords: 5 }}
-          </a>
+        <div class="grid-item preview {{ categories }}" style="background: url({{site.baseurl}}/assets/images/post-images/{{ post.image }});">
+          <div class="bg-{{ categories.first }} text-white">
+            <h4>{{ categories }}</h4>
+            <a href="{{ post.url }}">
+              {{ post.title | truncatewords: 5 }}
+            </a>
+          </div>
         </div>
-      </div>
 
-    {% else %}
+      {% else %}
 
-      <div class="grid-item preview-full-bg bg-{{ categories.first }} {{ categories }}">
-        <div class="text-white">
-          <h4>{{ categories }}</h4>
-          <a href="{{ post.url }}">
-            {{ post.title }}
-          </a>
+        <div class="grid-item preview-full-bg bg-{{ categories.first }} {{ categories }}">
+          <div class="text-white">
+            <h4>{{ categories }}</h4>
+            <a href="{{ post.url }}">
+              {{ post.title }}
+            </a>
+          </div>
         </div>
-      </div>
 
-    {% endif %}
+      {% endif %}
 
-  {% endfor %}
+    {% endfor %}
 
-</div>
+  </div>
 
 </div>
 

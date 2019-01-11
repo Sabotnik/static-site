@@ -324,11 +324,11 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
 /* =================================
   Page elements - News & Events
 ==================================== */
-#outer-grid {
+#outer-grid, #outer-button-group {
   display: flex;
   justify-content: center;
 }
-.grid {
+.grid, .button-group {
   width: 95%;
 }
 
