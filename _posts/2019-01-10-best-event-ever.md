@@ -2,9 +2,13 @@
 layout:
 title: "Best.Event.Ever"
 categories: [event]
+eventdate: 2019-01-21
+eventtime: 1:00pm
+location: 2904 Sunburst Ct Bettendorf
+image: birthday.jpg
 ---
 
-Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jícama salsify.
+This birthday will be the best ever, obviously. This is an example event. Let us know if you are going to be there by shooting a flare up in the air and yelling loudly.
 
 Celery quandong swiss chard chicory earthnut pea potato. Salsify taro catsear garlic gram celery bitterleaf wattle seed collard greens nori. Grape wattle seed kombu beetroot horseradish carrot squash brussels sprout chard.
 
