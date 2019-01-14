@@ -4,7 +4,5 @@
   name: Programs
 - link: /join/
   name: Join Us
-- link: /events/
-  name: Events
-- link: /news/
-  name: News
+- link: /news&events/
+  name: News & Events
