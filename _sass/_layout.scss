@@ -182,6 +182,10 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     padding-top: 0;
     padding-bottom: 0;
   }
+  img {
+    width: 300px;
+    margin-bottom: 20px;
+  }
 }
 #programs {
   background-image: url('./../images/people-in-field.jpg');
@@ -403,9 +407,12 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   .row {
     width: 90%;
     }
-    .col {
-      flex-basis: 0;
-    }
+  .col {
+    flex-basis: 0;
+  }
+  #events img {
+    width: 400px;
+  }
 }
 @media (min-width: 1050px) {
   .grid {
@@ -419,7 +426,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
       justify-content: space-evenly;
     }
   }
-  
+  #events img {
+    width: 450px;
+  }
 }
 @media (min-width: 1400px) {
   .grid {
@@ -430,4 +439,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   .grid, .button-group {
     width: 1600px;
   } 
+  #events img {
+    width: 90%;
+  }
 }
