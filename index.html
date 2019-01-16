@@ -4,10 +4,12 @@ title: Home
 ---
 
 <div id="home-hero" class="hero">
+  <video playsinline autoplay muted loop poster="./assets/images/jumping_frame.jpg" id="bgvid">
+    <source src="./assets/video/jumping.webm" type="video/webm">
+    <source src="./assets/video/jumping.mp4" type="video/mp4">
+  </video>
   <div class="home-hero-text">
-  
     <h1>Empowering the people of Tanzania</h1>
-  
   </div>
 </div>
 
@@ -50,10 +52,9 @@ title: Home
     {% endfor %}
   
   </div>
-</div>
-
-<div class="row btn-centered">
-  <a class="btn btn-tertiary" href="#">See all posts</a>
+  <div class="row btn-centered">
+    <a class="btn btn-tertiary" href="#">See all posts</a>
+  </div>
 </div>
 
 <div id="events">

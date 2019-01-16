@@ -30,6 +30,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   }
 }
 .main-footer {
+  background-color: white;
   .footer-row {
     display: flex;
     flex-wrap: wrap;
@@ -38,7 +39,6 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     }
   }
   padding: 1em 0;
-  margin-top: 30px;
   line-height: 1.667;
   text-transform: uppercase;
   h3 {
@@ -95,7 +95,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     color: white;
   }
 }
-
+header {
+  background-color: white;
+}
 /* =================================
   Page Elements - Home and _includes
 ==================================== */
@@ -114,8 +116,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   text-transform: uppercase;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
+  justify-content: center;
   text-align: center;
+  padding: 0 15px;
 }
 .hero-text-success {
   @include hero-text-bg($success);
@@ -152,14 +155,32 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     linear-gradient(
       to top,
       rgba(black, 0.9),
-      rgba(black, 0)),
-    url('./../images/hero.jpg');
-  background-size: 100%, cover;
-  background-repeat: no-repeat, no-repeat;
-  background-position: center, 50% center;
+      rgba(black, 0));
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
   .home-hero-text {
     padding-bottom: 30px;
   }
+}
+video { 
+  display: block;
+}
+video#bgvid { 
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width: auto;
+  height: auto;
+  z-index: -100;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+  background: url('./../images/jumping_frame.jpg') no-repeat;
+  background-size: cover; 
 }
 #about {
   background: 
@@ -178,8 +199,11 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   }
 }
 #post-preview {
+  background-color: white;
 }
+
 #events {
+  background-color: white;
   background-image: url('./../images/striped-rectangle.png');
   background-size: cover;
   background-position: top;
@@ -411,6 +435,15 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   }
  
 }
+@media screen and (max-device-width: 800px) {
+// Switch off hero video on small screens
+  html {
+    background: url('./../images/jumping_frame.jpg') #000 no-repeat center center fixed;
+  }
+  #bgvid {
+    display: none;
+  }
+}
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
   .row {
@@ -434,6 +467,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     .footer-row {
       justify-content: space-evenly;
     }
+  }
+  .hero {
+    justify-content: flex-end;
   }
   #events img {
     width: 450px;
