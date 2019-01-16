@@ -7,7 +7,7 @@
 .row {
   flex-wrap: wrap;
   flex: 1;
-  width: 90%;
+  width: 100%;
   margin: 20px auto;
   padding: 10px 20px;
 }
@@ -95,6 +95,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
     color: white;
   }
 }
+
 /* =================================
   Page Elements - Home and _includes
 ==================================== */
@@ -153,6 +154,9 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
       rgba(black, 0.9),
       rgba(black, 0)),
     url('./../images/hero.jpg');
+  background-size: 100%, cover;
+  background-repeat: no-repeat, no-repeat;
+  background-position: center, 50% center;
   .home-hero-text {
     padding-bottom: 30px;
   }
@@ -169,7 +173,11 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   background-position: center, 50% center;
   
   padding: 50px 0;
-
+  figure {
+    margin-top: 15px;
+  }
+}
+#post-preview {
 }
 #events {
   background-image: url('./../images/striped-rectangle.png');
@@ -401,6 +409,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   .grid {
     width: 640px;
   }
+ 
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {

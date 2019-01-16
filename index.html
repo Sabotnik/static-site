@@ -21,33 +21,35 @@ title: Home
       <a class="btn btn-secondary-inverse" href="#">About Us</a>
     </div>
   
-    <div class="col editable">
-      <img src="./assets/images/video-placeholder.png" alt="video placeholder image">
-    </div>
+    <figure class="col">
+      <iframe width="560" height="315" src="//www.youtube.com/embed/GJKkj9bHfzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </figure>
   
   </div>
 </div>
 
-<div class="row">
+<div id="post-preview">
+  <div class="row">
 
-  {% for post in site.categories.health limit:1 %}
+    {% for post in site.categories.health limit:1 %}
+      
+      {% include post-preview.html %}
     
-    {% include post-preview.html %}
+    {% endfor %}
   
-  {% endfor %}
-
-  {% for post in site.categories.education limit:1 %}
+    {% for post in site.categories.education limit:1 %}
+      
+      {% include post-preview.html %}
     
-    {% include post-preview.html %}
+    {% endfor %}
   
-  {% endfor %}
-
-  {% for post in site.categories.development limit:1 %}
+    {% for post in site.categories.development limit:1 %}
+      
+      {% include post-preview.html %}
     
-    {% include post-preview.html %}
+    {% endfor %}
   
-  {% endfor %}
-
+  </div>
 </div>
 
 <div class="row btn-centered">
