@@ -70,7 +70,7 @@ title: Home
     <div class="col text-white event-info">
       <h2>{{ post.title }}</h2>
       <h3>{{ post.eventdate | date_to_long_string }} | {{ post.eventtime }} | {{ post.location }}</h3>
-      <p>{{ post.content | truncatewords: 15, '...' }}</p>
+      <p>{{ post.content | truncatewords: 35, '...' }}</p>
   
       <a class="btn btn-primary-inverse" href="{{ post.url }}">Learn more</a>
     </div>

@@ -65,7 +65,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   padding: 0;
   width: 300px;
   height: 300px;
-  margin: 10px 10px;
+  margin: 10px 0;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -84,7 +84,7 @@ there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
   padding: 0;
   width: 300px;
   height: 300px;
-  margin: 10px 10px;
+  margin: 10px 0;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -110,15 +110,14 @@ header {
 }
 .hero {
   background-size: cover;
-  background-position: top;
-
+  background-position: center;
+  height: calc(100vh - 249px);
   color: white;
   text-transform: uppercase;
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: flex-end;
   text-align: center;
-  padding: 0 15px;
 }
 .hero-text-success {
   @include hero-text-bg($success);
@@ -150,7 +149,6 @@ header {
   line-height: 2;
 }
 #home-hero {
-  height: 80vh;
   background-image: 
     linear-gradient(
       to top,
@@ -159,6 +157,7 @@ header {
   background-size: 100%;
   background-repeat: no-repeat;
   background-position: center;
+  padding: 0 15px;
   .home-hero-text {
     padding-bottom: 30px;
   }
@@ -200,6 +199,9 @@ video#bgvid {
 }
 #post-preview {
   background-color: white;
+  div.col {
+    align-items: center;
+  }
 }
 
 #events {
@@ -207,7 +209,7 @@ video#bgvid {
   background-image: url('./../images/striped-rectangle.png');
   background-size: cover;
   background-position: top;
-  padding: 100px 0px;
+  padding-top: 90px;
   .event-info {
     justify-content: space-between;
     align-items: flex-start;
@@ -283,7 +285,6 @@ video#bgvid {
   Page Elements - Programs
 ==================================== */
 #programs-hero {
-  height: 80vh;
   background-image: 
     linear-gradient(
       to top,
@@ -310,7 +311,6 @@ video#bgvid {
   }
 }
 #health-hero {
-  height: 77vh;
   background-image: url('./../images/health-hero.jpg');
 }
 .blue-divider-pattern {
@@ -320,8 +320,7 @@ video#bgvid {
   background-position: 50% -5px;
 }
 #development-hero {
-  height: 77vh;
-  background-image: url('./../images/health-hero.jpg');
+  background-image: url('./../images/development.jpg');
 }
 .orange-divider-pattern {
   background-image: url('./../images/orange-divider-pattern.png');
@@ -330,8 +329,7 @@ video#bgvid {
   background-position: 50% -5px;
 }
 #education-hero {
-  height: 77vh;
-  background-image: url('./../images/health-hero.jpg');
+  background-image: url('./../images/education.jpg');
 }
 .teal-divider-pattern {
   background-image: url('./../images/teal-divider-pattern.png');
@@ -381,6 +379,9 @@ video#bgvid {
 @media (min-width: 576px) {
   .grid {
     width: 320px;
+  }
+  .preview, .preview-full-bg {
+    margin: 10px 10px;
   }
 }
 //Medium devices (tablets, 768px and up)
@@ -469,7 +470,7 @@ video#bgvid {
     }
   }
   .hero {
-    justify-content: flex-end;
+    height: calc(100vh - 181px);
   }
   #events img {
     width: 450px;
