@@ -112,12 +112,15 @@ header {
   background-size: cover;
   background-position: center;
   height: calc(100vh - 249px);
-  color: white;
-  text-transform: uppercase;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
   text-align: center;
+}
+.hero-text {
+  padding-bottom: 30px;
+  color: white;
+  text-transform: uppercase;
 }
 .hero-text-success {
   @include hero-text-bg($success);
@@ -158,9 +161,6 @@ header {
   background-repeat: no-repeat;
   background-position: center;
   padding: 0 15px;
-  .home-hero-text {
-    padding-bottom: 30px;
-  }
 }
 video { 
   display: block;
