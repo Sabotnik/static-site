@@ -1,0 +1,22 @@
+@mixin transparent-bg($bg, $percent) {
+  background: rgba($bg, $percent);
+}
+@mixin hero-text-bg($bg) {
+  @include transparent-bg($bg, 0.85);
+  padding: 20px 0;
+}
+@mixin circle-gradient-bg($bg, $size) {
+  background: rgba($bg, 0.85);
+  width: $size;
+  height: $size;
+  margin: .5em;
+  border-radius: 50%;
+}
+@mixin circle-gradient-overlay($bg, $size) {
+  background: url('./../images/program-circle-pattern.png'); 
+  background-color: $bg;
+  width: $size;
+  height: $size;
+  margin: .5em;
+  border-radius: 50%;
+}

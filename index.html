@@ -13,14 +13,14 @@ title: Home
   </div>
 </div>
 
-<div id="about">
+<div id="home-about">
 
   <div class="row">
 
     <div class="col editable text-white">
       <p>Empower Tanzania works in partnership with rural Tanzanians to improve their quality of life. We address the underlying issues that hinder resiliency in rural areas, such as health care, education, agriculture practices, markets for products, and increasing water supply and quality.</p>
       <p>Finding answers to rural development challenges requires working together with communities to create a vision and a long-term commitment beyond the life of a project. Empower Tanzania pursues this approach through all we do.</p>
-      <a class="btn btn-secondary-inverse" href="#">About Us</a>
+      <a class="btn btn-secondary-inverse" href="{{ site.baseurl }}/about/">About Us</a>
     </div>
   
     <figure class="col">
@@ -53,11 +53,11 @@ title: Home
   
   </div>
   <div class="row btn-centered">
-    <a class="btn btn-tertiary" href="#">See all posts</a>
+    <a class="btn btn-tertiary" href="{{ site.baseurl }}/news&events/">See all posts</a>
   </div>
 </div>
 
-<div id="events">
+<div id="event-highlight">
   <div class="row">
     {% for post in site.categories.event limit:1 %}
 
@@ -84,7 +84,7 @@ title: Home
   <div id="shop" class="col">
     <h2 class="font-accent">Shop</h2>
     <p>Some text about shopping online here</p>
-    <a class="btn btn-info-inverse" href="#">Shop Now</a>
+    <a class="btn btn-info-inverse" href="https://squareup.com/store/empower-tanzania">Shop Now</a>
   </div>
   <div id="donate" class="col">
     <h2 class="font-accent">Donate</h2>

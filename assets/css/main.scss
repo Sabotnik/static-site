@@ -18,7 +18,13 @@ $font-accent: 'Amatic SC', cursive;
 
 // Imports of Sass files
 @import "base";
-@import "layout";
-@import "circles";
+@import "mixins";
+@import "responsive";
 @import "buttons";
 @import "navbar";
+@import "footer";
+@import "circles";
+@import "posts";
+@import "pages";
+@import "video";
+@import "custom";

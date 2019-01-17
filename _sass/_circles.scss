@@ -1,18 +1,3 @@
-@mixin circle-gradient-bg($bg, $size) {
-  background: rgba($bg, 0.85);
-  width: $size;
-  height: $size;
-  margin: .5em;
-  border-radius: 50%;
-}
-@mixin circle-gradient-overlay($bg, $size) {
-  background: url('./../images/program-circle-pattern.png'); 
-  background-color: $bg;
-  width: $size;
-  height: $size;
-  margin: .5em;
-  border-radius: 50%;
-}
 .circle-success {
   @include circle-gradient-bg($success, 200px);
 }
@@ -48,6 +33,11 @@
     font-size: 1.25em;
   } 
 }
+#circle-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 /* =================================
   Media Queries
 ==================================== */
@@ -60,7 +50,10 @@
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-  
+  #circle-row {
+    flex-direction: row;
+    justify-content: space-around;
+  }
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {

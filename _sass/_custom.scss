@@ -1,0 +1,50 @@
+#shop, #donate {
+  align-items: center;
+  padding: 30px 0px;
+  width: 100%;
+  h2 {
+    margin-bottom: 20px;
+  }
+  .two-button-line {
+    a {
+      margin: 0 10px;
+    }
+  }
+}
+#shop {
+  background-color: $info;
+}
+#donate {
+  background-color: $warning;
+}
+/* =================================
+  Media Queries
+==================================== */
+/* Extra small devices (portrait phones, less than 576px)
+- No media query since this should be the default styles */
+
+//Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+  
+}
+//Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  
+}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  
+}
+@media (min-width: 1050px) {
+  
+}
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  
+}
+@media (min-width: 1400px) {
+  
+}
+@media (min-width: 1750px) {
+ 
+}
