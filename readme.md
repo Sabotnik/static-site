@@ -10,7 +10,7 @@
 ## Style sheets
 **_main.scss** *(main.css by Jekyll default)* contains variables, fonts and import order of other stylesheets.
 
-###Import order and simple description of each sheet:
+### Import order and simple description of each sheet:
 1. _base.scss *HTML elements starting point font sizes*
 2. _mixins.scss *SASS mixins used throughout sites*
 3. _responsive.scss *.col, .row and other Flexbox basic elements to use*
@@ -26,7 +26,7 @@
 ## Javascript files
 Imports are split between **_includes/head.html** and **_layouts/default.hmtl**
 
-###External libraries and scripts:
+### External libraries and scripts:
 1. jQuery
 2. Font Awesome
 3. Lightbox (if needed)
@@ -35,6 +35,6 @@ Imports are split between **_includes/head.html** and **_layouts/default.hmtl**
 6. reCaptcha (if site has a form)
 7. Isotope (Masonry variant)
 
-###Current list with description of each custom .js file:
+### Current list with description of each custom .js file:
 1. navbar.js *navbar toggle for mobile screen*
 2. video.js *responsive sizing for embedding iframes from Vimeo and YouTube*
