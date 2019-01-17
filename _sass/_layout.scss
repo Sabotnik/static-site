@@ -226,6 +226,7 @@ video#bgvid {
   background-size: cover;
   background-position: bottom;
   text-transform: uppercase;
+  min-height: 80vh;
   .row {
     margin-top: 0;
     padding-top: 0;
@@ -238,6 +239,11 @@ video#bgvid {
   a {
     font-size: 1.5em;
   }
+}
+#circle-row {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 #shop, #donate {
   align-items: center;
@@ -410,6 +416,10 @@ video#bgvid {
     .btn {
       align-self: flex-start;
     }
+  }
+  #circle-row {
+    flex-direction: row;
+    justify-content: space-around;
   }
   #programs a {
     font-size: 2.25em;

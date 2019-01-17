@@ -60,6 +60,10 @@
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
+  
+}
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
   .circle-success {
     @include circle-gradient-bg($success, 300px);
   }
@@ -90,11 +94,34 @@
     }
   }
 }
-// Large devices (desktops, 992px and up)
-@media (min-width: 992px) {
-  
-}
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   
+}
+
+@media (min-width: 1600px) {
+  .circle-success {
+    @include circle-gradient-bg($success, 350px);
+  }
+  .circle-secondary {
+    @include circle-gradient-bg($secondary, 350px);
+  }
+  .circle-warning {
+    @include circle-gradient-bg($warning, 350px);
+  }
+  .overlay-circle-success {
+    @include circle-gradient-overlay($success, 400px);
+  }
+  .overlay-circle-secondary {
+    @include circle-gradient-overlay($secondary, 400px);
+  }
+  .overlay-circle-warning {
+    @include circle-gradient-overlay($warning, 400px);
+  }
+  .overlay-circle-info {
+    @include circle-gradient-overlay($info, 400px);
+  }
+  .overlay-circle-highlight {
+    @include circle-gradient-overlay($highlight, 400px);
+  }
 }
