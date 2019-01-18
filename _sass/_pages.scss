@@ -1,3 +1,15 @@
+.banner-success {
+  @include transparent-bg($success, 1.0);
+  @include banner(30px);
+}
+.banner-secondary {
+  @include transparent-bg($secondary, 1.0);
+  @include banner(30px);
+}
+.banner-warning {
+  @include transparent-bg($warning, 1.0);
+  @include banner(30px);
+}
 .hero {
   background-size: cover;
   background-position: center;
@@ -13,13 +25,13 @@
   text-transform: uppercase;
 }
 .hero-text-success {
-  @include hero-text-bg($success);
+  @include color-bg($success);
 }
 .hero-text-secondary {
-  @include hero-text-bg($secondary);
+  @include color-bg($secondary);
 }
 .hero-text-warning {
-  @include hero-text-bg($warning);
+  @include color-bg($warning);
 }
 /* Specific elements on different pages */
 #home-hero {
