@@ -33,7 +33,7 @@
 .hero-text-warning {
   @include color-bg($warning);
 }
-/* Specific elements on different pages */
+/* hero images on different pages */
 #home-hero {
   background-image: 
     linear-gradient(
@@ -45,6 +45,33 @@
   background-position: center;
   padding: 0 15px;
 }
+#programs-hero {
+  background-image: 
+    linear-gradient(
+      to top,
+      rgba(black, 0.9),
+      rgba(black, 0)),
+    url('./../images/programs-hero.jpg')
+  ;
+}
+#health-hero {
+  background-image: url('./../images/health-hero.jpg');
+  background-position: top;
+}
+#development-hero {
+  background-image: url('./../images/development.jpg');
+}
+#education-hero {
+  background-image: url('./../images/education.jpg');
+}
+#about-hero {
+  background-image: linear-gradient(
+    to top,
+    rgba(black, 0.9),
+    rgba(black, 0)), url('./../images/about-hero.jpg');
+  background-position: center;
+}
+/* Different elements on pages */
 #home-about {
   background: 
     linear-gradient(
@@ -80,15 +107,6 @@
     font-size: 1.5em;
   }
 }
-#programs-hero {
-  background-image: 
-    linear-gradient(
-      to top,
-      rgba(black, 0.9),
-      rgba(black, 0)),
-    url('./../images/hero.jpg')
-  ;
-}
 #program-subheads {
   background: url('./../images/programs-purple-overlay.png');
   background-position: top center;
@@ -109,29 +127,20 @@
     font-weight: 700;
   }
 }
-#health-hero {
-  background-image: url('./../images/health-hero.jpg');
-}
-.blue-divider-pattern {
-  background-image: url('./../images/blue-divider-pattern.png');
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: 50% -5px;
-}
-#development-hero {
-  background-image: url('./../images/development.jpg');
-}
 .orange-divider-pattern {
   background-image: url('./../images/orange-divider-pattern.png');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 50% -5px;
 }
-#education-hero {
-  background-image: url('./../images/education.jpg');
-}
 .teal-divider-pattern {
   background-image: url('./../images/teal-divider-pattern.png');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 50% -5px;
+}
+.blue-divider-pattern {
+  background-image: url('./../images/blue-divider-pattern.png');
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 50% -5px;
@@ -155,6 +164,42 @@
 }
 .even {
   background-color: #f6f5f5;
+}
+.staff {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.picture-row {
+  display: flex;
+  flex-direction: row;
+  background-color: $tertiary;
+}
+#volunteer1 {
+  display: block;
+}
+#volunteer2, #volunteer3, #volunteer4 {
+  display: none;
+}
+.volunteer-photo {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  height: 350px;
+}
+#wezesha-circle {
+  background: url('./../images/programs-purple-overlay.png');
+  background-position: top center;
+  background-size: cover;
+}
+#wezesha-inner {
+  color: white;
+  h2 {
+    text-transform: uppercase;
+  }
+  padding-top: 100px;
+  padding-bottom: 100px;
 }
 #newsletter {
   background-image: 
@@ -187,7 +232,12 @@
 
 //Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
-  
+  .volunteer-photo {
+    width: 50%;
+  }
+  #volunteer2 {
+    display: block;
+  }
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
@@ -216,6 +266,12 @@
       font-size: 1.5em;
     }
   }
+  .volunteer-photo {
+    width: calc(100%/3);
+  }
+  #volunteer3 {
+    display: block;
+  }
 }
 @media screen and (max-device-width: 800px) {
 // Switch off hero video on small screens
@@ -225,7 +281,13 @@
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-  
+  .volunteer-photo {
+    width: 25%;
+    height: 400px;
+  }
+  #volunteer4 {
+    display: block;
+  }
 }
 @media (min-width: 1050px) {
   
@@ -241,4 +303,12 @@
 }
 @media (min-width: 1750px) {
   
+}
+@media (min-width: 2400px) {
+  .volunteer-photo {
+    width: 600px;
+  }
+  .picture-row {
+    align-items: center;
+  }
 }

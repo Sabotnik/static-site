@@ -3,6 +3,124 @@ permalink: /about/
 layout: page
 title: About
 ---
+<div id="about-hero" class="hero">
+  <div class="hero-text">
+    <h1>About Empower Tanzania</h1>
+  </div>
+</div>
+
+<div class="even">
+  <div class="row">
+    <h2 class="text-tertiary text-uppercase">Tanazania Staff</h2>
+  </div>
+  <div class="row">
+    {% for staff in site.data.tz_staff %}
+    <div class="col">
+      <div class="staff">
+        <div class="circle-photo" style="background: url({{site.baseurl}}/assets/images/staff/{{ staff.image }});">
+        </div>
+        <h5>{{ staff.name }}</h5>
+        <h6>{{ staff.position }}</h6>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="odd">
+  <div class="row">
+    <h2 class="text-tertiary text-uppercase">United States Staff</h2>
+  </div>
+  <div class="row">
+    {% for staff in site.data.us_staff %}
+    <div class="col">
+      <div class="staff">
+        <div class="circle-photo" style="background: url({{site.baseurl}}/assets/images/staff/{{ staff.image }});">
+        </div>
+        <h5>{{ staff.name }}</h5>
+        <h6>{{ staff.position }}</h6>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+
+<div id="volunteers" class="picture-row">
+  <div id="volunteer1" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer.jpg);"></div>
+  <div id="volunteer2" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer.jpg);"></div>
+  <div id="volunteer3" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer.jpg);"></div>
+  <div id="volunteer4" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer.jpg);"></div>
+</div>
+
+<div class="hero-text-secondary text-white">
+  <p>“Don't cry because it's over, smile because it happened.” 
+    ― Dr. Seuss</p>
+</div>
+
 <div class="row">
-  <h1>this is the about page</h1>
+  <h2 class="text-teritiary text-upppercase">Board of Directors</h2>
+</div>
+<div class="row">  
+  <div class="col">
+    <h3>Officers</h3>
+    <ul>
+      {% for member in site.data.board_officers %}
+      <li>{{ member.name }}, <em>{{ member.position }}</em></li>
+      {% endfor %}
+    </ul>
+  </div>
+  <div class="col">
+    <h3>Board Members</h3>
+    <ul>
+      {% for member in site.data.board_members %}
+      <li>{{ member.name }}, <em>{{ member.position }}</em></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>
+
+<div id="wezesha-circle">
+  <div id="wezesha-inner">
+    <div class="row">
+      <h2>Wezesha Circle</h2>
+    </div>
+    <div class="row">
+      <div class="col">
+        <ul>
+          {% for member in site.data.wezesha_circle | limit: 6 %}
+          <li>{{ member.name }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+  
+      <div class="col">
+        <ul>
+          {% for member in site.data.wezesha_circle | limit: 6 offset: 6 %}
+          <li>{{ member.name }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+  
+      <div class="col">
+        <ul>
+          {% for member in site.data.wezesha_circle | limit: 6 offset: 12 %}
+          <li>{{ member.name }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+  
+      <div class="col">
+        <ul>
+          {% for member in site.data.wezesha_circle | limit: 6 offset: 18 %}
+          <li>{{ member.name }}</li>
+          {% endfor %}
+        </ul>
+      </div>
+    </div>
+
+    <div class="row">
+        <a class="btn btn-info-inverse" href="#">Join</a>
+    </div>
+  </div>
+  
 </div>

@@ -22,6 +22,9 @@
 .overlay-circle-highlight {
   @include circle-gradient-overlay($highlight, 250px);
 }
+.circle-photo {
+  @include circle-photo(300px);
+}
 .inner-circle {
   display: flex;
   align-items: center;
