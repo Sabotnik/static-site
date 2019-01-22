@@ -1,15 +1,18 @@
-- name: staff name
-  position: position name
-  image: staff1.jpg
-- name: staff name
-  position: position name
-  image: staff2.jpg
-- name: staff name
-  position: position name
-  image: staff3.jpg
-- name: staff name
-  position: position name
-  image: staff4.jpg
-- name: staff name
-  position: position name
-  image: staff5.jpg
+- name: Nteghenjwa Mjema
+  position: Administrative Assistant
+  image: nteghenjwa-mjema.jpg
+- name: Flora Zephania Mmbaga
+  position: Accountant
+  image: flora-zephania-mmbaga.jpg
+- name: Catherine John Wales
+  position: Health Programs Coordinator
+  image: catherine-john-wales.jpg
+- name: Efancia Nzota
+  position: Programs Manager
+  image: efancia-nzota.jpg
+- name: Joseph Johnson Kimbwereza
+  position: Integrated Farming & Water Projects Director
+  image: joseph-johnson-kimbwereza.jpg
+- name: Elibariki Kisimbo
+  position: Country Director, Tanzania
+  image: elibariki-kisimbo.jpg

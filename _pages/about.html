@@ -13,7 +13,7 @@ title: About
   <div class="row">
     <h2 class="text-tertiary text-uppercase">Tanazania Staff</h2>
   </div>
-  <div class="row">
+  <div class="row text-tertiary">
     {% for staff in site.data.tz_staff %}
     <div class="col">
       <div class="staff">
@@ -31,7 +31,7 @@ title: About
   <div class="row">
     <h2 class="text-tertiary text-uppercase">United States Staff</h2>
   </div>
-  <div class="row">
+  <div class="row text-tertiary">
     {% for staff in site.data.us_staff %}
     <div class="col">
       <div class="staff">
@@ -58,11 +58,11 @@ title: About
 </div>
 
 <div class="row">
-  <h2 class="text-teritiary text-upppercase">Board of Directors</h2>
+  <h2 class="text-tertiary text-uppercase">Board of Directors</h2>
 </div>
-<div class="row">  
+<div class="row text-tertiary">  
   <div class="col">
-    <h3>Officers</h3>
+    <h3 class="text-uppercase">Officers</h3>
     <ul>
       {% for member in site.data.board_officers %}
       <li>{{ member.name }}, <em>{{ member.position }}</em></li>
@@ -70,7 +70,7 @@ title: About
     </ul>
   </div>
   <div class="col">
-    <h3>Board Members</h3>
+    <h3 class="text-uppercase">Board Members</h3>
     <ul>
       {% for member in site.data.board_members %}
       <li>{{ member.name }}, <em>{{ member.position }}</em></li>
@@ -87,7 +87,7 @@ title: About
     <div class="row">
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle | limit: 6 %}
+          {% for member in site.data.wezesha_circle limit: 6 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -95,7 +95,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle | limit: 6 offset: 6 %}
+          {% for member in site.data.wezesha_circle limit: 6 offset: 6 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -103,7 +103,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle | limit: 6 offset: 12 %}
+          {% for member in site.data.wezesha_circle limit: 6 offset: 12 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -111,7 +111,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle | limit: 6 offset: 18 %}
+          {% for member in site.data.wezesha_circle limit: 6 offset: 18 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
