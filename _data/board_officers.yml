@@ -1,8 +1,8 @@
-- name: board member
-  position: board position
-- name: board member
-  position: board position
-- name: board member
-  position: board position
-- name: board member
-  position: board position
+- name: Jodi Morgan-Peters
+  position: President
+- name: Jake Klipsch
+  position: Vice President
+- name: Michael Welsch
+  position: Treasurer
+- name: Mike Gaul
+  position: Secretary

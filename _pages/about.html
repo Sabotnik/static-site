@@ -46,15 +46,14 @@ title: About
 </div>
 
 <div id="volunteers" class="picture-row">
-  <div id="volunteer1" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer.jpg);"></div>
-  <div id="volunteer2" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer.jpg);"></div>
-  <div id="volunteer3" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer.jpg);"></div>
-  <div id="volunteer4" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer.jpg);"></div>
+  <div id="volunteer1" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer1.jpg);"></div>
+  <div id="volunteer2" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer2.jpg);"></div>
+  <div id="volunteer3" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer3.jpg);"></div>
+  <div id="volunteer4" class="volunteer-photo" style="background-image: url({{site.baseurl}}/assets/images/volunteer4.jpg);"></div>
 </div>
 
 <div class="hero-text-secondary text-white">
-  <p>“Don't cry because it's over, smile because it happened.” 
-    ― Dr. Seuss</p>
+  <p>"It is in your hands to create a better world for all who live in it."  -Nelson Mandela</p>
 </div>
 
 <div class="row">
@@ -73,7 +72,7 @@ title: About
     <h3 class="text-uppercase">Board Members</h3>
     <ul>
       {% for member in site.data.board_members %}
-      <li>{{ member.name }}, <em>{{ member.position }}</em></li>
+      <li>{{ member.name }}</li>
       {% endfor %}
     </ul>
   </div>
@@ -87,7 +86,7 @@ title: About
     <div class="row">
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 6 %}
+          {% for member in site.data.wezesha_circle limit: 5 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -95,7 +94,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 6 offset: 6 %}
+          {% for member in site.data.wezesha_circle limit: 5 offset: 5 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -103,7 +102,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 6 offset: 12 %}
+          {% for member in site.data.wezesha_circle limit: 6 offset: 10 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -111,7 +110,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 6 offset: 18 %}
+          {% for member in site.data.wezesha_circle offset: 16 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
