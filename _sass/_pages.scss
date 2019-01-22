@@ -71,6 +71,27 @@
     rgba(black, 0)), url('./../images/about-hero.jpg');
   background-position: center;
 }
+#donate-hero {
+  background-image: linear-gradient(
+    to top,
+    rgba(black, 0.9),
+    rgba(black, 0)), url('./../images/donate-hero.jpg');
+  background-position: center;
+}
+#donate-once {
+  background-image: linear-gradient(
+    to top,
+    rgba($info, 0.8),
+    rgba($info, 0.8)), url('./../images/donate-once.jpg');
+  background-position: center;
+}
+#donate-monthly {
+  background-image: linear-gradient(
+    to top,
+    rgba($secondary, 0.8),
+    rgba($secondary, 0.8)), url('./../images/donate-monthly.jpg');
+  background-position: top;
+}
 /* Different elements on pages */
 #home-about {
   background: 
