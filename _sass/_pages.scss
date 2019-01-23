@@ -92,6 +92,13 @@
     rgba($secondary, 0.8)), url('./../images/donate-monthly.jpg');
   background-position: top;
 }
+#join-hero {
+  background-image: linear-gradient(
+    to top,
+    rgba(black, 0.9),
+    rgba(black, 0)), url('./../images/join-hero.jpg');
+  background-position: center;
+}
 /* Different elements on pages */
 #home-about {
   background: 

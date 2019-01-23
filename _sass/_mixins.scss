@@ -5,6 +5,9 @@
   @include transparent-bg($bg, 0.85);
   padding: 20px 0;
 }
+@mixin solid-bg($bg) {
+  background-color: $bg;
+}
 @mixin banner($padding-y) {
   padding: $padding-y 0;
   display: flex;

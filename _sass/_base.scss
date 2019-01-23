@@ -58,7 +58,21 @@ img {
 .font-accent {
   font-family: $font-accent;
 }
-
+.bg-primary {
+  @include solid-bg($primary);
+}
+.bg-secondary {
+  @include solid-bg($secondary);
+}
+.bg-success {
+  @include solid-bg($success);
+}
+.bg-warning {
+  @include solid-bg($warning);
+}
+.bg-info {
+  @include solid-bg($info);
+}
 /* =================================
   Media Queries
 ==================================== */

@@ -17,8 +17,8 @@ $font-main: 'Fira Sans', sans-serif;
 $font-accent: 'Amatic SC', cursive;
 
 // Imports of Sass files
-@import "base";
 @import "mixins";
+@import "base";
 @import "responsive";
 @import "buttons";
 @import "navbar";
