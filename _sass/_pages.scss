@@ -223,6 +223,14 @@
   padding-top: 100px;
   padding-bottom: 100px;
 }
+.donate {
+  display: flex;
+  flex-direction: column;
+  .col a {
+    align-self: center;
+  }
+  justify-content: center;
+}
 #newsletter {
   background-image: 
     url('./../images/orange-divider-pattern.png'),
@@ -293,6 +301,9 @@
   }
   #volunteer3 {
     display: block;
+  }
+  .donate {
+    flex-direction: row;
   }
 }
 @media screen and (max-device-width: 800px) {
