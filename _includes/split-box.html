@@ -1,15 +1,20 @@
 <div class="full-width text-white">
-  <div class="col bg-info split-box">
-    <h2 class="font-accent">Shop</h2>
-    <p>Some text about shopping online here</p>
-    <a class="btn btn-info-inverse" href="https://squareup.com/store/empower-tanzania">Shop Now</a>
+  <div class="col bg-{{ include.left_box_color }} split-box">
+    <h2 class="font-accent">{{ include.left_box_title }}</h2>
+    <p>{{ include.left_box_text }}</p>
+    <a class="btn btn-{{ include.left_box_color }}-inverse" href="{{ include.left_box_link }}">{{ include.left_box_btn }}</a>
   </div>
-  <div class="col bg-warning split-box">
-    <h2 class="font-accent">Donate</h2>
-    <p>Some text about donating goes here</p>
-    <div class="two-button-line">
-      <a class="btn btn-warning-inverse" href="#">Donate Once</a>
-      <a class="btn btn-warning-inverse" href="#">Donate Monthly</a>
-    </div>
+  <div class="col bg-{{ include.right_box_color }} split-box">
+    <h2 class="font-accent">{{ include.right_box_title }}</h2>
+    <p>{{ include.right_box_text }}</p>
+
+    {% if include.two_button_line %}
+      <div class="two-button-line">
+        <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link }}">{{ include.right_box_btn }}</a>
+        <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link2 }}">{{ include.right_box_btn2 }}</a>
+      </div>
+    {% else %}
+      <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link }}">{{ include.right_box_btn }}</a>
+    {% endif %}
   </div>
 </div>
