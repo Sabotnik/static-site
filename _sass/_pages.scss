@@ -147,7 +147,8 @@
     justify-content: flex-start;
   }
 }
-#programs-snippet {
+.text-snippet {
+  color: $tertiary;
   font-size: 1.4em;
   padding-top: 100px;
   padding-bottom: 50px;
@@ -239,6 +240,17 @@
   }
   justify-content: center;
 }
+#board_members {
+  .col {
+    justify-content: flex-start;
+  }
+  h3 {
+    margin: 20px 0;
+  }
+  li {
+    margin: 5px 0;
+  }
+}
 #newsletter {
   background-image: 
     url('./../images/orange-divider-pattern.png'),
@@ -312,6 +324,9 @@
   }
   .donate {
     flex-direction: row;
+  }
+  #board_members h3 {
+    margin-top: 0;
   }
 }
 @media screen and (max-device-width: 800px) {
