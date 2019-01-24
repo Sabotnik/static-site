@@ -6,15 +6,30 @@
       <i class="far fa-bars fa-3x"></i>
     </div>
 
-    <ul class="main-nav">
-
-      {% for item in site.data.navigation %}
+    <ul class="main-nav dropdown">
       <li>
-        <a href="{{ item.link }}" class="nav-link {% if item.link == page.url %}active{% endif %}">
-          {{ item.name }}
-        </a>
+        <a href="/about/" class="nav-link {% if page.title == "About" %}active{% endif %}">About</a>
       </li>
-      {% endfor %}
+      <li>
+        <a href="/programs/" class="nav-link {% if page.title == "Programs" %}active{% endif %}">Programs</a>
+        <ul class="sub_menu">
+          <li>
+            <a href="/programs/development/" class="nav-link sub-link">Economic Development</a>
+          </li>
+          <li>
+            <a href="/programs/health/" class="nav-link sub-link">Health</a>
+          </li>
+          <li>
+            <a href="/programs/education/" class="nav-link sub-link">Education</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/join/" class="nav-link {% if page.title == "Join Us" %}active{% endif %}">Join Us</a>
+      </li>
+      <li>
+        <a href="/news&events/" class="nav-link {% if page.title == "News & Events" %}active{% endif %}">News & Events</a>
+      </li>
 
     </ul>
     

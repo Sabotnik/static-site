@@ -22,13 +22,15 @@ nav {
   margin-top: 5px;
 }
 .main-nav a {
-  text-align: center;
   display: block;
   padding: 10px 15px;
   font-size: 1.25em;
   font-weight: 500;
   color: $tertiary;
   text-transform: uppercase;
+}
+.main-nav a.nav-link.active {
+  color: $warning;
 }
 .social-icon-nav a {
   color: $primary;
@@ -65,6 +67,13 @@ nav {
 .nav-toggle-show {
   display: flex;
 }
+/* LEVEL TWO OF DROPDOWN */
+ul.dropdown ul {  
+  visibility: hidden;
+  position: absolute;
+  background-color: white;
+}
+/* 
 /* =================================
   Media Queries
 ==================================== */
