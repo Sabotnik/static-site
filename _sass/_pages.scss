@@ -205,15 +205,16 @@
   flex-direction: row;
   background-color: $tertiary;
 }
-#volunteer1 {
+#photo1 {
   display: block;
 }
-#volunteer2, #volunteer3, #volunteer4 {
+#photo2, #photo3, #photo4 {
   display: none;
 }
-.volunteer-photo {
+.square-cover-photo {
   background-size: cover;
   background-position: center;
+  background-repeat: no-repeat;
   width: 100%;
   height: 350px;
 }
@@ -269,10 +270,10 @@
 
 //Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
-  .volunteer-photo {
+  .square-cover-photo {
     width: 50%;
   }
-  #volunteer2 {
+  #photo2 {
     display: block;
   }
 }
@@ -303,10 +304,10 @@
       font-size: 1.5em;
     }
   }
-  .volunteer-photo {
+  .square-cover-photo {
     width: calc(100%/3);
   }
-  #volunteer3 {
+  #photo3 {
     display: block;
   }
   .donate {
@@ -321,11 +322,11 @@
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-  .volunteer-photo {
+  .square-cover-photo {
     width: 25%;
     height: 400px;
   }
-  #volunteer4 {
+  #photo4 {
     display: block;
   }
 }
@@ -345,7 +346,7 @@
   
 }
 @media (min-width: 2000px) {
-  .volunteer-photo {
+  .square-cover-photo {
     width: 500px;
   }
   .picture-row {

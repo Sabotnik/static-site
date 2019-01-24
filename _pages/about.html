@@ -11,7 +11,7 @@ title: About
 
 <div class="even">
   <div class="row">
-    <h2 class="text-tertiary text-uppercase">Tanazania Staff</h2>
+    <h2 class="text-tertiary text-uppercase">Tanzania Staff</h2>
   </div>
   <div class="row text-tertiary">
     {% for staff in site.data.tz_staff %}
@@ -45,7 +45,12 @@ title: About
   </div>
 </div>
 
-{% include picture-row.html %}
+{% include picture-row.html 
+  photo1="volunteer1.jpg" 
+  photo2="volunteer2.jpg" 
+  photo3="volunteer3.jpg" 
+  photo4="volunteer4.jpg"
+  %}
 
 <div class="hero-text-secondary text-white">
   <p>"It is in your hands to create a better world for all who live in it."  -Nelson Mandela</p>

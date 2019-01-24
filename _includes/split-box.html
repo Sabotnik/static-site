@@ -2,7 +2,9 @@
   <div class="col bg-{{ include.left_box_color }} split-box">
     <h2 class="font-accent">{{ include.left_box_title }}</h2>
     <p>{{ include.left_box_text }}</p>
-    <a class="btn btn-{{ include.left_box_color }}-inverse" href="{{ include.left_box_link }}">{{ include.left_box_btn }}</a>
+    {% if include.left_box_btn %}
+      <a class="btn btn-{{ include.left_box_color }}-inverse" href="{{ include.left_box_link }}" target="_blank">{{ include.left_box_btn }}</a>
+    {% endif %}
   </div>
   <div class="col bg-{{ include.right_box_color }} split-box">
     <h2 class="font-accent">{{ include.right_box_title }}</h2>
@@ -10,11 +12,11 @@
 
     {% if include.two_button_line %}
       <div class="two-button-line">
-        <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link }}">{{ include.right_box_btn }}</a>
-        <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link2 }}">{{ include.right_box_btn2 }}</a>
+        <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link }}" target="_blank">{{ include.right_box_btn }}</a>
+        <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link2 }}" target="_blank">{{ include.right_box_btn2 }}</a>
       </div>
     {% else %}
-      <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link }}">{{ include.right_box_btn }}</a>
+      <a class="btn btn-{{ include.right_box_color }}-inverse" href="{{ include.right_box_link }}" target="_blank">{{ include.right_box_btn }}</a>
     {% endif %}
   </div>
 </div>

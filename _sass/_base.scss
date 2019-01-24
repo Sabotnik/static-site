@@ -73,6 +73,9 @@ img {
 .bg-info {
   @include solid-bg($info);
 }
+.bg-highlight {
+  @include solid-bg($highlight);
+}
 /* =================================
   Media Queries
 ==================================== */
