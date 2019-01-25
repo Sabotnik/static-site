@@ -67,7 +67,7 @@ nav {
 .nav-toggle-show {
   display: flex;
 }
-.submenu li {
+.dropdown li {
   margin-left: 20px;
 }
 /* =================================
@@ -88,6 +88,10 @@ nav {
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
+
+}
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
   .logo {
     width: 100%;
   }
@@ -103,11 +107,44 @@ nav {
   .nav-link-toggle {
     display: none;
   }
-}
-// Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) {
   nav {
     flex-direction: row;
     justify-content: space-around;
+  }
+  /* Dropdown */
+  .dropdown li {
+    margin-left: 0px;
+    display: block;
+    float: left;
+    padding: 1rem;
+    position: relative;
+    transition-duration: 0.5s;
+  }
+  .dropdown li:hover, .dropdown li:focus-within {
+    background:darken(white,8%);
+    cursor: pointer;
+  }
+  .dropdown li:focus-within a {
+    outline: none;
+  }
+  ul li ul {
+    background: white;
+    visibility: hidden;
+    opacity: 0;
+    position: absolute;
+    transition: all 0.5s ease;
+    display: none;
+  }
+  ul li:hover > ul,
+  ul li:focus-within > ul,
+  ul li ul:hover,
+  ul li ul:focus {
+     visibility: visible;
+     opacity: 1;
+     display: block;
+  }
+  ul li ul li {
+    clear: both;
+    width: 100%;
   }
 }

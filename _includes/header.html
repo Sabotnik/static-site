@@ -6,13 +6,13 @@
       <i class="far fa-bars fa-3x"></i>
     </div>
 
-    <ul class="main-nav dropdown">
+    <ul class="main-nav">
       <li>
         <a href="/about/" class="nav-link {% if page.title == "About" %}active{% endif %}">About</a>
       </li>
       <li>
-        <a href="/programs/" class="nav-link {% if page.title == "Programs" %}active{% endif %}">Programs</a>
-        <ul class="submenu">
+        <a href="/programs/" class="nav-link {% if page.title == "Programs" %}active{% endif %}" aria-haspopup="true">Programs</a>
+        <ul class="dropdown" aria-label="submenu">
           <li>
             <a href="/programs/development/" class="nav-link sub-link">Development</a>
           </li>
