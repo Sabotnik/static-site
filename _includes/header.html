@@ -1,6 +1,6 @@
 <header>
 
-  <nav>
+  <nav role="navigation">
     <a href="{{ site.baseurl }}{% link index.html %}"><img class="logo" src="{{ site.baseurl }}/assets/images/logo-navbar.svg" alt="Empowert Tanzania logo"></a>
     <div class="nav-link nav-link-toggle">
       <i class="far fa-bars fa-3x"></i>
@@ -10,8 +10,8 @@
       <li>
         <a href="/about/" class="nav-link {% if page.title == "About" %}active{% endif %}">About</a>
       </li>
-      <li>
-        <a href="/programs/" class="nav-link {% if page.title == "Programs" %}active{% endif %}" aria-haspopup="true">Programs</a>
+      <li id="dropdown">
+        <a href="/programs/" class="nav-link {% if page.title == "Programs" %}active{% endif %}" aria-haspopup="true"><i class="fas fa-caret-right"></i> Programs</a>
         <ul class="dropdown" aria-label="submenu">
           <li>
             <a href="/programs/development/" class="nav-link sub-link">Development</a>
