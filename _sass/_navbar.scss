@@ -67,13 +67,9 @@ nav {
 .nav-toggle-show {
   display: flex;
 }
-/* LEVEL TWO OF DROPDOWN */
-ul.dropdown ul {  
-  visibility: hidden;
-  position: absolute;
-  background-color: white;
+.submenu li {
+  margin-left: 20px;
 }
-/* 
 /* =================================
   Media Queries
 ==================================== */
