@@ -70,6 +70,13 @@ nav {
 .dropdown li {
   margin-left: 20px;
 }
+.dropdown li:hover, .dropdown li:focus-within {
+  background:darken(white,8%);
+  cursor: pointer;
+}
+.dropdown li:focus-within a {
+  outline: none;
+}
 /* =================================
   Media Queries
 ==================================== */
@@ -119,13 +126,6 @@ nav {
     padding: 1rem;
     position: relative;
     transition-duration: 0.5s;
-  }
-  .dropdown li:hover, .dropdown li:focus-within {
-    background:darken(white,8%);
-    cursor: pointer;
-  }
-  .dropdown li:focus-within a {
-    outline: none;
   }
   ul li ul {
     background: white;
