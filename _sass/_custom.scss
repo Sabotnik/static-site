@@ -9,8 +9,10 @@
     margin-bottom: 20px;
   }
   .two-button-line {
+    display: flex;
+    flex-direction: column;
     a {
-      margin: 0 10px;
+      margin: 10px;
     }
   }
 }
@@ -39,8 +41,10 @@
 @media (min-width: 1200px) {
   
 }
-@media (min-width: 1400px) {
-  
+@media (min-width: 1600px) {
+  .split-box .two-button-line {
+    flex-direction: row;
+  }
 }
 @media (min-width: 1750px) {
  
