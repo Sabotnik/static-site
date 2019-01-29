@@ -56,6 +56,11 @@
   padding: 15px;
   line-height: 2;
 }
+.bg-news {
+  @include transparent-bg($info, 0.9);
+  padding: 15px;
+  line-height: 2;
+}
 #outer-button-group {
   margin-top: 50px;
 }
