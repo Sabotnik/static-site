@@ -2,6 +2,7 @@
 layout: post
 title: Water Party 2017 Success!
 categories: [news]
+image: waterparty2017success.jpg
 ---
 On November 11th, 500 people  gathered in downtown Davenport for the 9th annual Water Party, an event that for the third year in a row has benefited Empower Tanzania water projects. It was an incredible night of music, wine, beer, an whiskey tasting, small bites by a favorite local chef, music, and friends. Partygoers bought raffle tickets, tried their hand on the wine pull, shopped for Tanzanian jewelry, and bid on silent auction items and art. Through their incredible generosity, Water Party 2018 raised over $58,000 for clean water in Tanzania!!! Our efforts will focus on the village of Njiro. We are so thankful to all who made the party happen, attended the event, and donated so generously!
 

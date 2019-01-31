@@ -45,6 +45,9 @@
   .split-box .two-button-line {
     flex-direction: row;
   }
+  .split-box {
+    justify-content: flex-start;
+  }
 }
 @media (min-width: 1750px) {
  

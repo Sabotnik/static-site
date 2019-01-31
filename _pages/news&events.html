@@ -30,7 +30,7 @@ title: News & Events
 
         {% if post.image %}
 
-          <div class="grid-item preview {{ categories }}" style="background: url({{site.baseurl}}/assets/images/post-images/{{ post.image }});">
+          <div class="grid-item preview {{ categories }}" style="background: url({{site.baseurl}}/assets/images/post-images/{{ post.image }}); background-size: cover; background-position: center;">
             <div class="bg-{{ categories.first }} text-white">
               <h4>{{ categories }}</h4>
               <a href="{{ post.url }}">

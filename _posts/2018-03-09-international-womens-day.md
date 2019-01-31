@@ -2,6 +2,7 @@
 layout: post
 title: International Women's Day
 categories: [health]
+image: womensday.jpg
 ---
 Empower Tanzania received an invitation to participate in the Celebration of International Women's Day from the Community Development Department of the Same Council. The motto of the day was one we love. It translates to this:<em><strong> "Towards the industrial economy, to strengthen gender equality and the empowerment of rural women.”</strong></em>
 

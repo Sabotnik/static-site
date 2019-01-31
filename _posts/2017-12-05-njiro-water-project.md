@@ -2,6 +2,7 @@
 layout: post
 title: Njiro Water Project
 categories: [health]
+image: njirowaterproject.jpg
 ---
 Goal: Provide clean water to the 1,750 people of the village of Njiro, Tanzania
 Estimated Cost of Project: $50K

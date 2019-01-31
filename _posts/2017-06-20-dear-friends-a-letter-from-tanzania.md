@@ -2,6 +2,7 @@
 layout: post
 title: Dear Friends (A Letter from Tanzania)
 categories: [education]
+image: dearfriends.jpg
 ---
 
 
