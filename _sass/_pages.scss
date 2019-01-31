@@ -45,60 +45,6 @@
   background-position: center;
   padding: 0 15px;
 }
-#programs-hero {
-  background-image: 
-    linear-gradient(
-      to top,
-      rgba(black, 0.9),
-      rgba(black, 0)),
-    url('./../images/programs-hero.jpg')
-  ;
-}
-#health-hero {
-  background-image: url('./../images/health-hero.jpg');
-  background-position: top;
-}
-#development-hero {
-  background-image: url('./../images/development.jpg');
-}
-#education-hero {
-  background-image: url('./../images/education.jpg');
-}
-#about-hero {
-  background-image: linear-gradient(
-    to top,
-    rgba(black, 0.9),
-    rgba(black, 0)), url('./../images/about-hero.jpg');
-  background-position: center;
-}
-#donate-hero {
-  background-image: linear-gradient(
-    to top,
-    rgba(black, 0.9),
-    rgba(black, 0)), url('./../images/donate-hero.jpg');
-  background-position: center;
-}
-#donate-once {
-  background-image: linear-gradient(
-    to top,
-    rgba($info, 0.8),
-    rgba($info, 0.8)), url('./../images/donate-once.jpg');
-  background-position: center;
-}
-#donate-monthly {
-  background-image: linear-gradient(
-    to top,
-    rgba($secondary, 0.8),
-    rgba($secondary, 0.8)), url('./../images/donate-monthly.jpg');
-  background-position: top;
-}
-#join-hero {
-  background-image: linear-gradient(
-    to top,
-    rgba(black, 0.9),
-    rgba(black, 0)), url('./../images/join-hero.jpg');
-  background-position: center;
-}
 /* Different elements on pages */
 #home-about {
   background: 
@@ -116,141 +62,6 @@
     margin-top: 15px;
   }
 }
-#programs-highlight {
-  background-image: url('./../images/people-in-field.jpg');
-  background-size: cover;
-  background-position: bottom;
-  text-transform: uppercase;
-  min-height: 80vh;
-  .row {
-    margin-top: 0;
-    padding-top: 0;
-    justify-content: center;
-  }
-  h2 {
-    background-color: $warning;
-    padding: 20px 40px;
-  }
-  a {
-    font-size: 1.5em;
-  }
-}
-#program-subheads {
-  background: url('./../images/programs-purple-overlay.png');
-  background-position: top center;
-  background-size: cover;
-  .row {
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
-  .col {
-    justify-content: flex-start;
-  }
-}
-.text-snippet {
-  color: $tertiary;
-  font-size: 1.4em;
-  padding-top: 100px;
-  padding-bottom: 50px;
-  span {
-    font-weight: 700;
-  }
-}
-.orange-divider-pattern {
-  background-image: url('./../images/orange-divider-pattern.png');
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: 50% -5px;
-}
-.teal-divider-pattern {
-  background-image: url('./../images/teal-divider-pattern.png');
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: 50% -5px;
-}
-.blue-divider-pattern {
-  background-image: url('./../images/blue-divider-pattern.png');
-  background-repeat: no-repeat;
-  background-size: 100%;
-  background-position: 50% -5px;
-}
-.program-info {
-  padding-top: 100px;
-  padding-bottom: 50px;
-  h2 {
-    color: $highlight;
-    text-transform: uppercase;
-    font-weight: 700;
-    margin-bottom: 40px;
-  }
-  p {
-    color: $tertiary;
-  }
-  
-}
-.odd {
-  background-color: #e5e3e3;
-}
-.even {
-  background-color: #f6f5f5;
-}
-.staff {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 15px;
-}
-.picture-row {
-  display: flex;
-  flex-direction: row;
-  background-color: $tertiary;
-}
-#photo1 {
-  display: block;
-}
-#photo2, #photo3, #photo4 {
-  display: none;
-}
-.square-cover-photo {
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  width: 100%;
-  height: 350px;
-}
-#wezesha-circle {
-  background: url('./../images/programs-purple-overlay.png');
-  background-position: top center;
-  background-size: cover;
-}
-#wezesha-inner {
-  color: white;
-  h2 {
-    text-transform: uppercase;
-  }
-  padding-top: 100px;
-  padding-bottom: 100px;
-}
-.donate {
-  display: flex;
-  flex-direction: column;
-  .col a {
-    align-self: center;
-  }
-  justify-content: center;
-}
-#board_members {
-  .col {
-    justify-content: flex-start;
-  }
-  h3 {
-    margin: 20px 0;
-  }
-  li {
-    margin: 5px 0;
-  }
-}
 
 /* =================================
   Media Queries
@@ -260,73 +71,25 @@
 
 //Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
-  .square-cover-photo {
-    width: 50%;
-  }
-  #photo2 {
-    display: block;
-  }
+
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-  #home-about {
-    .btn {
-      align-self: flex-start;
-    }
-  }
-  #programs-highlight a {
-    font-size: 2.25em;
-  }
-  #programs-hero {
-    h1 {
-      font-size: 5.625em;
-    }
-  }
-  .program-info {
-    h2 {
-      font-size: 1.875em;
-    }
-    p {
-      font-size: 1.5em;
-    }
-  }
-  .square-cover-photo {
-    width: calc(100%/3);
-  }
-  #photo3 {
-    display: block;
-  }
-  .donate {
-    flex-direction: row;
-  }
-  #board_members h3 {
-    margin-top: 0;
-  }
+
 }
 @media screen and (max-device-width: 800px) {
-// Switch off hero video on small screens
-  #home-hero {
-    background: url('./../images/jumping_frame.jpg') #000 no-repeat center center fixed;
-  }
+
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-  .square-cover-photo {
-    width: 25%;
-    height: 400px;
-  }
-  #photo4 {
-    display: block;
-  }
+
 }
 @media (min-width: 1050px) {
   
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
-  .hero {
-    height: calc(100vh - 181px);
-  }
+
 }
 @media (min-width: 1400px) {
   
@@ -335,10 +98,5 @@
   
 }
 @media (min-width: 2000px) {
-  .square-cover-photo {
-    width: 500px;
-  }
-  .picture-row {
-    align-items: center;
-  }
+
 }

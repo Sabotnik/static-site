@@ -1,4 +1,4 @@
-title: Empower Tanzania
+title: Site title
 url:
 baseurl:
 google_analytics_key:
@@ -14,9 +14,7 @@ permalink: pretty
 
 include: ['_pages']
 collections:
-  health_programs:
-  education_programs:
-  development_programs:
+  
 
 # Build settings
 markdown: kramdown
