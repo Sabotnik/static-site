@@ -9,9 +9,11 @@ layout: default
   </div>
 </div>
 <div class="row">
+  {% if page.image %}
   <div class="col">
     <img src="{{ site.baseurl }}/assets/images/post-images/{{ page.image }}" alt="{{ page.image_alt_text }}">
   </div>
+  {% endif %}
   <div class="col">
     {{ page.content }}
   </div>
