@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From the Field - A Report from Chief Kiboko
-categories: [education, health]
+categories: [news]
 ---
 We love sharing reports from our program managers, participants, and stakeholders in Tanzania. What follows is from Chief Kiboko (pictured below), a Maasai chief, longtime partner, and advocate for social good. We have worked closely with Chief Koboko over the years as we have established and implemented the Community-Hospital Alliance Program. Below is an exciting glimpse of his most recent report from the field:
 

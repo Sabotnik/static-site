@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Impact of Improving Women's Health
-categories: [health, education]
+categories: [health]
 ---
 
 SIGNIFICANCE.

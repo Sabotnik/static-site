@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Integrated Farming
-categories: [development, education]
+categories: [development]
 ---
 In 2014, Empower Tanzania's Nanny Project is getting a new name:
 The Integrated Farming Project

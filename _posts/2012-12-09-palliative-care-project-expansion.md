@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Palliative Care Project Expansion
-date: 2012-12-09 21:38
-author: lilsqueeks
-comments: true
-categories: [government, health, Health For Life, medical, PEPFAR]
+categories: [health]
 ---
 During the past year, the PEPFAR-funded <strong>Palliative Care Project</strong> added seven new sites which were transferred from another NGO and will add three new sites in the Mwanga District soon. Each of these sites will have a team of 10 people who deliver end of life care to terminally ill HIV/AIDS patients.
 

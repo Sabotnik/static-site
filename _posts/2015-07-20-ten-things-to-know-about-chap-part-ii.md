@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ten Things to Know About CHAP (Part II)
-categories: [health, education]
+categories: [education]
 ---
 This blog post  is part of a series that will take a closer look at our Community-Hospital Alliance Program (CHAP). In case you missed Part I, click here to learn the first five key points about this life-changing program. 
 

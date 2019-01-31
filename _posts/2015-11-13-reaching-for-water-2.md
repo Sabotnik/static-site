@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reaching for Water
-categories: [development, education]
+categories: [development]
 ---
 Read here to learn about EMPOWER TANZANIA'S plans to bring clean water within the reach of thousands of rural Tanzanians...
 by Sheri Krumm, Empower Tanzania Board Member and Clean Water Advocate

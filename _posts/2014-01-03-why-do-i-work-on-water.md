@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Do I Work on Water?
-categories: [education, health]
+categories: [health]
 ---
 My name is Sheri, and I am known as Mama Maji (mama water) in the Kilimanjaro Region of NE Tanzania, because I have a passion for water projects.  I'm shameless in my requests to anyone who will listen, to help fund Empower Tanzania's water projects. If I've never asked you for money, it's only because I haven't had a chance yet!
 

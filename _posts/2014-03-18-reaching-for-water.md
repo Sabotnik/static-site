@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reaching for Water
-categories: [development, health]
+categories: [health]
 ---
  
 Reaching for Water

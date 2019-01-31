@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 10 Steps to Water at Pangaro
-categories: [development, health]
+categories: [development]
 ---
 Clean water solutions are incredibly complex and require intense planning, organization, management, and fundraising. Here's a brief primer on how we delivered on our promise of clean water in the village of Pangaro:
 

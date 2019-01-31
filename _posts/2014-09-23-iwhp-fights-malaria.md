@@ -1,7 +1,7 @@
 ---
 layout: post
 title: IWHP Fights Malaria
-categories: [education, health]
+categories: [education]
 ---
 The Improving Women's Health Program (aka IWHP for you acronym lovers out there) will blow your mind with its impact on the battle with Malaria in Tanzania.  Truly AMAZING!
 
