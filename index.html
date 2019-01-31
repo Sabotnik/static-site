@@ -3,63 +3,98 @@ layout: default
 title: Home
 ---
 
-<div class="hero">
+<div id="home-hero" class="hero">
+  <video playsinline autoplay muted loop poster="./assets/images/jumping_frame.jpg" id="bgvid">
+    <source src="./assets/video/jumping.webm" type="video/webm">
+    <source src="./assets/video/jumping.mp4" type="video/mp4">
+  </video>
+  <div class="hero-text">
+    <h1>Empowering the people of Tanzania</h1>
+  </div>
+</div>
+
+<div id="home-about">
+
   <div class="row">
+
+    <div class="col text-white">
+      <p>Empower Tanzania works in partnership with rural Tanzanians to improve their quality of life. We address the underlying issues that hinder resiliency in rural areas, such as health care, education, agriculture practices, markets for products, and increasing water supply and quality.</p>
+      <p>Finding answers to rural development challenges requires working together with communities to create a vision and a long-term commitment beyond the life of a project. Empower Tanzania pursues this approach through all we do.</p>
+      <a class="btn btn-secondary-inverse" href="{{ site.baseurl }}/about/">About Us</a>
+    </div>
   
-    <h1 class="editable">Empowering the people of Tanzania</h1>
+    <figure class="col">
+      <iframe width="560" height="315" src="//www.youtube.com/embed/GJKkj9bHfzw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </figure>
   
   </div>
 </div>
 
-<div class="row">
+<div id="post-preview">
+  <div class="row">
 
-  <div class="primary col editable">
-    <p>Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic.</p>
-    <p>Gumbo beet greens corn soko endive gumbo gourd. Parsley shallot courgette tatsoi pea sprouts fava bean collard greens dandelion okra wakame tomato. Dandelion cucumber earthnut pea peanut soko zucchini.</p>
-    <a class="btn" href="#">About Us</a>
+    {% for post in site.categories.health limit:1 %}
+      
+      {% include post-preview.html %}
+    
+    {% endfor %}
+  
+    {% for post in site.categories.education limit:1 %}
+      
+      {% include post-preview.html %}
+    
+    {% endfor %}
+  
+    {% for post in site.categories.development limit:1 %}
+      
+      {% include post-preview.html %}
+    
+    {% endfor %}
+  
   </div>
-
-  <div class="secondary col editable">
-    <img src="/images/video-placeholder.png" alt="video placeholder image">
+  <div class="row btn-centered">
+    <a class="btn btn-tertiary" href="{{ site.baseurl }}/news&events/">See all posts</a>
   </div>
-
 </div>
+<!--
+<div id="event-highlight">
+  <div class="row">
+    {% for post in site.categories.event limit:1 %}
 
-<div class="row">
-
-  <div class="primary col">
-    <h3>Dummy post 1</h3>
-    <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jícama salsify.</p>
+    {% if post.image %}
+    <div class="col">
+      <img src="./assets/images/post-images/{{post.image}}" alt="video placeholder image">
+    </div>
+    {% endif %}
+  
+    <div class="col text-white event-info">
+      <h2>{{ post.title }}</h2>
+      <h3>{{ post.eventdate | date_to_long_string }} | {{ post.eventtime }} | {{ post.location }}</h3>
+      <p>{{ post.content | truncatewords: 35, '...' }}</p>
+  
+      <a class="btn btn-primary-inverse" href="{{ post.url }}">Learn more</a>
+    </div>
+    {% endfor %}
   </div>
-
-  <div class="secondary col">
-    <h3>Dummy post 2</h3>
-    <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jícama salsify.</p>
-  </div>
-
-  <div class="tertiary col">
-    <h3>Dummy post 3</h3>
-    <p>Nori grape silver beet broccoli kombu beet greens fava bean potato quandong celery. Bunya nuts black-eyed pea prairie turnip leek lentil turnip greens parsnip. Sea lettuce lettuce water chestnut eggplant winter purslane fennel azuki bean earthnut pea sierra leone bologi leek soko chicory celtuce parsley jícama salsify.</p>
-  </div>
-
 </div>
+-->
+{% include program-highlight.html %}
 
-<div class="row">
-  <a class="btn" href="#">See all blog posts</a>
-</div>
+{% include split-box.html 
+  left_box_color="warning" 
+  left_box_title="Shop" 
+  left_box_text="Shop our online store for gorgeous, Tanzanian-made items. Each purchase supports our programs!"
+  left_box_btn="Shop Now" 
+  left_box_link="https://squareup.com/store/empower-tanzania" 
+  right_box_color="info" 
+  right_box_title="Donate"
+  right_box_text="Thanks to the generosity of our donors, Empower     Tanzania is able to empower the people of rural Tanzania." 
+  right_box_btn="Donate Once"
+  right_box_link="https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=3&"
+  two_button_line="yes"
+  right_box_btn2="Donate Monthly"
+  right_box_link2="https://empowertz.z2systems.com/np/publicaccess/donation.do?1=1&&campaign=20"
+  %}
 
-<div class="row">
+{% include newsletter.html %}
 
-  <div class="primary col">
-    <img src="/images/video-placeholder.png" alt="video placeholder image">
-  </div>
-
-  <div class="secondary col">
-    <h2>Event title goes here</h2>
-    <h3>event date | event time | event location</h3>
-    <p>Veggies es bonus vobis, proinde vos postulo essum magis kohlrabi welsh onion daikon amaranth tatsoi tomatillo melon azuki bean garlic.</p>
-
-    <a class="btn" href="#">Learn more</a>
-  </div>
-
-</div>

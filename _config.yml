@@ -12,6 +12,12 @@ paginate:
 paginate_path:
 permalink: pretty
 
+include: ['_pages']
+collections:
+  health_programs:
+  education_programs:
+  development_programs:
+
 # Build settings
 markdown: kramdown
 plugins:

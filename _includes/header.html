@@ -1,22 +1,42 @@
 <header>
 
-  <nav>
-    <a href="#"><img class="logo" src="/images/logo-navbar.svg" alt="Empowert Tanzania logo"></a>
+  <nav role="navigation">
+    <a href="{{ site.baseurl }}{% link index.html %}"><img class="logo" src="{{ site.baseurl }}/assets/images/logo-navbar.svg" alt="Empowert Tanzania logo"></a>
     <div class="nav-link nav-link-toggle">
       <i class="far fa-bars fa-3x"></i>
     </div>
 
     <ul class="main-nav">
-
-      {% for item in site.data.navigation %}
       <li>
-        <a href="{{ item.link }}" class="nav-link {% if item.link == page.url %}active{% endif %}">
-          {{ item.name }}
-        </a>
+        <a href="/about/" class="nav-link {% if page.title == "About" %}active{% endif %}">About</a>
       </li>
-      {% endfor %}
+      <li id="dropdown">
+        <a href="/programs/" class="nav-link {% if page.title == "Programs" %}active{% endif %}" aria-haspopup="true"><i class="fas fa-caret-right"></i> Programs</a>
+        <ul class="dropdown" aria-label="submenu">
+          <li>
+            <a href="/programs/development/" class="nav-link sub-link">Development</a>
+          </li>
+          <li>
+            <a href="/programs/health/" class="nav-link sub-link">Health</a>
+          </li>
+          <li>
+            <a href="/programs/education/" class="nav-link sub-link">Education</a>
+          </li>
+        </ul>
+      </li>
+      <li>
+        <a href="/join/" class="nav-link {% if page.title == "Join Us" %}active{% endif %}">Join Us</a>
+      </li>
+      <li>
+        <a href="/news&events/" class="nav-link {% if page.title == "News & Events" %}active{% endif %}">News & Events</a>
+      </li>
 
     </ul>
+    
+    {% include social-nav.html %}
+
+    <a class="btn nav-btn" href="{{ site.baseurl }} {% link _pages/donate.html %}">Donate</a>
+    
   </nav>
 
 </header>

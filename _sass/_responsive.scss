@@ -1,0 +1,87 @@
+/* =================================
+  Base Layout Containers
+==================================== */
+.row, .col, .full-width {
+  display: flex;
+}
+.row {
+  flex-wrap: wrap;
+  flex: 1;
+  width: 100%;
+  margin: 20px auto;
+  padding: 10px 20px;
+}
+.full-width {
+  flex-wrap: wrap;
+  flex: 1;
+}
+/*as long as there is a 'row' class div in the body on the page,
+there will be a sticky footer due to 'body' min-height and 'row' flex:1*/
+.col {
+  flex-direction: column;
+  padding-right: 1em;
+  padding-left: 1em;
+  justify-content: center;
+  .one-third {
+    flex-grow: 0;
+  }
+  .two-thirds {
+    flex-grow: 2;
+  }
+}
+.flex-center {
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+/* =================================
+  Media Queries
+==================================== */
+/* Extra small devices (portrait phones, less than 576px)
+- No media query since this should be the default styles */
+
+//Small devices (landscape phones, 576px and up)
+@media (min-width: 576px) {
+ 
+}
+//Medium devices (tablets, 768px and up)
+@media (min-width: 768px) {
+  .col {
+    flex: 1 50%;
+    flex-direction: column;
+  }
+  .one-third {
+    flex: 1 33%;
+  }
+  .two-thirds {
+    flex: 2 66%;
+  }
+  .row {
+    flex-wrap: wrap;
+  }
+ 
+}
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) {
+  .row {
+    width: 90%;
+    }
+  .col {
+    flex-basis: 0;
+  }
+  
+}
+@media (min-width: 1050px) {
+  
+}
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) {
+  
+}
+@media (min-width: 1400px) {
+  
+}
+@media (min-width: 1750px) {
+  
+}

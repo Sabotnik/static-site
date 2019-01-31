@@ -2,12 +2,13 @@
 ---
 
 // Color variables
-$color1: #2c318c; //dark blue
-$color2: #21a1a1; //teal
-$color3: #f04e29; //orangish red
-$color4: #7d4895; //purple
-
-$dark-brown: #594a42;
+$primary: #2c318c;
+$secondary: #21a1a1;
+$tertiary: #594a42;
+$warning: #f04e29;
+$success: #2a328f;
+$info: #7d4895;
+$highlight: #fbb040; //no button setup currently for $highlight
 
 // Font import and variables
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fira+Sans');
@@ -16,6 +17,15 @@ $font-main: 'Fira Sans', sans-serif;
 $font-accent: 'Amatic SC', cursive;
 
 // Imports of Sass files
+@import "mixins";
 @import "base";
-@import "elements";
-@import "flexbox";
+@import "responsive";
+@import "buttons";
+@import "navbar";
+@import "footer";
+@import "circles";
+@import "posts";
+@import "pages";
+@import "video";
+@import "form";
+@import "custom";

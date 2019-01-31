@@ -5,3 +5,11 @@ function classToggle() {
 }
 document.querySelector('.nav-link-toggle')
   .addEventListener('click', classToggle);
+
+$( "#dropdown" ).hover(
+  function() {
+    $( "#dropdown a i" ).addClass( "fa-rotate-90" );
+  }, function() {
+    $( "#dropdown a i" ).removeClass( "fa-rotate-90" );
+  }
+);
