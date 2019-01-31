@@ -9,6 +9,12 @@ title: About
   </div>
 </div>
 
+<div class="row text-snippet">
+  <p>
+    <strong>Empower Tanzania is about volunteers.</strong> We have a volunteer Board of Directors and a group of incredible individuals working on committees and leading projects, as well as donating services and expertise. Without these dedicated people, nothing we do would be possible. In addition to our excellent volunteers, we have staff in both the U.S. and Tanzania working to maximize our impact. <strong>Together, we make a difference!</strong>
+  </p>
+</div>
+
 <div class="even">
   <div class="row">
     <h2 class="text-tertiary text-uppercase">Tanzania Staff</h2>
@@ -88,7 +94,7 @@ title: About
     <div class="row">
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 5 %}
+          {% for member in site.data.wezesha_circle limit: 6 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -96,7 +102,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 5 offset: 5 %}
+          {% for member in site.data.wezesha_circle limit: 6 offset: 6 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -104,7 +110,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 6 offset: 10 %}
+          {% for member in site.data.wezesha_circle limit: 6 offset: 12 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -112,7 +118,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle offset: 16 %}
+          {% for member in site.data.wezesha_circle offset: 18 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -120,7 +126,11 @@ title: About
     </div>
 
     <div class="row">
-        <a class="btn btn-info-inverse" href="#">Join</a>
+      <h3>Become part of our community of monthly giving!</h3>
+    </div>
+
+    <div class="row">
+      <a class="btn btn-info-inverse" href="#">Join</a>
     </div>
   </div>
   
