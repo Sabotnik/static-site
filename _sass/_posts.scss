@@ -61,6 +61,15 @@
   padding: 15px;
   line-height: 2;
 }
+#post-info {
+  h1, h3 {
+    margin-bottom: 10px;
+  }
+}
+#featured-image {
+  justify-content: flex-start;
+  width: auto;
+}
 #outer-button-group {
   margin-top: 50px;
 }

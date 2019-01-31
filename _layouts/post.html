@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="row">
-  <div class="col">
+  <div class="col" id="post-info">
       <h1>{{ page.title }}</h1>
       <h3>{{ page.date | date_to_string }}</h3>
       <small>Category: {{ page.categories }}</small>
@@ -10,8 +10,10 @@ layout: default
 </div>
 <div class="row">
   {% if page.image %}
-  <div class="col">
-    <img src="{{ site.baseurl }}/assets/images/post-images/{{ page.image }}" alt="{{ page.image_alt_text }}">
+  <div class="col"  id="featured-image">
+    <div>
+      <img src="{{ site.baseurl }}/assets/images/post-images/{{ page.image }}" alt="{{ page.image_alt_text }}">
+    </div>
   </div>
   {% endif %}
   <div class="col">
