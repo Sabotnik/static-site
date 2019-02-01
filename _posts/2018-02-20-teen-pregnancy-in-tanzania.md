@@ -2,7 +2,7 @@
 layout: post
 title: Teen Pregnancy in Tanzania
 categories: [education]
-image: teenpregnancyintanzania.jpg
+image: teenpregnancy.jpg
 ---
 Education Programs Director Yoeza Mbonea Mnzava has been involved in working on a solution to the on-going and critical issue of “early childhood pregnancy” in the Same District. Out of the five districts in the Kilimanjaro Region, Same (where Empower Tanzania is based) ranks first in childhood pregnancies for girls in primary and secondary schools based on data collected in 2017. Currently, government officials and local partners (like Empower Tanzania) are working together to seek solutions. One solution is to provide education to both parents and students.
 
