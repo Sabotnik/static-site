@@ -92,6 +92,9 @@
     rgba($secondary, 0.8)), url('./../images/donate-monthly.jpg');
   background-position: top;
 }
+#donate-once, #donate-monthly {
+  height: 75vh;
+}
 #join-hero {
   background-image: linear-gradient(
     to top,
@@ -156,6 +159,10 @@
   span {
     font-weight: 700;
   }
+}
+.quote {
+  font-family: $font-accent;
+  font-size: 2em;
 }
 .orange-divider-pattern {
   background-image: url('./../images/orange-divider-pattern.png');
@@ -239,6 +246,9 @@
   .col a {
     align-self: center;
   }
+  .col h2 {
+    margin-bottom: 20px;
+  }
   justify-content: center;
 }
 #board_members {
@@ -252,7 +262,10 @@
     margin: 5px 0;
   }
 }
-
+#betterbiz-logo {
+  width: 200px;
+  margin-bottom: 20px;
+}
 /* =================================
   Media Queries
 ==================================== */
@@ -322,14 +335,20 @@
   .donate {
     padding-left: 40px;
   }
+  .quote {
+    font-size: 3em;
+  }
 }
 @media (min-width: 1050px) {
-  
+
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
   .hero {
     height: calc(100vh - 181px);
+  }
+  #donate-once, #donate-monthly {
+    height: 50vh;
   }
 }
 @media (min-width: 1400px) {
