@@ -113,8 +113,10 @@
   background-size: 100%, cover;
   background-repeat: no-repeat;
   background-position: center, 50% center;
-  
   padding: 50px 0;
+  .row.col {
+    justify-content: flex-start;
+  }
   figure {
     margin-top: 15px;
   }
@@ -280,12 +282,18 @@
   #photo2 {
     display: block;
   }
+  #board_members {
+    margin-bottom: 40px;
+  }
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
   #home-about {
     .btn {
       align-self: flex-start;
+    }
+    figure {
+      margin-top: 0;
     }
   }
   #programs-highlight a {
@@ -316,6 +324,12 @@
   #board_members h3 {
     margin-top: 0;
   }
+  #members>div {
+    display: flex;
+    ul {
+      margin-right: 30px;
+    }
+  }
 }
 @media screen and (max-device-width: 800px) {
 // Switch off hero video on small screens
@@ -337,6 +351,9 @@
   }
   .quote {
     font-size: 3em;
+  }
+  #members {
+    flex-grow: 2;
   }
 }
 @media (min-width: 1050px) {

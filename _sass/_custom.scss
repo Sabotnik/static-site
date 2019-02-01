@@ -1,5 +1,6 @@
 .split-box {
   align-items: center;
+  justify-content: flex-start;
   padding: 30px 30px;
   width: 100%;
   p {
@@ -44,9 +45,6 @@
 @media (min-width: 1600px) {
   .split-box .two-button-line {
     flex-direction: row;
-  }
-  .split-box {
-    justify-content: flex-start;
   }
 }
 @media (min-width: 1750px) {

@@ -76,14 +76,22 @@ title: About
       {% endfor %}
     </ul>
   </div>
-  <div class="col">
+  <div class="col" id="members">
     <h3 class="text-uppercase">Members</h3>
-    <ul>
-      {% for member in site.data.board_members %}
-      <li>{{ member.name }}</li>
-      {% endfor %}
-    </ul>
+    <div>
+      <ul>
+        {% for member in site.data.board_members limit:5 %}
+        <li>{{ member.name }}</li>
+        {% endfor %}
+      </ul>
+      <ul>
+        {% for member in site.data.board_members offset:5 %}
+        <li>{{ member.name }}</li>
+        {% endfor %}
+      </ul>
+    </div>
   </div>
+  
 </div>
 
 <div id="wezesha-circle">
