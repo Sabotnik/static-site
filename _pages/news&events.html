@@ -12,9 +12,9 @@ title: News & Events
   <div id="outer-button-group">
     <div class="button-group filter-button-group">
       <button data-filter="*" class="button is-checked">show all</button>
-      <button data-filter=".health" class="button">health</button>
-      <button data-filter=".development" class="button">development</button>
-      <button data-filter=".education" class="button">education</button>
+      <button data-filter=".health" class="button">health for life</button>
+      <button data-filter=".development" class="button">economic empowerment</button>
+      <button data-filter=".education" class="button">education for tomorrow</button>
       <button data-filter=".news" class="button">news</button>
       <button data-filter=".event" class="button">events</button>
     </div>
@@ -62,21 +62,45 @@ title: News & Events
 {% include newsletter.html %}
 
 <script language="JavaScript" type="text/javascript">
+  function getHashFilter() {
+    // get filter=filterName
+    var matches = location.hash.match( /filter=([^&]+)/i );
+    var hashFilter = matches && matches[1];
+    return hashFilter && decodeURIComponent( hashFilter );
+  }
   // init Isotope
-  var $grid = $('.grid').isotope({
-    // options
+  var $grid = $('.grid');
+  // bind filter button click
+var $filterButtonGroup = $('.filter-button-group');
+$filterButtonGroup.on( 'click', 'button', function() {
+  var filterAttr = $( this ).attr('data-filter');
+  // set filter in hash
+  location.hash = 'filter=' + encodeURIComponent( filterAttr );
+});
+
+var isIsotopeInit = false;
+
+function onHashchange() {
+  var hashFilter = getHashFilter();
+  if ( !hashFilter && isIsotopeInit ) {
+    return;
+  }
+  isIsotopeInit = true;
+  // filter isotope
+  $grid.isotope({
+    itemSelector: '.grid-item',
+    layoutMode: 'fitRows',
+    filter: hashFilter
   });
-  // filter items on button click
-  $('.filter-button-group').on( 'click', 'button', function() {
-    var filterValue = $(this).attr('data-filter');
-    $grid.isotope({ filter: filterValue });
-  });
-  // change is-checked class on buttons
-  $('.button-group').each( function( i, buttonGroup ) {
-    var $buttonGroup = $( buttonGroup );
-    $buttonGroup.on( 'click', 'button', function() {
-      $buttonGroup.find('.is-checked').removeClass('is-checked');
-      $( this ).addClass('is-checked');
-    });
-  });
+  // set selected class on button
+  if ( hashFilter ) {
+    $filterButtonGroup.find('.is-checked').removeClass('is-checked');
+    $filterButtonGroup.find('[data-filter="' + hashFilter + '"]').addClass('is-checked');
+  }
+}
+
+$(window).on( 'hashchange', onHashchange );
+
+// trigger event handler to init Isotope
+onHashchange();
 </script>

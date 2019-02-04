@@ -92,6 +92,13 @@
   justify-content: center;
   margin-bottom: 15px;
 }
+#outer-button-group button {
+  font-size: 1.25em;
+}
+.button-group {
+  display: flex;
+  flex-direction: column;
+}
 .grid, .button-group {
   width: 90%;
 }
@@ -126,6 +133,9 @@
   .preview, .preview-full-bg {
     margin: 10px 10px;
   }
+  .button-group {
+    flex-direction: row;
+  }
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
@@ -154,6 +164,9 @@
 @media (min-width: 1200px) {
   #event-highlight img {
     width: 450px;
+  }
+  #outer-button-group button {
+    font-size: 1.75em;
   }
 }
 @media (min-width: 1400px) {
