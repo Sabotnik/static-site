@@ -1,7 +1,6 @@
 nav,
 .main-nav,
-.social-icon-nav,
-.nav-btn {
+.social-icon-nav {
   display: flex;
 }
 nav,
@@ -26,7 +25,7 @@ nav {
   padding: 10px 15px;
   font-size: 1.25em;
   font-weight: 500;
-  color: $tertiary;
+  color: $secondary;
   text-transform: uppercase;
 }
 .main-nav a.nav-link.active {
@@ -36,25 +35,15 @@ nav {
   color: $primary;
 }
 .main-nav a:hover, .social-icon-nav a:hover {
-  color: $warning;
+  color: $primary;
 }
-.social-icon-nav, .nav-btn {
+.social-icon-nav {
   display: flex;
   justify-content: center;
 }
 .social-icon-nav {
   margin-top: 20px;
   margin-bottom: 20px;
-}
-.nav-btn {
-  font-size: 1.35em;
-  font-weight: 700;
-  background-color: $warning;
-  display: block;
-  width: 100%;
-}
-.nav-btn:hover {
-  background-color: $primary;
 }
 .nav-link-toggle {
   align-self: flex-end;
@@ -66,16 +55,6 @@ nav {
 }
 .nav-toggle-show {
   display: flex;
-}
-.dropdown li {
-  margin-left: 20px;
-}
-.dropdown li:hover, .dropdown li:focus-within {
-  background:darken(white,8%);
-  cursor: pointer;
-}
-.dropdown li:focus-within a {
-  outline: none;
 }
 /* =================================
   Media Queries
@@ -106,45 +85,11 @@ nav {
     display: flex;
     flex-direction: row;
   }
-  .nav-btn {
-    font-size: 3em;
-    width: auto;
-    padding: 10px 30px;
-  }
   .nav-link-toggle {
     display: none;
   }
   nav {
     flex-direction: row;
     justify-content: space-around;
-  }
-  /* Dropdown */
-  .dropdown li {
-    margin-left: 0px;
-    display: block;
-    float: left;
-    padding: 1rem;
-    position: relative;
-    transition-duration: 0.5s;
-  }
-  ul li ul {
-    background: white;
-    visibility: hidden;
-    opacity: 0;
-    position: absolute;
-    transition: all 0.5s ease;
-    display: none;
-  }
-  ul li:hover > ul,
-  ul li:focus-within > ul,
-  ul li ul:hover,
-  ul li ul:focus {
-     visibility: visible;
-     opacity: 1;
-     display: block;
-  }
-  ul li ul li {
-    clear: both;
-    width: 100%;
   }
 }
