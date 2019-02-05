@@ -1,28 +1,24 @@
 .main-footer {
-  background-color: white;
+  background-color: $secondary;
   .footer-row {
     display: flex;
     flex-wrap: wrap;
+    text-transform: uppercase;
     ul {
       margin: 15px 30px;
     }
   }
   padding: 1em 0;
   line-height: 1.667;
-  text-transform: uppercase;
-  h3 {
-    font-weight: 700;
-    color: $highlight;
-  }
-  h4, a {
+  a {
     font-weight: 400;
-    color: $tertiary;
+    color: white;
   }
   li a {
     font-size: 1.125em;
   }
   a:hover {
-    color: $warning;
+    color: $tertiary;
   }
   .row {
     width: 100%;

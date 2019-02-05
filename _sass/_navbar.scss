@@ -56,6 +56,15 @@ nav {
 .nav-toggle-show {
   display: flex;
 }
+#navbar-cta {
+  color: $primary;
+  font-weight: 700;
+  font-size: 1.875em;
+  margin-left: auto;
+}
+#navbar-cta:hover {
+  color: $secondary;
+}
 /* =================================
   Media Queries
 ==================================== */
@@ -90,6 +99,6 @@ nav {
   }
   nav {
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: flex-start;
   }
 }
