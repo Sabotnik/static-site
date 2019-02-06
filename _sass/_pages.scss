@@ -46,22 +46,7 @@
   padding: 0 15px;
 }
 /* Different elements on pages */
-#home-about {
-  background: 
-    linear-gradient(
-      rgba($secondary, 0.85),
-      rgba($secondary, 0.85)
-    ),
-    url('./../images/people-hugging-bwfaded.jpg');
-  background-size: 100%, cover;
-  background-repeat: no-repeat;
-  background-position: center, 50% center;
-  
-  padding: 50px 0;
-  figure {
-    margin-top: 15px;
-  }
-}
+
 
 /* =================================
   Media Queries

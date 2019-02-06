@@ -1,29 +1,29 @@
 <header>
 
   <nav role="navigation">
-    <a href="{{ site.baseurl }}{% link index.html %}"><img class="logo" src="{{ site.baseurl }}/assets/images/logo-navbar.png" alt="company logo"></a>
+    <a href="{{ site.baseurl }}{% link index.html %}"><img id="logo" src="{{ site.baseurl }}/assets/images/logo-navbar.png" alt="company logo"></a>
     <div class="nav-link nav-link-toggle">
       <i class="far fa-bars fa-3x"></i>
     </div>
 
     <ul class="main-nav">
-      <li>
-        <a href="{{site.baseurl}}/about/" class="nav-link {% if page.title == "About" %}active{% endif %}">About</a>
+      <li class="nav-link">
+        <a href="{{site.baseurl}}/about/" class="{% if page.title == "About" %}active{% endif %}">About</a>
       </li>
-      <li>
-        <a href="{{site.baseurl}}/trainers/" class="nav-link {% if page.title == "Meet the Trainers" %}active{% endif %}">Meet the Trainers</a>
+      <li class="nav-link">
+        <a href="{{site.baseurl}}/trainers/" class="{% if page.title == "Meet the Trainers" %}active{% endif %}">Meet the Trainers</a>
       </li>
-      <li>
-        <a href="{{site.baseurl}}/events/" class="nav-link {% if page.title == "Events" %}active{% endif %}">Events</a>
+      <li class="nav-link">
+        <a href="{{site.baseurl}}/events/" class="{% if page.title == "Events" %}active{% endif %}">Events</a>
       </li>
-      <li>
-        <a href="{{site.baseurl}}/contact/" class="nav-link {% if page.title == "Contact" %}active{% endif %}">Contact</a>
+      <li class="nav-link">
+        <a href="{{site.baseurl}}/contact/" class="{% if page.title == "Contact" %}active{% endif %}">Contact</a>
       </li>
-
     </ul>
-    
-    <a id="navbar-cta" href="tel:1-563-729-1901" rel="nofollow">563.729.1901</a>
+
+    <a id="navbar-cta-mobile" class="navbar-cta" href="tel:1-563-729-1901" rel="nofollow">563.729.1901</a>
+
+    <a id="navbar-cta-desktop" class="navbar-cta" href="tel:1-563-729-1901" rel="nofollow">563.729.1901</a>
     
   </nav>
-
 </header>

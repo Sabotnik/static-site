@@ -69,29 +69,17 @@
 .btn-secondary-inverse {
   @include button-inverse($secondary);
 }
+.btn-secondary-outline {
+  @include button-outline($secondary);
+}
 .btn-tertiary {
   @include button-bg($tertiary);
  }
 .btn-tertiary-inverse {
   @include button-inverse($tertiary);
 }
-.btn-warning {
-  @include button-bg($warning);
-}
-.btn-warning-inverse {
- @include button-inverse($warning); 
-}
-.btn-success {
-  @include button-bg($success);
-}
-.btn-success-inverse {
-  @include button-inverse($success);
-}
-.btn-info {
-  @include button-bg($info);
-}
-.btn-info-inverse {
-  @include button-inverse($info);
+.btn-tertiary-outline {
+  @include button-outline($tertiary);
 }
 /* =================================
   Media Queries
