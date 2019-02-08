@@ -1,14 +1,7 @@
 ---
 layout: default
 ---
-<div class="row">
-  <div class="col" id="post-info">
-      <h1>{{ page.title }}</h1>
-      <h3>{{ page.date | date_to_string }}</h3>
-      <small>Category: {{ page.categories }}</small>
-  </div>
-</div>
-<div class="row">
+<div class="row post-heading">
   {% if page.image %}
   <div class="col"  id="featured-image">
     <div>
@@ -16,6 +9,13 @@ layout: default
     </div>
   </div>
   {% endif %}
+  <div class="col" id="post-info">
+      <h1>{{ page.title }}</h1>
+      <h3>Posted on {{ page.date | date_to_string }}</h3>
+      <p>Category: {{ page.categories }}</p>
+  </div>
+</div>
+<div class="row">
   <div class="col">
     {{ page.content }}
   </div>

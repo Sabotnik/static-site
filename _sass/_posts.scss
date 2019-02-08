@@ -76,9 +76,14 @@
   line-height: 2;
 }
 #post-info {
+  justify-content: space-between;
+  flex-grow: 2;
   h1, h3 {
     margin-bottom: 10px;
   }
+}
+.post-heading {
+  background-color: #e5e3e3;
 }
 #featured-image {
   justify-content: flex-start;
