@@ -22,3 +22,5 @@ Heres why we love this program:&nbsp;
 **5. Hygiene is Improved:&nbsp;**Disposable pads are quite expensive in Tanzania and using &nbsp;old rags leads to embarrassing leakage, urinary tract infections, and other medical problems. Reusable menstrual pads are far healthier (because of fewer infections) than rags. Larger, more absorbent pads are used for women after delivery, women (or men) with incontinence, and are very much needed for fistula.
 
 To donate to this program and others, click [HERE](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=3&amp;){: target="_blank"}. Every $10 donation gives one woman access to one kit, which is reusable and good for a full menstrual period before it is washed.
+
+![](/uploads/gbv-165.jpg)
