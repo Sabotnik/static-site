@@ -13,16 +13,16 @@
 .hero {
   background-size: cover;
   background-position: center;
-  height: calc(100vh - 249px);
+  height: calc(100vh - 196px);
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
   text-align: center;
 }
 .hero-text {
-  padding-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 20px;
   color: white;
-  text-transform: uppercase;
 }
 .hero-text-success {
   @include color-bg($success);
@@ -35,14 +35,10 @@
 }
 /* hero images on different pages */
 #home-hero {
-  background-image: 
-    linear-gradient(
-      to top,
-      rgba(black, 0.9),
-      rgba(black, 0));
-  background-size: 100%;
+  background-image: url('/assets/images/home-hero.jpg');
+  background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: left;
   padding: 0 15px;
 }
 /* Different elements on pages */
@@ -74,7 +70,9 @@
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
-
+  .hero {
+    height: calc(100vh - 174px);
+  }
 }
 @media (min-width: 1400px) {
   

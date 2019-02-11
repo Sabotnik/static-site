@@ -2,7 +2,7 @@
   background: rgba($bg, $percent);
 }
 @mixin color-bg($bg) {
-  @include transparent-bg($bg, 0.85);
+  @include transparent-bg($bg, 0.95);
   padding: 20px 0;
 }
 @mixin solid-bg($bg) {
