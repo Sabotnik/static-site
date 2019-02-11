@@ -8,7 +8,7 @@ image: /assets/images/post-images/pangaro2018-58.jpg
 
 The &nbsp;men and women we work with in Tanzania often tell us that "WATER IS LIFE." They say this with a seriousness that is sometimes difficult for Westerners to comprehend due to our oft-taken-for-granted infrastructure. "MAJI NI UHAI," one of our program managers, farmers, educators, or students might exclaim in Swahili. WATER IS LIFE. Too many Tanzanian women and children walk miles upon miles—spending a good portion of their day that could be devoted to work or school—collecting water that may or may not be clean. We take this challenge seriously and work hard to find sustainable solutions to this very basic human need at every level of our programming. Here's a glimpse of what it all entails:
 
-**THE PROBLEM:**
+THE PROBLEM:
 
 Over 4,000 children die every day from lack of clean drinking water. Much of the available water in rural parts of Tanzania is not clean and consumption leads to diarrhea, dysentery, and other forms of water-borne illnesses. Disease from unsafe water and lack of basic sanitation kills more people every year than all forms of violence, including war. Women and children bear the burden of walking long distances to access clean water (if it's available). They are often subject to violence and harassment during their journey. The search for water keeps children—mainly girls—from school and women from work. 1/3 of all wells built in Africa in the last 20 years are broken. Spare parts and trained mechanics to fix them are few and far between.
 
