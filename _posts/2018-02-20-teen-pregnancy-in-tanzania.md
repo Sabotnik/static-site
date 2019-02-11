@@ -15,13 +15,13 @@ The District Commissioner held a seminar to educate parents and students about t
 
 According to Yoeza, local government officials, as well as Empower Tanzania and other stakeholders, believe there are solutions to these challenges and plan to implement a multi-pronged approach to decrease the number of childhood pregnancies in rural Same District. Together, they'll work to do the following:
 
-~Involve local leaders to provide regular education to their local communities Implore parents to carry out their responsibility of raising children and providing their sons AND daughters with the basic needs to be successful at home and at school
+###### ~Involve local leaders to provide regular education to their local communities Implore parents to carry out their responsibility of raising children and providing their sons AND daughters with the basic needs to be successful at home and at school
 
-~Lobby local government to make by-laws that protect the rights of females in their community and in their schools
+###### ~Lobby local government to make by-laws that protect the rights of females in their community and in their schools
 
-~Advise teachers to listen to students with great care, love, and compassion to help identify problems and offer solutions
+###### ~Advise teachers to listen to students with great care, love, and compassion to help identify problems and offer solutions
 
-~Hold the government accountable in their promise to deal fully with criminals who harm students
+###### ~Hold the government accountable in their promise to deal fully with criminals who harm students
 
 Keep following Empower Tanzania on social media and on the blog for updates on this initiative&nbsp; as well as all of our programming.
 
