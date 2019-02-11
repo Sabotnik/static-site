@@ -2,6 +2,7 @@
 layout: post
 title: Gunge Safi Project
 categories: [development]
+image:
 ---
 Strengthening Rural Economies Through Farmer Associations
 "Gunge SAFI !" is the shout whenever the people of this small village meet to talk about the new ETI water/agriculture project.  It means Gunge is GREAT! in Swahili, and it expresses the hope that this tiny little rural village has, since the project began.

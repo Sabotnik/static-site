@@ -2,6 +2,7 @@
 layout: post
 title: Agricultural Development
 categories: [development]
+image:
 ---
 Most Shighatini families are subsistence farmers. That fact translates into a financial challenge for the parish as they try to maintain buildings and pay salaries using offerings from parish farm families who also have medical bills and school fees.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Water is Life (World Water Day 2017)
 categories: [health]
+image:
 ---
 
 The  men and women we work with in Tanzania often tell us that "WATER IS LIFE." They say this with a seriousness that is sometimes difficult for Westerners to comprehend due to our oft-taken-for-granted infrastructure. "MAJI NI UHAI," one of our program managers, farmers, educators, or students might exclaim in Swahili. WATER IS LIFE. Too many Tanzanian women and children walk miles upon miles—spending a good portion of their day that could be devoted to work or school—collecting water that may or may not be clean. We take this challenge seriously and work hard to find sustainable solutions to this very basic human need at every level of our programming. Here's a glimpse of what it all entails:

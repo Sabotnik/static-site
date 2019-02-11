@@ -2,6 +2,7 @@
 layout: post
 title: March, '11 TZ Trip, week 1 Journal
 categories: [news]
+image:
 ---
 The following is, in retrospect, an unbelievably long blog post, and probably not the best way to begin this! My apologies!  
 I generally travel to Tanzania with someone who is far more organized than I am, and ask them to take notes.  Since that wasn't possible this time, I decided to write a journal as a way to remember the details, and then after a few days and a few requests, sent it home to just a few people so they could see what I was doing.   This is that journal, copied here with pictures added.  It is not literary brilliance, but just the trip as my brain was processing.  Hope you enjoy!

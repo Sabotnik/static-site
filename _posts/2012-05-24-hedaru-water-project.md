@@ -2,6 +2,7 @@
 layout: post
 title: Hedaru Water Project
 categories: [development]
+image:
 ---
 
 

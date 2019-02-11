@@ -2,6 +2,7 @@
 layout: post
 title: Education for AIDS Orphans
 categories: [education]
+image:
 ---
 Education provides a brighter future!  No one knows this better than the millions of HIV/AIDS orphans in Tanzania.  When parents die of HIV/AIDS, the children's futures are bleak.  Education allows them to rise above their circumstances and gives them hope, which inspired the Mwanga Lutheran Parish, and Peace Lutheran Church in Pella, Iowa, to begin an Orphan Education Project in 2002.
 

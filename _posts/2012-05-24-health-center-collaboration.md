@@ -2,6 +2,7 @@
 layout: post
 title: Health Center Collaboration
 categories: [health]
+image:
 ---
 Mwanga Parish of the ELCT (Evangelical Lutheran Church of Tanzania) and Peace Lutheran Church, Pella, Iowa, of the ELCA have been cooperating for three years in providing AIDS testing services, diapers for new babies, mosquito netting for small children, and diet supplements for babies and AIDS patients. They also provide some over the counter medications, such as antibacterial cream, Tylenol and aspirin, to needy patients.
 
