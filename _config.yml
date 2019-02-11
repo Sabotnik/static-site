@@ -5,7 +5,7 @@ google_analytics_key: UA-134272490-1
 google_maps_javascript_api_key:
 _options:
   image: # Front matter field
-    uploads_dir: "uploads/front-matter-images/:title"
+    uploads_dir: "assets/images/post-images/:title"
   content: # Content Editor and block Editable Regions
     uploads_dir: "uploads/:year/:month/:day/:title"
 description:
