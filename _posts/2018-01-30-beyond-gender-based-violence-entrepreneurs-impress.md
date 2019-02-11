@@ -17,4 +17,4 @@ The women received wonderful feedback throughout the day. Many people (especiall
 
 ![](/uploads/catherine2.jpg)
 
-Follow Empower Tanzania on social media (Facebook, Twitter, Instagram) to find out when/where you might be able to purchase the beautiful batik fabrics in the States as well!
+Follow Empower Tanzania on social media ([Facebook](https://www.facebook.com/EmpowerTZ/){: target="_blank"}, [Twitter](https://twitter.com/empowertanzania/){: target="_blank"}, [Instagram](https://www.instagram.com/empower_tanzania/){: target="_blank"}) to find out when/where you might be able to purchase the beautiful batik fabrics in the States as well!
