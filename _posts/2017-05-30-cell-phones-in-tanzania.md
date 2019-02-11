@@ -2,7 +2,7 @@
 layout: post
 title: Cell Phones In Tanzania
 categories: [development]
-image: cellphone-1.jpg
+image: /assets/images/post-images/cellphone-1.jpg
 ---
 IF THEY'RE SO POOR, WHY DO THEY HAVE CELL PHONES?
 Tanzania is one of the poorest countries in the world, with incomes averaging about $2 per day. Poverty is ever present with a population that has electricity in only 10% of homes, with over 40% of children so malnourished that they are stunted physically and mentally, and with only 40% of homes able to access to safe water. Millions of dollars in aid go to Tanzania from governments, non- governmental organizations, and private donations.

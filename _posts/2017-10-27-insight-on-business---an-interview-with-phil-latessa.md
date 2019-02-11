@@ -2,7 +2,7 @@
 layout: post
 title: Insight on Business - An Interview with Phil Latessa
 categories: [news]
-image: insightsonbusiness.jpg
+image: /assets/images/post-images/insightsonbusiness.jpg
 ---
 
 **Executive Director Phil Latessa was featured on Insight on Business. Listen [HERE](https://insightonbusiness.podbean.com). **

@@ -2,7 +2,7 @@
 layout: post
 title: Meet Four of the Most Empowered Women in Tanzania
 categories: [development]
-image: nietiwe.jpg
+image: /assets/images/post-images/nietiwe.jpg
 ---
 If you've followed Empower Tanzania for long, you know that we provide  tremendous opportunities to advance the rights of women across the globe. Why? Because we believe it’s important to empower women and to lift one another up. Projects that benefit women are crucial and we're grateful to our staff, program managers, and donors who are exceedingly generous with their time and resources. We've spent nearly a decade educating and empowering women across the Same District of rural Tanzania. Allow us to introduce you to four of the most empowered!
 

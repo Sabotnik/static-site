@@ -2,7 +2,7 @@
 layout: post
 title: World Water Day - We're 5 Steps Closer to Clean Water at Njiro!
 categories: [development]
-image: closertowater.jpg
+image: /assets/images/post-images/closertowater.jpg
 ---
 
 It's World Water Day and we have so much to celebrate! We're sharing our progress at Njiro where a clean water solution for 1,700 people is under way!

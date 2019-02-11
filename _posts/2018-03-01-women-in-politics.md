@@ -2,7 +2,7 @@
 layout: post
 title: Women in Politics
 categories: [news]
-image: womenpolitics.jpg
+image: /assets/images/post-images/womenpolitics.jpg
 ---
 Many in the United States would say that in order for historically oppressed groups to gain equal status, they must be part of the conversation and have a seat at the table. As a result, policies will change and progress will be made. Political empowerment is a  game-changer for women, and because of this, we're seeing an upswell of women running for elected office in the United States.
 

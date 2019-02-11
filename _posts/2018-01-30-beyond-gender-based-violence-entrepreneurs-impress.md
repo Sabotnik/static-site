@@ -2,7 +2,7 @@
 layout: post
 title: Beyond Gender Based Violence Entrepreneurs Impress!
 categories: [development]
-image: beyondgenderbased.jpg
+image: /assets/images/post-images/beyondgenderbased.jpg
 ---
 
 Empower Tanzania received an invitation from the District Council to participate in the "Celebration of Environment Day" this month. The guest of honor was the regional councilor of Kilimanjaro, accompanied by Same District Councilor and Same District Executive Director. People and organizations invited to participate were from all over the Kilimanjaro Region. We were honored to attend!

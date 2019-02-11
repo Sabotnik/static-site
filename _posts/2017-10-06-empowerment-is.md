@@ -2,7 +2,7 @@
 layout: post
 title: Empowerment is...
 categories: [news]
-image: empowerment.jpg
+image: /assets/images/post-images/empowerment.jpg
 ---
 The founders Empower Tanzania chose the two words of its name deliberately and after long discussion. It was important to focus our efforts—and the funds donated to us—on people, not buildings or equipment. Our target was the marginalized people in Tanzania—the poor, the uneducated, the rural, and across all these categories, the women.
 

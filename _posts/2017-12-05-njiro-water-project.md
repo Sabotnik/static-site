@@ -2,7 +2,7 @@
 layout: post
 title: Njiro Water Project
 categories: [health]
-image: njirowaterproject.jpg
+image: /assets/images/post-images/njirowaterproject.jpg
 ---
 
 ![](/uploads/116a6328.jpg)

@@ -2,7 +2,7 @@
 layout: post
 title: 5 Reasons Reusable Menstrual Pads are Rocking Rural Tanzania
 categories: [health]
-image: 5reasons.jpg
+image: /assets/images/post-images/5reasons.jpg
 ---
 
 Empower Tanzania has partnered with [Days for Girls](https://www.daysforgirls.org/){: target="_blank"} to offer a much-needed solution for women and girls in rural Tanzania. During menstruation, girls and young women living in rural areas of Tanzania have no choice but to use rags instead of cost-prohibitive feminine hygiene products. This leads to many problems, including excessive school absence. In fact, the United Nations estimates that 10% of girls in Sub-Saharan Africa miss up to 20 percent of the school year due to her menstrual cycle.

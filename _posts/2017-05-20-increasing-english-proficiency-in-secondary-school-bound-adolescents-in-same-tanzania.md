@@ -2,7 +2,7 @@
 layout: post
 title: Increasing English Proficiency in Secondary-School Bound Adolescents in Same, Tanzania
 categories: [education]
-image: english.jpg
+image: /assets/images/post-images/english.jpg
 ---
 The Same Learning Center is up and running! This new Empower Tanzania education program aims to support local children and prepare them for success in secondary school. What follows is a primer on the program and it’s purpose:
 

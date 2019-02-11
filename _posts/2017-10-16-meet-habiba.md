@@ -2,7 +2,7 @@
 layout: post
 title: Meet Habiba
 categories: [health]
-image: habiba.jpg
+image: /assets/images/post-images/habiba.jpg
 ---
 
 Children: Husein (20), Fatuma (17), Paulina (14), Abdallah (12), Juma (11)

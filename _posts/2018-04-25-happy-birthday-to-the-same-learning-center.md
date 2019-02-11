@@ -2,7 +2,7 @@
 layout: post
 title: Happy Birthday to the Same Learning Center!
 categories: [education]
-image: birthday.jpg
+image: /assets/images/post-images/birthday.jpg
 ---
 <em>From Yoeza Mnzava, Empower Tanzania Education Programs Coordinator:</em>
 
