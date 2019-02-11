@@ -18,6 +18,12 @@ collections:
   education_programs:
   development_programs:
 
+defaults:
+  - scope:
+    values:
+      _options:
+        image:
+          upload_dir: "assets/images/post-images"
 # Build settings
 markdown: kramdown
 plugins:
