@@ -169,19 +169,16 @@
 .orange-divider-pattern {
   background-image: url('./../images/orange-divider-pattern.png');
   background-repeat: no-repeat;
-  background-size: 100%;
   background-position: 50% -5px;
 }
 .teal-divider-pattern {
   background-image: url('./../images/teal-divider-pattern.png');
   background-repeat: no-repeat;
-  background-size: 100%;
   background-position: 50% -5px;
 }
 .blue-divider-pattern {
   background-image: url('./../images/blue-divider-pattern.png');
   background-repeat: no-repeat;
-  background-size: 100%;
   background-position: 50% -5px;
 }
 .program-info {
@@ -366,6 +363,9 @@
   }
   #donate-once, #donate-monthly {
     height: 50vh;
+  }
+  .orange-divider-pattern, .teal-divider-pattern, .blue-divider-pattern {
+    background-repeat: repeat-x;
   }
 }
 @media (min-width: 1400px) {

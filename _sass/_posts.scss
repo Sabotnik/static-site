@@ -75,29 +75,34 @@
   padding: 15px;
   line-height: 2;
 }
-.post-info {
-  justify-content: space-between;
-  flex-grow: 2;
-  h1, h3 {
-    margin-bottom: 10px;
-  }
-}
 .post-container {
-  background-image: url('/assets/images/teal-divider-pattern.png');
+  background-image: url('./../images/teal-divider-pattern.png');
   background-position: top;
   background-repeat: no-repeat;
   padding-top: 80px;
-  display: flex;
-  flex-direction: column;
+  color: $tertiary;
+}
+.post-categories {
+  text-transform: uppercase;
 }
 .post-heading {
-  .row {
-    background-color: #e5e3e3;
+  background-color: #e5e3e3;
+  h1 {
+    font-size: 1.5em;
   }
+  padding: 0;
+  flex-direction: column;
+}
+.post-info {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
 }
 .featured-image {
-  justify-content: flex-start;
-  width: auto;
+  
 }
 #outer-button-group {
   margin-top: 50px;
@@ -162,7 +167,12 @@
   .grid {
     width: 640px;
   }
- 
+  .post-info {
+    h1 {
+      font-size: 2.25em;
+      margin-top: 30px;
+    }
+  }
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
@@ -182,6 +192,9 @@
   }
   #outer-button-group button {
     font-size: 1.75em;
+  }
+  .post-container {
+    background-repeat: repeat-x;
   }
 }
 @media (min-width: 1400px) {

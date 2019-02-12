@@ -3,7 +3,7 @@
     url('./../images/orange-divider-pattern.png'),
     url('./../images/horizon-gradient.jpg');
   background-repeat: no-repeat, no-repeat;
-  background-size: 100%, cover;
+  background-size: auto, cover;
   background-position: 50% -5px, bottom;
   display: flex;
   flex-direction: column;
@@ -64,6 +64,9 @@ form button {
 @media (min-width: 1200px) {
   .form-group {
     width: 80%;
+  }
+  #newsletter {
+    background-repeat: repeat-x, no-repeat;
   }
 }
 @media (min-width: 1400px) {
