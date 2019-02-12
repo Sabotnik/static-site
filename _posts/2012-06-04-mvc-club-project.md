@@ -2,6 +2,7 @@
 layout: post
 title: Most Vulnerable Children's Club
 categories: [education]
+image:
 ---
 Education...a right, or a privilege?  For the most vulnerable children of Tanzania, it is merely a dream.  These children come from the poorest families, sometimes with dying parents, sometimes with no parents.
 

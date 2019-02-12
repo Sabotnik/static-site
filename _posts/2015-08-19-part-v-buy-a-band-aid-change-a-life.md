@@ -2,6 +2,7 @@
 layout: post
 title: Part V - Buy a Band-Aid, Change a Life
 categories: [health]
+image:
 ---
 This blog post is the final part of a series that takes a closer look at our Community-Hospital Alliance Program (CHAP). In case you missed Part I, Part II, Part III, or Part IV, click on the links to learn about the program's process and impact. We are currently raising funds for the medical supplies our CHWs and clinics need to operate. Please consider a donation to help sustain this important program.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Voluntourism
 categories: [news]
+image:
 ---
 by Sheri Krumm,
 Development Coordinator, Empower Tanzania

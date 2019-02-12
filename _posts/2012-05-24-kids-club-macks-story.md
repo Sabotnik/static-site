@@ -2,6 +2,7 @@
 layout: post
 title: Kids' Club - Mack's Story
 categories: [education]
+image:
 ---
 This is Mack (pronounced mock), and this is her story. 
 

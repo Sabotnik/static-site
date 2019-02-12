@@ -2,6 +2,7 @@
 layout: post
 title: Improving Women's Health ~ mind blown
 categories: [health]
+image:
 ---
 For those of you who follow Empower Tanzania’s Improving Women’s Health Program (IWHP), prepare to have your mind blown by some amazing statistics from this last unit on HIV/AIDS!
 

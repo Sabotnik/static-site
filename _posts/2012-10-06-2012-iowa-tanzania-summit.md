@@ -2,6 +2,7 @@
 layout: post
 title: 2012 Iowa ~ Tanzania Summit
 categories: [news]
+image:
 ---
 The 2012 World Food Prize will soon be here, and Empower Tanzania is pleased to be hosting the Iowa ~ Tanzania Summit for the second year.  This is a day to celebrate the amazing link between the state of Iowa the country of Tanzania.  Churches, non-profits, companies, government agencies, and of course MANY PEOPLE make up this unique relationship, and our goal is to give them a way to connect, share ideas, learn about what we are doing, and get to know each other.
 

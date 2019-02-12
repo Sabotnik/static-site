@@ -2,6 +2,7 @@
 layout: post
 title: CHAP=Community-Hospital Alliance Program
 categories: [health]
+image:
 ---
 
 The Community-Hospital Alliance Program (CHAP) is now operational.  Because of the lack of access to health care in the Maasai community in Tanzania, CHAP was created to train local women to provide very basic health care in their communities, and officially connect them with nearby hospitals for support.  With this education, they can work in their very isolated villages to help people understand water born disease, take blood pressures, and help people decide when to go seek medical attention for health problems.

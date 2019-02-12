@@ -2,6 +2,7 @@
 layout: post
 title: What to read this month
 categories: [news]
+image:
 ---
 The range of experience and talent among our volunteers, supporters, and staff is remarkable. We have doctors and nurses who offer time and expertise, business men and women who share strategy and best practices, accountants who donate talent and number sense, CEOs who offer experience and leadership , educators who lend theory and know-how ... and the list goes on. This month, we're highlighting two staff members who have shared the work of Empower Tanzania through the written word and have both published books about development, international aid work, and a sense of justice. We are proud of all of our top-notch staff and volunteers and are pleased to celebrate the literary accomplishments of our Executive Director and Director of Communications & Development here!
 

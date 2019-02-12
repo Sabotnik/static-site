@@ -2,6 +2,7 @@
 layout: post
 title: IA~TZ Summit Bios
 categories: [development]
+image:
 ---
 
 

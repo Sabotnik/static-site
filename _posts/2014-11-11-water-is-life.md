@@ -2,6 +2,7 @@
 layout: post
 title: Water is LIFE
 categories: [health]
+image:
 ---
 
 In the remote village of Katahe, in the NE part of Tanzania, everyone understands what this means.  The village is in a semi-arid area, and inhabited by both Maasai tribe, and Pare tribe.  There is a river nearby, suitable for watering the animals, but the water is muddy, and full of runoff and disease, so it is extremely unsafe for humans.  Never mind the crocodiles and snakes that live there.

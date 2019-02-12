@@ -2,6 +2,7 @@
 layout: post
 title: Maasai Men in Training - A Song of Appreciation
 categories: [education]
+image:
 ---
 After a year spent serving the people of their villages, our 30 female Community Health Workers (CHWs) felt that training men from their communities would help the Community-Hospital Alliance Program (CHAP) gain momentum and respect. What follows is a report from CHAP program director Jeff Carithers, MD, who led a delegation that spent two weeks this summer providing additional training for our 30 Community Health Workers and, at their request, 30 men from their villages. This post is part of an in-depth look at CHAP. To learn more about the program, read here, here, and here.
 

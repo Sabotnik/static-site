@@ -2,6 +2,7 @@
 layout: post
 title: Introducing The Wazesha Circle
 categories: [news]
+image:
 ---
 Since Empower Tanzania was established in 2008, thousands of rural Tanzanians have experienced improved healthcare, education, and economic opportunity through our models of development and sustainability.
 

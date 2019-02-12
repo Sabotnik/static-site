@@ -2,6 +2,7 @@
 layout: post
 title: Ft. Collins loves Katahe!!
 categories: [news]
+image:
 ---
 And Empower Tanzania loves Jim Clark!!
 That's right, Jim Clark of Ft. Collins, Colorado, is now Empower Tanzania's favorite person EVER!!  (well, at least until we get a new favorite person...but seriously, right now, he's the one!)

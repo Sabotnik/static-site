@@ -2,6 +2,7 @@
 layout: post
 title: Tanzanians in Iowa
 categories: [health]
+image:
 ---
      In September, Mr. Tumaini Chambua and Rev. Joas Mpinda visited Iowa from Tanzania.  They are both leaders in ETI's Palliative Care Program in Tanzania, and were here because of some significant changes in the direction the program will be going in 2012-2013.  They met with Phil Latessa, Sheri Krumm, and Dr. Jeff Carithers for several days to make plans for how expected changes will impact the project over the next 12 months.
      The President's Emergency Plan for AIDS Relief (PEPFAR) was begun in 2003 with the goal of helping to save the lives of those suffering from HIV/AIDS around the world.  PEPFAR funding has enabled Empower Tanzania Inc. to provide palliative care and home-based care services to Tanzanians who are severely ill or dying from AIDS for over five years.

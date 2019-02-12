@@ -2,6 +2,7 @@
 layout: post
 title: Help us welcome our newest staff members!
 categories: [news]
+image:
 ---
 We’ve got BIG news! Empower Tanzania is welcoming two new American staff members this spring! Joining our Executive Director, Phil Latessa, our Development Coordinator, Sheri Krumm, and our team of wonderful volunteers, we’re excited to announce that we have two new stateside staff members on board! Becky Lopez is joining us as an accountant and Leslie Klipsch will fill the role of Director of Communication and Development. 
 

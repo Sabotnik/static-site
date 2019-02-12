@@ -2,6 +2,7 @@
 layout: post
 title: 5 Reasons to Join the Wezesha Circle
 categories: [news]
+image:
 ---
 We recently launched our monthly giving program and want to invite YOU to consider being a part of the Wezesha Circle. There are thousands of reasons to engage at this level, and we've listed a handful here:
 1. ACCESS TO THE INSIDE SCOOP—Executive director of Empower Tanzania, Phil Latessa, recently wrote an entertaining and thoughtful book entitled Surviving Vodka Toasts & Rampaging Elephants. By signing up for the Wezesha Circle, you'll get special updates from Phil that will, much like his book, entertain and inform. You will be the first to know about organization events and project updates, and you'll have access to our staff and volunteers, all of  whom will gladly share experiences and answer questions.

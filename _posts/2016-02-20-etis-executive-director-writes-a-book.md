@@ -2,6 +2,7 @@
 layout: post
 title: ETI's Executive Director Writes a Book!
 categories: [news]
+image:
 ---
 
 We're so excited for Phil Latessa's new book, <em>Surviving Vodka Toasts and Rampaging Elephants: A Journey to Life's Purpose. </em>

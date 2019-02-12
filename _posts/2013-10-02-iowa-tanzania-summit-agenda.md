@@ -2,6 +2,7 @@
 layout: post
 title: Iowa ~ Tanzania Summit Agenda
 categories: [news]
+image:
 ---
 
 3rd Annual Iowa – Tanzania Summit

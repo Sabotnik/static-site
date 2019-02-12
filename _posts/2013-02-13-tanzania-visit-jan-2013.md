@@ -2,6 +2,7 @@
 layout: post
 title: Tanzania Visit, Jan 2013
 categories: [news]
+image:
 ---
 
 

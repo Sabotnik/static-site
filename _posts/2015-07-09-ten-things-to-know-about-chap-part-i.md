@@ -2,6 +2,7 @@
 layout: post
 title: Ten Things to Know About CHAP (Part I)
 categories: [health]
+image:
 ---
 Have you ever wondered how health programs in sub-Saharan Africa actually work? This blog post is part of a series that will take a closer look at our Community-Hospital Alliance Program (CHAP). In just over one year, CHAP has reached over 10,000 people in rural Tanzania and continues to be an integral response to the lack of access to healthcare in this impoverished nation.
 

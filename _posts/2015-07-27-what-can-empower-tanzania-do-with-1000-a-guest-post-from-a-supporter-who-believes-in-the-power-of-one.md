@@ -2,6 +2,7 @@
 layout: post
 title: What can Empower Tanzania do with $1,000? A guest post from a supporter who believes in the power of one...
 categories: [news]
+image:
 ---
 Sometimes, when we are moved to make a difference, we’re stopped by the idea that there is little we can do that will actually matter. We think, "Really? Who am I? What difference can my tiny contribution make?”
 

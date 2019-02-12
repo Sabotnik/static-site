@@ -2,6 +2,7 @@
 layout: post
 title: Shighatini Milk Processing Plant
 categories: [development]
+image:
 ---
 A milk processing plant is under construction in the village of Shighatini in the North Pare mountains of Tanzania. The building is under construction, with the walls, windows, and doors completed. Installations of electrical and plumbing services are underway. Additional funds are needed for equipment, supplies, and personnel training.
 

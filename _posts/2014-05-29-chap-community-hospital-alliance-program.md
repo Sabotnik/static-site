@@ -2,6 +2,7 @@
 layout: post
 title: CHAP = Community-Hospital Alliance Program
 categories: [health]
+image:
 ---
 
 At Empower Tanzania we believe that education changes everything. 

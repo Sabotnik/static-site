@@ -2,6 +2,7 @@
 layout: post
 title: Six Opportunities the Msindo MVC Club Offers Children
 categories: [education]
+image:
 ---
 As children across the globe prepare to go back to school, we're celebrating success in Msindo! Not only are the 50 children chosen for this program able to attend their local schools, but they are experiencing so much more! Here are six added opportunities that these special children have access to thanks to our generous supporters:
 

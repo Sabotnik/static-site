@@ -2,6 +2,7 @@
 layout: post
 title: How do we empower women?
 categories: [development]
+image:
 ---
 
 We're currently in the midst of a Mother's Day campaign in which we're working hard to raise $3,000 for our women's empowerment programming through the sale of some pretty beautiful jewelry made in Tanzania. Because of our generous business sponsor, Onion Grove Mercantile, we're offering supporters the chance to donate $30, receive a pair of earrings, and be assured that their money will go toward the women of rural Tanzania.

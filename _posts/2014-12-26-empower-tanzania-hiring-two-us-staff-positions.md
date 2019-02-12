@@ -2,6 +2,7 @@
 layout: post
 title: Empower Tanzania hiring two US staff positions
 categories: [news]
+image:
 ---
 Empower Tanzania will be hiring two new part-time positions in January of 2015.  Please help us by passing the word around!  We would prefer to hire these people from referrals by YOU, our supporters, if possible.
 

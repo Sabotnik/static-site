@@ -2,6 +2,7 @@
 layout: post
 title: Improving Women's Health Project (IWHP) Update
 categories: [news]
+image:
 ---
 During a recent visit to Tanzania, a delegation from ETI had the pleasure of spending a few days with the Community Health Educators from the Improving Women's Health Program.  Dr. Jeff Carithers coordinates the program, which began in November of 2012.  After training the 26 Community Health Educators in January, they had a fabulous first month in February, teaching over 5,500 women and men about clean and safe water.  Preliminary observations estimate that about 90% of those who attended are now using some kind of method to make their drinking water safe such as boiling, chlorine, and using water filters.  The trainers met with the American delegation to work on a variety of skills and to prepare for the next quarter's topic, which will be hand washing.  Future topics, taught for 3 months each, will include malaria prevention, nutrition, and gender-based violence.
 

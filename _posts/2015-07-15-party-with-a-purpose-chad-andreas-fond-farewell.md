@@ -2,6 +2,7 @@
 layout: post
 title: Party with a Purpose - Chad & Andrea's Fond Farewell
 categories: [news]
+image:
 ---
 When Chad came back from an adventure in Tanzania last summer, he knew he wanted to somehow give back to the beautiful people he encountered and act on the need he had seen. Last Friday night, he and his wife Andrea took a huge step in support of the people of rural Tanzania who lack access to clean water—and they had an amazing time while doing so!
 

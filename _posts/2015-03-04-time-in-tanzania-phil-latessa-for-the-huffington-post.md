@@ -2,6 +2,7 @@
 layout: post
 title: Time in Tanzania, Phil Latessa for The Huffington Post
 categories: [news]
+image:
 ---
 
 Time in Tanzania

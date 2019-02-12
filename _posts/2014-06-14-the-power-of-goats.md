@@ -2,6 +2,7 @@
 layout: post
 title: The POWER of goats!
 categories: [development]
+image:
 ---
 <h3>What is the most powerful force in Tanzania?
 A person with a dream and a way to get there!</h3>

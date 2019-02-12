@@ -2,6 +2,7 @@
 layout: post
 title: Community-Hospital Alliance Program (CHAP) - Christmas in July
 categories: [health]
+image:
 ---
 This blog post  is part of a series that will take a closer look at our Community-Hospital Alliance Program (CHAP). In case you missed Part I or Part II, click on the links to learn ten key points about this life-changing program. The following post is written by Phil Latessa, executive director of Empower Tanzania.
 

@@ -2,6 +2,7 @@
 layout: post
 title: It’s official! The Msindo Children’s Club is open!
 categories: [education]
+image:
 ---
 We are thrilled to report the launch of our second Most Vulnerable Children’s Club, which opened in Msindo last week. This kids’ club will provide supplemental education, two nutritious meals, and support for 50 children identified by their community as in great need of assistance. The program also provides the children with their uniforms for primary school, enabling them to attend classes during the week. We’ve seen tremendous success at our original kids’ club in Mramba and are overjoyed to open a second location!
 

@@ -2,6 +2,7 @@
 layout: post
 title: Nanny Project- Phase 1 complete
 categories: [development]
+image:
 ---
 Goats breed like rabbits!  NOW what do we do!!
 

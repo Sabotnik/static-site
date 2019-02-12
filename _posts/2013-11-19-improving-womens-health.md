@@ -2,6 +2,7 @@
 layout: post
 title: Improving Women's Health
 categories: [health]
+image:
 ---
 We at Empower Tanzania are CRAZY about stories!  Statistics are an important part of what we do, but the truth is, we are completely motivated by the relationships we build, and the stories of the people whose lives are changed by the work we do together.  It's why we get up in the morning.
 

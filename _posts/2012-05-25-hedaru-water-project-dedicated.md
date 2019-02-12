@@ -2,6 +2,7 @@
 layout: post
 title: Hedaru Water Project Dedicated
 categories: [news]
+image:
 ---
 In August, 2010 the Water Project in Hedaru was officially dedicated and handed over to the Village of Hedaru.
 

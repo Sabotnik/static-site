@@ -2,6 +2,7 @@
 layout: post
 title: Pangaro Clinic Opens!
 categories: [health]
+image:
 ---
 Pangaro Hoye!!  We aren't certain of the exact translation, but it is clearly a rallying cry to the people of Pangaro, because we heard it a lot at the recent opening of their new Safe Motherhood Clinic!
 

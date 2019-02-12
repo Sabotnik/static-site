@@ -2,6 +2,7 @@
 layout: post
 title: Saving Moms and Babies
 categories: [health]
+image:
 ---
 This is Miriam and her healthy baby.  Many of Miriam’s friends were not so lucky—they died in childbirth. They belong to the Maasai tribe that lives in the village of Nadaruru, about 20 miles from the nearest health facility—and when there is a problem with a birth, they start walking to town. Often, they don’t make it.
 Two years ago, Empower Tanzania Inc. volunteers were visiting Nadaruru to see the school they had built. This is a major event because traditionally, Maasai don’t send their kids to school. However, Chief Isaiah is progressive and believes that Maasai must change or they won’t survive as Tanzania develops. After touring the school, we asked our hosts if there were other issues they wanted to discuss—and that opened the floodgates. “Our young women are dying in childbirth.  We need help.” was their plea.

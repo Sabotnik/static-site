@@ -2,6 +2,7 @@
 layout: post
 title: Gunge Safi COMPLETE!
 categories: [development]
+image:
 ---
 <strong>Great news from Gunge!!!  </strong>The irrigation project is finished, the water is flowing to the fields, and we came in under budget, thanks to the hard work of many people from Gunge and surrounding villages, our contractor, Mr. Manase, and the fabulous work of the leaders of Gunge along with ETI staff Elias Leasa and Elibariki Kisimbo.
 

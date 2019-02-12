@@ -2,6 +2,7 @@
 layout: post
 title: Reaching for Water
 categories: [health]
+image:
 ---
  
 Reaching for Water

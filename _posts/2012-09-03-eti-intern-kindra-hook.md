@@ -2,6 +2,7 @@
 layout: post
 title: ETI Intern, Kindra Hook
 categories: [health]
+image:
 ---
 Kindra Hook, BSN, is doing a 5-week internship at Gonja Hospital in Bombo, Tanzania.  She approached ETI last spring as she was finishing her undergrad in nursing, wanting an opportunity to get some Global Health experience before beginning her master's program in January of 2013.  I'll admit, she was a college friend of my youngest son, Alex, and since all of his friends are pretty amazing, I knew I'd like her and want to work with her before I even sat down to discuss her role as a volunteer nurse.  Even so, she has exceeded all my expectations!
 

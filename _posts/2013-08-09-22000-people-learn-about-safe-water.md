@@ -2,6 +2,7 @@
 layout: post
 title: 22,000 People Learn About Safe Water!
 categories: [health]
+image:
 ---
 In the first three months of the Improving Women's Health Program, over 22,000 people in the Same District attended educational workshops on how to keep their water clean and safe!
 

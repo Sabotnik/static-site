@@ -2,6 +2,7 @@
 layout: post
 title: The Impact of Improving Women's Health
 categories: [health]
+image:
 ---
 
 SIGNIFICANCE.

@@ -2,6 +2,7 @@
 layout: post
 title: An Empower Tanzania Ag Update
 categories: [development]
+image:
 ---
 
 Which animals are changing the lives of agricultural entrepreneurs in Tanzania? Goats, ducks, and chickens. Each animal helps farmers greatly increase their status and income. Eating meat, milk, and eggs benefits their health and the extra income can improve all aspects of life, including allowing parents to send their children to school. A third quarter visit to 31 farms conducted by Steven M. Kihoko, PLFO Same District,  and Mr. Joseph Kimbwereza, project manager, was successful. 

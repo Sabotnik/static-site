@@ -2,6 +2,7 @@
 layout: post
 title: Uraki School Water Project update
 categories: [health]
+image:
 ---
 Dave Schroeder and Allan Klotsche are two remarkable men who decided to climb Mount Kilimanjaro one year, and in the process, saw and responded to the needs of a nearby village with a horrible water problem.  The fact that they saw the problem is not so unusual...the problems are everywhere.  The fact that they responded, and have continued that commitment throughout this project make them heroes in our book!  We are honored to have been even a small part of this project, and look forward to continuing to work with Summit4Water.
 

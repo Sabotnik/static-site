@@ -2,6 +2,7 @@
 layout: post
 title: 2013 Iowa~Tanzania Summit
 categories: [education]
+image:
 ---
 
 At Empower Tanzania, we believe that nothing of greatness was ever done by just one person.  It takes a whole team of people to do the really big stuff in life, so we want to help enable people who work in Tanzania, including those who are FROM Tanzania, to find each other and strengthen their relationships to do more effective work.

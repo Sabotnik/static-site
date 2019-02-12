@@ -2,6 +2,7 @@
 layout: post
 title: Iowa~Tanzania Summit News
 categories: [news]
+image:
 ---
 Tuesday, the much awaited Iowa~Tanzania Summit took place in Des Moines as part of the larger Hunger Summit and 2012 World Food Prize events for the week.  In attendance were roughly 90 people from all over the world, eager to learn more about the unique connections between Iowans and Tanzanians.
 

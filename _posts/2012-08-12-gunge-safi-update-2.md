@@ -2,6 +2,7 @@
 layout: post
 title: Gunge Safi Update 2
 categories: [development]
+image:
 ---
 The Gunge Safi Project is ready for construction!  With the rainy season beginning in November, it is time for Manase Construction and the people of Gunge, Tanzania, to begin work building the structure that will capture water and bring it to the 800 acres that feeds these people.
 

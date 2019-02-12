@@ -2,6 +2,7 @@
 layout: post
 title: Gunge Safi Update
 categories: [development]
+image:
 ---
 The very rural village of Gunge has been waiting a long time for water.
 

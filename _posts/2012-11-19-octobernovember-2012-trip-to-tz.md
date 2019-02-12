@@ -2,6 +2,7 @@
 layout: post
 title: October/November 2012 Trip to TZ
 categories: [news]
+image:
 ---
 This is a series of notes to home, written by ETI staffer Sheri Krumm on a recent visit to Tanzania.  We hope it will give you some picture of what we do.  
 

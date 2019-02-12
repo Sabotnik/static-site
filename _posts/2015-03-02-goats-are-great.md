@@ -2,6 +2,7 @@
 layout: post
 title: Goats are Great!
 categories: [development]
+image:
 ---
 We were delighted with an update on the Hedaru and Masandare farmers from Integrated Farming Manager Joseph Kimbwereza last week! Joseph reports that the farmers and animals in our program are thriving. It is currently very dry in this region of Tanzania, but the animals are healthy because the farmers know how to care for their livestock in these conditions. Our empowered farmers are motivated to do what is necessary to provide for their animals. Joseph writes the following:
 

@@ -2,6 +2,7 @@
 layout: post
 title: New Program Manager for IWHP
 categories: [health]
+image:
 ---
 At ETI, we believe that when you educate a woman, you change the entire village, and we have put that belief into action in our latest staff hire. <strong>Efrancia Mzota</strong> is the new Program Manager for the <strong>Improving Women's Health Program</strong>, and she has already begun the process of recruiting 26 women to be Community Health Educators (CHEs) in the Same District.
 

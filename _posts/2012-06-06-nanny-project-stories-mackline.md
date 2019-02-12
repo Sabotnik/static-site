@@ -2,6 +2,7 @@
 layout: post
 title: Nanny Project Stories - Mackline
 categories: [development]
+image:
 ---
 
 In 2010, eighteen year old Mackline Mcharo of Hedaru finished secondary school.  Like most girls in Tanzania, she could not continue her education, so she began to wonder what would happen to her.  How does a girl without a trade or a college education support herself in a rural village in Tanzania?  Typically, she gets married, and begins the cycle of farming and raising children and barely surviving that will consume the rest of her life as a subsistence farmer.  She knows her odds of contracting HIV from her husband will be high, and she knows that her future is set in stone.  That's what it is to be a young girl in rural Tanzania.

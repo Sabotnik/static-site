@@ -2,6 +2,7 @@
 layout: post
 title: Training Begins!
 categories: [education]
+image:
 ---
 Drillers, water technicians, citizens from the Same and Mwanga districts, and representatives from the Pangani Water Board Authority gathered earlier this summer to learn about drilling viable wells. 
 

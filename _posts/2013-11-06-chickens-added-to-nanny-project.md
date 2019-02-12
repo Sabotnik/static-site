@@ -2,6 +2,7 @@
 layout: post
 title: Chickens added to Nanny Project
 categories: [development]
+image:
 ---
 Chickens are the newest residents at ten of our Nanny Project Farms in Hedaru, improving breakfasts every day!  Each year the farmers choose a new product to add to their farms, and this year, poultry was the unanimous winner in the unofficial farmer poll.  It appears that it was a good idea.
 

@@ -2,6 +2,7 @@
 layout: post
 title: New Water Project!
 categories: [news]
+image:
 ---
 ETI is excited to announce that we recently signed an agreement to do a water project with a new partner, Rewerts Well Company, Inc., in Nevada, Iowa!  The owner of the company, Justin Rewerts, will be leading the Well Rehabilitation Project which locates and fixes wells that are in disrepair in the Mwanga and Same Districts of Tanzania.
 

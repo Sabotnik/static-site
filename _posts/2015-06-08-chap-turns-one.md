@@ -2,6 +2,7 @@
 layout: post
 title: CHAP TURNS ONE!
 categories: [health]
+image:
 ---
 The Community-Hospital Alliance Program (CHAP), a partnership between Empower Tanzania and Global Health Administration Partners, is one year old!
 

@@ -2,6 +2,7 @@
 layout: post
 title: YouTube as a Training Tool and Healthcare Equalizer
 categories: [health]
+image:
 ---
 YouTube may be better known for its host of viral cat videos, but Empower Tanzania uses it for more. In fact, YouTube houses an extensive collection of videos that we use to empower our community health workers in rural Tanzania.
 

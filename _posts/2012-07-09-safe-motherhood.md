@@ -2,6 +2,7 @@
 layout: post
 title: Safe Motherhood
 categories: [health]
+image:
 ---
 In the Masai village of Nadururu, Tanzania, too many women were dying in childbirth. Tanzania’s maternal mortality rate is 10 times that of the United States, and in a rural area among a minority people it is even worse.
 

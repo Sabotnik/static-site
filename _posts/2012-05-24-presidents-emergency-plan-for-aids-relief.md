@@ -2,6 +2,7 @@
 layout: post
 title: Palliative Care Project
 categories: [health]
+image:
 ---
 This program is funded by PEPFAR (President’s Emergency Plan for AIDS Relief) and is a collaborative effort of Empower Tanzania, Inc and the Pare Diocese of the Evangelical Lutheran Church in Tanzania.  However, the project’s activities are ecumenical, with all religious groups invited to the initial training programs. Pilot sites selected are found at medical facilities managed by the Roman Catholic Church, the Tanzanian Government and the Lutheran Church.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Kid's Club for Orphans
 categories: [education]
+image:
 ---
 Empower Tanzania is partnered with the Des Moines Rotary Club  to provide an educational program for vulnerable children in the villlage of Mramba, Tanzania.  The $3,000 budget established a weekly program of education in life skills for 50 children in the village, and St. John's Lutheran Church in Des Moines provides continuing funding to maintain the program.
 

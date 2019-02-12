@@ -2,6 +2,7 @@
 layout: post
 title: Katahe Well Drilling Begins Soon!
 categories: [development]
+image:
 ---
 
 Thanks to some very generous donations in 2014, Phase 1 of the Katahe Water Project is fully funded and about to begin!  This is a big victory for the people of this small Maasai village in northeastern Tanzania who have lived their whole lives with no water in the village.  They depend on the nearby Pangani River which is notorious for crocodiles and rock pythons, both capable of attacking children and eating small unsuspecting goats as they drink. To the people who live and raise animals in this dry desert, this well is an answer to a prayer.
