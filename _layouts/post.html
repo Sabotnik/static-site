@@ -1,22 +1,53 @@
 ---
 layout: default
 ---
-<div class="row post-heading">
-  {% if page.image %}
-  <div class="col"  id="featured-image">
-    <div>
-      <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.image_alt_text }}">
+<div class="post-container">
+
+  <div class="post-categories">
+    <div class="row">
+      <div class="col">
+        Print Share
+      </div>
+      <div class="col">
+        <ul>
+          <li><h4>Categories</h4></li>
+          <li><a href="{{ site.baseurl }}/news&events/">See All</a></li>
+          <li><a href="{{ site.baseurl }}/news&events#filter=.health">Health for Life</a></li>
+          <li><a href="{{ site.baseurl }}/news&events#filter=.education">Education for Tomorrow</a></li>
+          <li><a href="{{ site.baseurl }}/news&events#filter=.development">Economic Empowerment</a></li>
+          <li><a href="{{ site.baseurl }}/news&events#filter=.events">Events</a></li>
+        </ul>
+      </div>
     </div>
   </div>
-  {% endif %}
-  <div class="col" id="post-info">
-      <h1>{{ page.title }}</h1>
-      <h3>Posted on {{ page.date | date_to_string }}</h3>
-      <p>Category: {{ page.categories }}</p>
+
+  <div class="post-heading">
+    <div class="row">
+      <div class="col">
+        <div class="bg-{{page.categories.first}} text-white">
+          {{ page.categories }}
+        </div>
+        <div class="post-info">
+          <h1>{{page.title}}</h1>
+          <p>Posted on {{page.date | date_to_string}}</p>
+        </div>
+      </div>
+      {% if page.image %}
+      <div class="col featured-image">
+        <div>
+          <img src="{{ site.baseurl }}{{ page.image }}" alt="{{ page.image_alt_text }}">
+        </div>
+      </div>
+      {% endif %}
+    </div>
   </div>
-</div>
-<div class="row">
-  <div class="col">
-    {{ page.content }}
+    
+  <div class="row">
+    <div class="col">
+      {{ page.content }}
+    </div>
   </div>
-</div>
+
+</div><!--end post-container-->
+
+{% include newsletter.html %}
