@@ -3,60 +3,56 @@ layout: default
 ---
 <div class="post-container">
 
-  <div class="row">
-    
-    <div class="col">
-      <div>
-        Print Share
-      </div>
-      <ul>
-        <li><h4>Categories</h4></li>
-        <li><a href="{{ site.baseurl }}/news&events/">See All</a></li>
-        <li><a href="{{ site.baseurl }}/news&events#filter=.health">Health for Life</a></li>
-        <li><a href="{{ site.baseurl }}/news&events#filter=.education">Education for Tomorrow</a></li>
-        <li><a href="{{ site.baseurl }}/news&events#filter=.development">Economic Empowerment</a></li>
-        <li><a href="{{ site.baseurl }}/news&events#filter=.events">Events</a></li>
-      </ul>
-      <nav class="post_navigation">
-        {% if page.previous.url %}
-          <a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
-        {% endif %}
-        {% if page.next.url %}
-          <a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
-        {% endif %}
-      </nav>
+  <div class="post-sidebar">
+    <div>
+      <i class="fas fa-print fa-2x"></i>
+      <i class="fas fa-share-alt fa-2x"></i>
     </div>
+    <ul>
+      <li><h4>Categories</h4></li>
+      <li><a href="{{ site.baseurl }}/news&events/">See All</a></li>
+      <li><a href="{{ site.baseurl }}/news&events#filter=.health">Health for Life</a></li>
+      <li><a href="{{ site.baseurl }}/news&events#filter=.education">Education for Tomorrow</a></li>
+      <li><a href="{{ site.baseurl }}/news&events#filter=.development">Economic Empowerment</a></li>
+      <li><a href="{{ site.baseurl }}/news&events#filter=.events">Events</a></li>
+    </ul>
+    
   </div>
 
-  <div class="post-heading">
-    <div class="bg-{{page.categories.first}} text-white">
-      {{ page.categories | array_to_sentence_string | upcase }}
-    </div>
-
-    <div class="post-info">
-      <h1>{{page.title}}</h1>
-      <p>Posted on {{page.date | date_to_string}}</p>
-    </div>
-   
-
-    {% if page.image %}
-      <div class="featured-image" style="background-image: url({{ site.baseurl }}{{ page.image }}); background-size: cover; background-position: center;">
+  <div>
+  
+    <div class="post-heading">
+      <div class="bg-{{page.categories.first}} text-white post-category">
+        {{ page.categories | array_to_sentence_string | upcase }}
       </div>
-    {% endif %}
 
-    {{ page.content }}
-  </div>
+      <div class="row">
+        <div class="post-info col">
+          <h1>{{page.title}}</h1>
+          <p>Posted on {{page.date | date_to_string}}</p>
+        </div>
     
+        {% if page.image %}
+          <div class="featured-image col" style="background-image: url({{ site.baseurl }}{{ page.image }}); background-size: cover; background-position: center;">
+          </div>
+        {% endif %}
+      </div>
+    </div>
+    
+    <div class="page-content row">
+      {{ page.content }}
+    </div>
 
+    <nav class="post-navigation">
+      {% if page.previous.url %}
+        <a href="{{ page.previous.url }}"><i class="fas fa-chevron-left"></i> {{page.previous.title | truncatewords: 5, '...'}}</a>
+      {% endif %}
+      {% if page.next.url %}
+        <a href="{{ page.next.url }}">{{page.next.title | truncatewords: 5, '...'}} <i class="fas fa-chevron-right"></i></a>
+      {% endif %}
+    </nav>
 
-  <nav class="post_navigation">
-    {% if page.previous.url %}
-      <a href="{{ page.previous.url }}">&laquo; {{ page.previous.title }}</a>
-    {% endif %}
-    {% if page.next.url %}
-      <a href="{{ page.next.url }}">{{ page.next.title }} &raquo;</a>
-    {% endif %}
-  </nav>
+  </div>
 
 </div><!--end post-container-->
 
