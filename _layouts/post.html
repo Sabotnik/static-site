@@ -5,8 +5,15 @@ layout: default
 
   <div class="post-sidebar">
     <div>
-      <i class="fas fa-print fa-2x"></i>
-      <i class="fas fa-share-alt fa-2x"></i>
+      <a href="javascript:window.print()">
+        <i class="fas fa-print fa-2x"></i>
+      </a>
+      <a href="https://facebook.com/sharer.php?u={{ site.url }}{{ page.url }}"
+          rel="nofollow"
+          class="share-button facebook"
+          target="_blank">
+        <i class="fas fa-share-alt fa-2x"></i>
+      </a>
     </div>
     <ul>
       <li><h4>Categories</h4></li>
