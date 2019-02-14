@@ -95,15 +95,25 @@
 #upcoming-events {
   .row {
     flex-direction: column;
+    padding-left: 0;
+    padding-top: 100px;
+    width: 100%;
   }
+  height: 80vh;
+  background-image: url('./../images/upcoming-hero.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 #upcoming-header {
+  justify-content: flex-start;
   align-items: stretch;
+  padding-left: 0;
   h2 {
     background-color: $tertiary;
-    padding: 20px;
-    text-align: center;
-    
+    padding: 20px 30px;
+    text-align: right;
+    margin-bottom: 30px;
   }
 }
 #events-list {
@@ -135,6 +145,18 @@
   #upcoming-events {
     .row {
       flex-direction: row;
+    }
+  }
+  #upcoming-header {
+    flex-grow: 2;
+  }
+  #events-list {
+    flex-grow: 3;
+    padding-left: 80px;
+    align-items: flex-start;
+    .btn-secondary-outline {
+      padding-left: 60px;
+      padding-right: 60px;
     }
   }
 }
