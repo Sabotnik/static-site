@@ -119,6 +119,13 @@
   }
 }
 #events-list {
+  h4 {
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  p {
+    font-family: $font-alt;
+  }
   a {
     margin-top: 40px;
     margin-bottom: 30px;
@@ -193,6 +200,9 @@
 @media (min-width: 1200px) {
   .hero {
     height: calc(100vh - 174px);
+  }
+  #events-list p {
+    font-size: 1.25em;
   }
 }
 @media (min-width: 1400px) {
