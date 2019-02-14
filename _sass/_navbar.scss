@@ -1,6 +1,5 @@
 nav,
-.main-nav,
-.social-icon-nav {
+.main-nav {
   display: flex;
 }
 nav,
@@ -29,19 +28,8 @@ nav {
 .main-nav a.nav-link.active {
   color: $warning;
 }
-.social-icon-nav a {
+.main-nav a:hover {
   color: $primary;
-}
-.main-nav a:hover, .social-icon-nav a:hover {
-  color: $primary;
-}
-.social-icon-nav {
-  display: flex;
-  justify-content: center;
-}
-.social-icon-nav {
-  margin-top: 20px;
-  margin-bottom: 20px;
 }
 .nav-link-toggle {
   align-self: flex-end;

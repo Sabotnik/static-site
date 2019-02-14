@@ -2,7 +2,7 @@
   
   <div class="footer-row">
 
-    <ul>
+    <ul class="border">
       <li>
         <a href="{{ site.baseurl }}/">Home</a>
       </li>
@@ -17,7 +17,7 @@
       </li>
     </ul>
 
-    <ul>
+    <ul class="border">
       <li>
         <a href="{{ site.baseurl }}/contact/">Contact & Hours</a>
       </li>
@@ -29,7 +29,7 @@
       </li>
     </ul>
 
-    <div>
+    <div id="footer-address">
       <address>
         <ul class="text-white">
           <li><span>Location</span></li>
@@ -40,6 +40,10 @@
       </address>
 
       {% include social-nav.html %}
+    </div>
+
+    <div id="white-logo">
+      <img src="{{site.baseurl}}/assets/images/logo-white.svg" alt="FIT Rx company logo white">
     </div>
     
   </div>
