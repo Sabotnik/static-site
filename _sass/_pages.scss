@@ -80,10 +80,35 @@
   align-items: center;
   padding-top: 30px;
   padding-bottom: 30px;
+  div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
   h3 {
     color: white;
     font-weight: 400;
     text-align: center;
+    margin-bottom: 30px;
+  }
+}
+#upcoming-events {
+  .row {
+    flex-direction: column;
+  }
+}
+#upcoming-header {
+  align-items: stretch;
+  h2 {
+    background-color: $tertiary;
+    padding: 20px;
+    text-align: center;
+    
+  }
+}
+#events-list {
+  a {
+    margin-top: 40px;
     margin-bottom: 30px;
   }
 }
@@ -107,6 +132,11 @@
     align-items: flex-start;
     justify-content: space-between;
   }
+  #upcoming-events {
+    .row {
+      flex-direction: row;
+    }
+  }
 }
 @media screen and (max-device-width: 800px) {
 
@@ -125,6 +155,11 @@
       font-size: 1.75em;
     }
     width: 80%;
+  }
+  #schedule-session {
+    div {
+      width: 80%;
+    }
   }
 }
 @media (min-width: 1050px) {

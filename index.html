@@ -46,3 +46,31 @@ title: Home
     <a class="btn btn-primary-outline" href="#">Schedule a Session</a>
   </div>
 </div>
+
+<div id="upcoming-events">
+
+  <div class="row">
+    <div id="upcoming-header" class="col">
+      <h2>Upcoming Events</h2>
+    </div>
+  
+    <div id="events-list" class="col">
+      {% if site.posts %}
+        <div>
+          <h4>Event title goes here</h4>
+          <small>Event Date | Event Time | Event Location</small>
+        </div>
+  
+        <div>
+          <h4>Event title goes here</h4>
+          <small>Event Date | Event Time | Event Location</small>
+        </div>
+  
+        <a class="btn btn-secondary-outline" href="#">See All Events</a>
+      {% else %}
+        <h4>Check back soon!</h4>
+      {% endif %}
+    </div>
+  </div>
+
+</div>
