@@ -76,10 +76,6 @@
   line-height: 2;
 }
 .post-container {
-  background-image: url('./../images/teal-divider-pattern.png');
-  background-position: top;
-  background-repeat: no-repeat;
-  padding-top: 80px;
   color: $tertiary;
 }
 .post-sidebar {
@@ -118,6 +114,15 @@
 }
 .post-heading {
   background-color: #e5e3e3;
+  background: 
+    linear-gradient(
+      rgba(#e5e3e3, 0.85),
+      rgba(#e5e3e3, 0.85)
+    ),
+    url('./../images/post-background.jpg');
+  background-size: 100%, cover;
+  background-repeat: no-repeat;
+  background-position: center, 50% center;
   h1 {
     font-size: 1.5em;
     margin-bottom: 20px;
@@ -131,15 +136,15 @@
   align-self: stretch;
 }
 .post-info {
-  padding: 0;
+  padding: 20px;
 }
 .featured-image {
-  align-self: center;
-  width: 325px;
-  height: 325px;
+  width: 400px;
+  height: 400px;
+  padding: 0;
 }
 .post-content {
-  padding: 20px;
+  padding: 15px;
 }
 .post-navigation {
   a {
@@ -224,6 +229,10 @@
     flex-direction: row;
     justify-content: space-around;
   }
+  .featured-image {
+    width: 500px;
+    height: 500px;
+  }
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
@@ -231,7 +240,8 @@
     width: 400px;
   }
   .featured-image {
-    min-height: 500px;
+    
+    align-self: flex-end;
   }
 }
 @media (min-width: 1050px) {
@@ -252,6 +262,9 @@
     display: flex;
     flex-direction: row-reverse;
   }
+  .featured-image {
+    width: 600px;
+  }
 }
 @media (min-width: 1400px) {
   .grid {
@@ -262,8 +275,12 @@
     justify-content: flex-start;
     padding-left: 30px;
     ul {
-      width: 400px;
+      width: 300px;
     }
+  }
+  .post-container {
+    width: 80%;
+    align-self: center;
   }
 }
 @media (min-width: 1750px) {
@@ -272,5 +289,8 @@
   } 
   #event-highlight img {
     width: 90%;
+  }
+  .post-container {
+    width: 70%;
   }
 }
