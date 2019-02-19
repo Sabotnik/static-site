@@ -7,8 +7,6 @@ image: /assets/images/post-images/birthday.jpg
 
 *From Yoeza Mnzava, Empower Tanzania Education Programs Coordinator:*
 
-![](/uploads/2018/04/24/happy-birthday-to-the-same-learning-center/test-image.jpeg)
-
 Happy One Year of Happiness!
 
 April 22nd marked one year since we opened the Same Learning Center with 40 students and one teacher.<!--base32-dnqq4t8-base32-->
