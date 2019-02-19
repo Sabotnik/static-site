@@ -114,11 +114,13 @@
   background-repeat: no-repeat;
   background-position: center, 50% center;
   padding: 50px 0;
-  .row.col {
+  .row>.col {
     justify-content: flex-start;
+    padding-top: 0;
   }
   figure {
-    margin-top: 15px;
+    margin-top: 30px;
+    align-self: flex-start;
   }
 }
 #programs-highlight {
@@ -184,6 +186,7 @@
 .program-info {
   padding-top: 100px;
   padding-bottom: 50px;
+  text-align: center;
   h2 {
     color: $highlight;
     text-transform: uppercase;
@@ -366,7 +369,7 @@
     height: calc(100vh - 181px);
   }
   #donate-once, #donate-monthly {
-    height: 50vh;
+    height: 60vh;
   }
   .orange-divider-pattern, .teal-divider-pattern, .blue-divider-pattern {
     background-repeat: repeat-x;
