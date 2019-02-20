@@ -1,9 +1,11 @@
 ---
 layout: post
 title: 10 Steps to Water at Pangaro
-categories: [development]
-image: /assets/images/post-images/10stepstowater.jpg
+categories:
+  - development
+image: /assets/images/post-images/PangaroBLOG800.jpg
 ---
+
 Clean water solutions are incredibly complex and require intense planning, organization, management, and fundraising. Here's a brief primer on how we delivered on our promise of clean water in the village of Pangaro:
 
 1. Acknowledge request from the community for a clean water source. After learning about the need, Empower Tanzania made a commitment to the people of Pangaro and asked that the community form a water committee.
