@@ -8,7 +8,7 @@ image: /assets/images/post-images/nadururu2018-88.jpg
 
 **We love sharing reports from our program managers, participants, and stakeholders in Tanzania. What follows is from Chief Kiboko (pictured below), a Maasai chief, longtime partner, and advocate for social good. We have worked closely with Chief Koboko over the years as we have established and implemented the Community-Hospital Alliance Program. Below is an exciting glimpse of his most recent report from the field:**
 
-![](/uploads/fromthefield.jpg)![](/uploads/2017/12/07/from-the-field---a-report-from-chief-kiboko/fromthefield1200.jpg)
+![](/uploads/2017/12/07/from-the-field---a-report-from-chief-kiboko/fromthefield1200.jpg)
 
 **Introduction:** This report was prepared by Chief Kiboko Olemunga (Ruvu Ward Councilor) on behalf of the committee and submitted to Empower Tanzania office.
 
