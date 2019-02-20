@@ -8,7 +8,7 @@ image: /assets/images/post-images/TZday7-0416.jpg
 
 Empower Tanzania received an invitation to participate in the Celebration of International Women's Day from the Community Development Department of the Same Council. The motto of the day was one we love. It translates to this:***&nbsp;"Towards the industrial economy, to strengthen gender equality and the empowerment of rural women.”***
 
-![](/uploads/2018/03/08/international-womens-day/beyondgenderbased.jpg)
+&nbsp;
 
 Empower Tanzania staff Efrancia and Catherine, along with 10 women from our Beyond Gender Based Violence support groups from Mahuu, Kisima, and Stesheni, participated in the celebration. They set up an Empower Tanzania table to display the gorgeous products made by our entrepreneurs and enjoyed the opportunity to speak to all the participants about gender-based violence and how our program has helped to change the lives of 100 women who are now **survivors**&nbsp;of gender-based violence.
 
