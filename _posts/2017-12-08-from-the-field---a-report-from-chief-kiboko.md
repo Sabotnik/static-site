@@ -18,13 +18,19 @@ image: /assets/images/post-images/nadururu2018-88.jpg
 
 The achievements realized in Maasai Community because of our program, the Community-Hospital Alliance Program (CHAP), can be explained in many different ways, however Chief Kiboko is mentioning three main things (achievements) realized because of the work of the Communicty Health Workers (CHWs).
 
-* Construction and use of latrines: The construction and use of latrines in most of Maasai villages has increased. The education on construction and use of latrine is carried out by our CHWs along with other public health education including hand washing, boiling water (safe and clean water). Previously it was common to have an outbreak of cholera in Maasai area, but this year up to now, no any cholera case reported in Maasai areas. This is considered to be very big achievement in this area.
-* Patriarchy system: The system whereby men are taking overall control of the family was very common in Maasai community women had nothing to say in all aspects of the family. However, because of the Empower Tanzania programs with Maasai, there is an improvements because now men are ready to discuss with their wives for issues pertaining to their families including resource access, allocation and ownership in the family.
-* Respecting/listening to women: At the time when the program started, men were not ready to listen to the Community Health Worker. Sometimes they (men) did not want even to participate when CHWs are carrying out education session in various bomas. (See photo of traditional boma above.) Women were very much ignored and left behind. This is now different as most Maasai men do listen to women. The men usually request the CHWs to visit their bomas and they (CHWs) are consulted when there are problems relating to health issues.
+~Construction and use of latrines: The construction and use of latrines in most of Maasai villages has increased. The education on construction and use of latrine is carried out by our CHWs along with other public health education including hand washing, boiling water (safe and clean water). Previously it was common to have an outbreak of cholera in Maasai area, but this year up to now, no any cholera case reported in Maasai areas. This is considered to be very big achievement in this area.
+
+~Patriarchy system: The system whereby men are taking overall control of the family was very common in Maasai community women had nothing to say in all aspects of the family. However, because of the Empower Tanzania programs with Maasai, there is an improvements because now men are ready to discuss with their wives for issues pertaining to their families including resource access, allocation and ownership in the family.
+
+~Respecting/listening to women: At the time when the program started, men were not ready to listen to the Community Health Worker. Sometimes they (men) did not want even to participate when CHWs are carrying out education session in various bomas. (See photo of traditional boma above.) Women were very much ignored and left behind. This is now different as most Maasai men do listen to women. The men usually request the CHWs to visit their bomas and they (CHWs) are consulted when there are problems relating to health issues.
 
 **Other achievement mentioned include:**
 
-Increase of women delivering to the health facilities instead of delivering at home. Women and other sick people are ready to go when referred to the health facilities by the CHWs. The corporal punishment and gender-based violence (GBV) reduced.
+~Increase of women delivering to the health facilities instead of delivering at home.
+
+~Women and other sick people are ready to go when referred to the health facilities by the CHWs.
+
+~The corporal punishment and gender-based violence (GBV) reduced.
 
 **CHALLENGES:** The most noted challenge is “transport” to visit Maasai villages and bomas since Maasai live some distance away from each other.
 
