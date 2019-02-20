@@ -3,7 +3,7 @@ layout: post
 title: Meet Bahati
 categories:
   - health
-image: /assets/images/post-images/untitled-.jpg
+image: /assets/images/post-images/untitled--2.jpg
 ---
 
 Children: Halima (18), Mwajuma (15), Omari (12), Rashid (9), Sahahda (6)
