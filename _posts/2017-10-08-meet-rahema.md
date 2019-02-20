@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Meet Rahema
-categories: [health]
-image: /assets/images/post-images/meetrahema.jpg
+categories:
+  - health
+image: /assets/images/post-images/Rahemaedited.jpg
 ---
 
 Children: Calvin (15), Frederick (12), Ntiwe (8), Stephen (5)
