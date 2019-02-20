@@ -117,13 +117,14 @@
   background: 
     linear-gradient(
       rgba(#e5e3e3, 0.85),
-      rgba(#e5e3e3, 0.85)
+      rgba(#e5e3e3, 0.95)
     ),
     url('./../images/post-background.jpg');
   background-size: 100%, cover;
   background-repeat: no-repeat;
   background-position: center, 50% center;
   h1 {
+    color: white;
     font-size: 1.5em;
     margin-bottom: 20px;
   }
@@ -133,14 +134,18 @@
   align-items: flex-start;
 }
 .post-category {
-  align-self: stretch;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: space-between;
 }
 .post-info {
-  padding: 20px;
+  padding: 0px;
+  justify-content: space-between;
 }
 .featured-image {
-  width: 400px;
-  height: 400px;
+  width: 100%;
+  height: auto;
   padding: 0;
 }
 .post-content {
@@ -219,7 +224,6 @@
     width: 640px;
   }
   .post-info {
-    justify-content: flex-start;
     h1 {
       font-size: 2.25em;
       margin-top: 30px;
@@ -229,20 +233,13 @@
     flex-direction: row;
     justify-content: space-around;
   }
-  .featured-image {
-    width: 500px;
-    height: 500px;
-  }
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
   #event-highlight img {
     width: 400px;
   }
-  .featured-image {
-    
-    align-self: flex-end;
-  }
+  
 }
 @media (min-width: 1050px) {
   .grid {
@@ -261,9 +258,6 @@
     background-repeat: repeat-x;
     display: flex;
     flex-direction: row-reverse;
-  }
-  .featured-image {
-    width: 600px;
   }
 }
 @media (min-width: 1400px) {
