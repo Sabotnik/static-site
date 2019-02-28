@@ -2,7 +2,10 @@
 layout: post
 title: International Women's Day Auction
 categories:
+  - health
   - education
+  - development
+  - news
 image: /assets/images/post-images/bag.jpg
 ---
 
