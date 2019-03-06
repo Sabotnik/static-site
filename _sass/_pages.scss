@@ -149,8 +149,23 @@
   }
 }
 /* Different elements on pages */
-
-
+#about-mission {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+}
+.orange-callout {
+  background-color: $primary;
+  color: white;
+}
+#about-location {
+  background-image: 
+    linear-gradient(
+      to top,
+      rgba($tertiary, 0.5), rgba($tertiary, 0.5)
+    ),
+    url('./../images/location-background.jpg');
+}
 /* =================================
   Media Queries
 ==================================== */
