@@ -153,6 +153,9 @@
   padding: 0;
   margin: 0;
   width: 100%;
+  .col {
+    padding: 20px;
+  }
 }
 .orange-callout {
   background-color: $primary;
@@ -164,7 +167,23 @@
       to top,
       rgba($tertiary, 0.5), rgba($tertiary, 0.5)
     ),
-    url('./../images/location-background.jpg');
+    url('./../images/location-background.jpg')
+  ;
+  color: white;
+  padding: 20px;
+}
+#operation-hours {
+  h2 {
+    @include transparent-bg($secondary, 0.95);
+    padding: 20px;
+  }
+  ul {
+    padding: 20px;
+  }
+  a {
+    margin-left: 20px;
+    margin-bottom: 20px;
+  }
 }
 /* =================================
   Media Queries
@@ -201,6 +220,20 @@
     .btn-secondary-outline {
       padding-left: 60px;
       padding-right: 60px;
+    }
+  }
+  #about-mission {
+    h3 {
+      font-size: 1.75em;
+    }
+    .col {
+      padding: 60px;
+    }
+  }
+  #about-location {
+    padding: 100px;
+    h3 {
+      font-size: 1.75em;
     }
   }
 }
@@ -243,6 +276,12 @@
 @media (min-width: 1400px) {
   #home-about {
     width: 70%;
+  }
+  #about-location {
+    padding-left: 300px;
+    padding-right: 300px;
+    padding-top: 100px;
+    padding-bottom: 100px;
   }
 }
 @media (min-width: 1750px) {
