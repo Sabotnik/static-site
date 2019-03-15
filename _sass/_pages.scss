@@ -177,14 +177,28 @@
     @include transparent-bg($secondary, 0.95);
     padding: 20px;
   }
+  h3 {
+    font-weight: 700;
+  }
   ul {
-    padding: 20px;
+    margin-top: 20px;
+    color: $secondary;
+  }
+  li {
+    display: flex;
+    align-items: center;
+    margin-top: 15px;
+    img {
+      margin-right: 15px;
+    }
   }
   a {
-    margin-left: 20px;
+    margin-top: 10px;
     margin-bottom: 20px;
+    font-size: 1.25em;
   }
 }
+
 /* =================================
   Media Queries
 ==================================== */
@@ -272,6 +286,9 @@
   #events-list p {
     font-size: 1.25em;
   }
+  #about-hours {
+    align-items: flex-start;
+  }
 }
 @media (min-width: 1400px) {
   #home-about {
@@ -282,6 +299,11 @@
     padding-right: 300px;
     padding-top: 100px;
     padding-bottom: 100px;
+  }
+  #personal-training {
+    img {
+      max-width: 600px;
+    }
   }
 }
 @media (min-width: 1750px) {
