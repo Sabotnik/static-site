@@ -198,7 +198,15 @@
     font-size: 1.25em;
   }
 }
-
+#terms {
+  h1,h2,ul,small {
+    color: $secondary;
+    margin-bottom: 20px;
+  }
+  ul {
+    
+  }
+}
 /* =================================
   Media Queries
 ==================================== */
@@ -247,6 +255,11 @@
   #about-location {
     padding: 100px;
     h3 {
+      font-size: 1.75em;
+    }
+  }
+  #terms {
+    h2 {
       font-size: 1.75em;
     }
   }
