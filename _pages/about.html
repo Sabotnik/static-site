@@ -80,12 +80,12 @@ title: About
     <h3 class="text-uppercase">Members</h3>
     <div>
       <ul>
-        {% for member in site.data.board_members limit:4 %}
+        {% for member in site.data.board_members limit:6 %}
         <li>{{ member.name }}</li>
         {% endfor %}
       </ul>
       <ul>
-        {% for member in site.data.board_members offset:4 %}
+        {% for member in site.data.board_members offset:6 %}
         <li>{{ member.name }}</li>
         {% endfor %}
       </ul>
