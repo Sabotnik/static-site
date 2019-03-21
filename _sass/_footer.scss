@@ -30,6 +30,13 @@
     justify-content: center;
   }
 }
+#copyright {
+  margin-bottom: 0;
+}
+#mailing-address {
+  margin-top: 0;
+  padding-top: 0;
+}
 //This social-icon-nav is repetitive but necessary due to ETI structure. Probably restructure in future.
 .social-icon-nav a {
   color: $primary;
