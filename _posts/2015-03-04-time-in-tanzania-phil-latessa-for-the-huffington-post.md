@@ -6,7 +6,7 @@ categories:
 image: /assets/images/post-images/hedaru-63.jpg
 ---
 
-***By Phil Latessa, originally posted in The Huffington Post***
+***![](/uploads/2015/03/03/time-in-tanzania-phil-latessa-for-the-huffington-post/screen-shot-2015-04-08-at-9-13-01-pm.jpg)By Phil Latessa, originally posted in The Huffington Post***
 
 Time in Tanzania Unless you look at your watch, time is subjective. It passes quickly when you are playing baseball with your friends and very slowly when you are in Psych class and the professor is droning on. But, of course, we are compelled to look at our watches and that makes time objective and digital. It divides our day into discrete units into which we feel compelled to insert some sort of productive activity. Even our leisure time tends to get allocated to something useful like running errands or raking leaves.
 
