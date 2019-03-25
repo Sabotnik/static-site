@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Party with a Purpose - A Brewery Birthday
-categories: [development]
-image:
+categories:
+  - development
+image: /assets/images/post-images/2.png
 ---
 
 ![](/uploads/2015/06/22/party-with-a-purpose-a-brewery-birthday/jemily1-copy.jpg)When Empower Tanzania supporter Jake and his sister-in-law Emily were discussing their June birthday plans, the two decided to throw a party at one of their favorite local breweries and invite friends to bring a donation to Empower Tanzania rather than a gift.
