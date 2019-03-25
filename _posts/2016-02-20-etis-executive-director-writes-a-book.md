@@ -12,6 +12,4 @@ We're so excited for Phil Latessa's new book,&nbsp;*Surviving Vodka Toasts and R
 
 More than a travelogue, the book tells the stories of twenty years of international experiences Latessa had working with volunteer physicians, nurses, educators and administrators, and how working with people from different cultures, races, and religions gave him insights about tolerance, respect, careful planning, and the importance of listening before talking.
 
-#### "Phil Latessa's work has improved the lives of thousands around the world and inspired many volunteers to give their time. His story is unique.”&nbsp;*—Abraham Verghese, author of CUTTING FOR STONE*
-
-> &nbsp;
+*"Phil Latessa's work has improved the lives of thousands around the world and inspired many volunteers to give their time. His story is unique.” —Abraham Verghese, author of CUTTING FOR STONE*
