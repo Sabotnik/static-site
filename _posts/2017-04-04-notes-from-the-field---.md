@@ -2,6 +2,7 @@
 layout: post
 title: Notes from the field...
 categories: [news]
+image:
 ---
 
 *\*\*Note: We often ask our volunteers and supporters who travel to Tanzania and observe the work we do to share a bit about their experience. This reflection comes from Frances Murray Taylor who traveled to Tanzania as part of a small cohort in March of 2017. \*\**
