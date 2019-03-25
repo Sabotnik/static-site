@@ -6,7 +6,7 @@ categories:
 image: /assets/images/post-images/che-13.jpg
 ---
 
-*\*\*Note: We often ask our volunteers and supporters who travel to Tanzania and observe the work we do to share a bit about their experience. This reflection comes from Frances Murray Taylor who traveled to Tanzania as part of a small cohort in March of 2017. \*\**
+*Note: We often ask our volunteers and supporters who travel to Tanzania and observe the work we do to share a bit about their experience. This reflection comes from Frances Murray Taylor who traveled to Tanzania as part of a small cohort in March of 2017.*
 
 I observed the training sessions for the women of the Improving Women’s Health Program. It was uplifting to see the more than 30 women who came, some with young children, to attend the training sessions. As each woman was introduced to the group of us representing Empower Tanzania, she gave us a snapshot version of the progress made in her community. The areas mentioned included family planning, money management, improved health, and enabling programs in the schools. I was told that two years ago, about half of the women were involved in community organizations but today more than three quarters raised their hands when asked how many were ward councilors in their communities. Because of this effort, almost 700,000 people had attended the training sessions they conducted using the information that they had learned. Malaria has dropped, more babies are being vaccinated, and hand washing has become a priority.
 
