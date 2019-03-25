@@ -3,7 +3,7 @@ layout: post
 title: 5 Reasons to Join the Wezesha Circle
 categories:
   - news
-image: /assets/images/post-images/1-2.jpg
+image: /assets/images/post-images/africaday1-47.jpg
 ---
 
 ![](/uploads/2016/04/27/5-reasons-to-join-the-wezesha-circle/1-1.jpg)We recently launched our monthly giving program and want to invite YOU to consider being a part of the Wezesha Circle. There are thousands of reasons to engage at this level, and we've listed a handful here:
@@ -15,6 +15,6 @@ image: /assets/images/post-images/1-2.jpg
 
 4. BE A PART OF SOMETHING BIGGER THAN YOURSELF—Reallocating your resources each month in order to give to programs that help lift men and women from extreme poverty in rural Tanzania widens the world you occupy. It's remarkable what a small gift from an American can do in a developing nation. And we benefit, too! When we're less interested in ourselves and more interested in the world around us, our minds are opened to new ideas and new joys.
 
-5. KIDS LIKE ANDREA GODSON WILL HAVE THE OPPORTUNITIES ONCE CONSIDERED IMPOSSIBLE—Because of generous American donors, each Saturday Andrea (pictured below) can be found at the Mraamba Kids Club. There, he and 49 other children enjoy two nutritious meals and the support needed to attend and succeed in school. A $50 donation is all Andrea needs to totally change the course of his life! In 2015, Empower Tanzania replicated this program model and opened the Msindo Kids Club with 50 students. Our loyal donors make a beautiful change in this world! &nbsp;
+5. KIDS LIKE ANDREA GODSON WILL HAVE THE OPPORTUNITIES ONCE CONSIDERED IMPOSSIBLE—Because of generous American donors, each Saturday Andrea can be found at the Mraamba Kids Club. There, he and 49 other children enjoy two nutritious meals and the support needed to attend and succeed in school. A $50 donation is all Andrea needs to totally change the course of his life! In 2015, Empower Tanzania replicated this program model and opened the Msindo Kids Club with 50 students. Our loyal donors make a beautiful change in this world! &nbsp;
 
 We'd love to welcome you to the Wazesha Circle here. [Learn more today!](https://empowertz.org/donate/){: target="_blank"}
