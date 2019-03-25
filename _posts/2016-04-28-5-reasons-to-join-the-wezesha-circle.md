@@ -17,4 +17,4 @@ image: /assets/images/post-images/1-2.jpg
 
 5. KIDS LIKE ANDREA GODSON WILL HAVE THE OPPORTUNITIES ONCE CONSIDERED IMPOSSIBLE—Because of generous American donors, each Saturday Andrea (pictured below) can be found at the Mraamba Kids Club. There, he and 49 other children enjoy two nutritious meals and the support needed to attend and succeed in school. A $50 donation is all Andrea needs to totally change the course of his life! In 2015, Empower Tanzania replicated this program model and opened the Msindo Kids Club with 50 students. Our loyal donors make a beautiful change in this world! &nbsp;
 
-We'd love to welcome you to the Wazesha Circle here. Learn more today!
+We'd love to welcome you to the Wazesha Circle here. [Learn more today!](https://empowertz.org/donate/){: target="_blank"}
