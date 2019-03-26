@@ -6,7 +6,7 @@ categories:
 image: /assets/images/post-images/che-32.jpg
 ---
 
-We're currently in the midst of a Mother's Day campaign in which we're working hard to raise $3,000 for our women's empowerment programming through the sale of some pretty beautiful jewelry made in Tanzania. Because of our generous business sponsor, Onion Grove Mercantile, we're offering supporters the chance to donate $30, receive a pair of earrings, and be assured that their money will go toward the women of rural Tanzania.
+![](/uploads/2017/04/23/how-do-we-empower-women/mothersdayweb-2-2.jpg)We're currently in the midst of a Mother's Day campaign in which we're working hard to raise $3,000 for our women's empowerment programming through the sale of some pretty beautiful jewelry made in Tanzania. Because of our generous business sponsor, Onion Grove Mercantile, we're offering supporters the chance to donate $30, receive a pair of earrings, and be assured that their money will go toward the women of rural Tanzania.
 
 **How do we empower women in rural Tanzania?**Empower Tanzania provides the education and equipment that leads to skills, jobs, and dignity for individuals. And guess what we've found to be true when we invest in the success and upward mobility of women? The health and livelihood of entire communities improve!
 
