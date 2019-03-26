@@ -3,7 +3,7 @@ layout: post
 title: Goats are changing lives!
 categories:
   - development
-image: /assets/images/post-images/tzday2-110-copy.jpg
+image: /assets/images/post-images/hedaru-49.jpg
 ---
 
 Goats are amazing!!  On a recent visit to Tanzania, Empower Tanzania staffer Sheri Krumm and volunteer Sarah Svorinic visited the newest expansion of the Integrated Farming Project….goats in Masandare!  It was so exciting to meet our new farmers, and see what an impact this project is already having in their lives.
