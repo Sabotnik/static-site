@@ -6,7 +6,7 @@ categories:
 image: /assets/images/post-images/10.jpg
 ---
 
-*This blog post is the final part of a series that takes a closer look at our Community-Hospital Alliance Program (CHAP). In case you missed [Part I,](https://empowertz.org/health/2015/07/09/ten-things-to-know-about-chap-part-i/){: target="_blank"} [Part II](https://empowertz.org/education/2015/07/20/ten-things-to-know-about-chap-part-ii/){: target="_blank"}, [Part III](https://empowertz.org/health/2015/07/30/community-hospital-alliance-program-chap-christmas-in-july/){: target="_blank"}, or Part IV, click on the links to learn about the program's process and impact. We are currently raising funds for the medical supplies our CHWs and clinics need to operate. Please consider a donation to help sustain this important program.*
+*This blog post is the final part of a series that takes a closer look at our Community-Hospital Alliance Program (CHAP). In case you missed [Part I,](https://empowertz.org/health/2015/07/09/ten-things-to-know-about-chap-part-i/){: target="_blank"} [Part II](https://empowertz.org/education/2015/07/20/ten-things-to-know-about-chap-part-ii/){: target="_blank"}, [Part III](https://empowertz.org/health/2015/07/30/community-hospital-alliance-program-chap-christmas-in-july/){: target="_blank"}, or [Part IV](https://empowertz.org/education/2015/08/06/maasai-men-in-training-a-song-of-appreciation/){: target="_blank"}, click on the links to learn about the program's process and impact. We are currently raising funds for the medical supplies our CHWs and clinics need to operate. Please consider a donation to help sustain this important program.*
 
 ![](/uploads/2015/08/18/part-v-buy-a-band-aid-change-a-life/20.jpg)
 
