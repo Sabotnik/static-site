@@ -34,6 +34,8 @@ In order to see this program through to its full potential, we need your help. W
 
 ### *$10 will supply bandages for one CHW for an entire year*
 
+&nbsp;
+
 ![](/uploads/2015/08/18/part-v-buy-a-band-aid-change-a-life/3.png)
 
 Through CHAP and programs like it, Empower Tanzania is educating rural women so that they can care for the people of their community with skill and knowledge that is theirs forever. CHAP provides EDUCATION and EMPOWERMENT. Please consider a donation in support of this program today.
