@@ -3,4 +3,23 @@ title: Contact
 permalink: /contact/
 layout: page
 ---
-<h1>this is the contact page</h1>
+<div class="row" id="contact">
+  <div class="col">
+    <h1 class="banner-secondary">Contact</h1>
+    <h3>Phone</h3>
+    <a href="tel:1-563-729-1901" rel="nofollow">563.729.1901</a>
+    <h3>Email</h3>
+    <script language="JavaScript">
+      var username = "tara";
+      var hostname = "fitrx-iowa.com";
+      var linktext = username + "@" + hostname ;
+      document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'>" + linktext + "</a>");
+    </script>
+  </div>
+</div>
+<div class="row">
+  {% include google-map.html latitude=41.5877756 longitude=-90.3674558 zoom=14 %}
+</div>
+<div class="row">
+  {% include hours.html %}
+</div>

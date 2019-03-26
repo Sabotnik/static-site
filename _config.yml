@@ -15,7 +15,7 @@ permalink: pretty
 include: ['_pages']
 collections:
   
-
+google_maps_javascript_api_key: "AIzaSyCin0fZLR0qmuxfgzpuHDxcMmMFOvGJvMQ"
 # Build settings
 markdown: kramdown
 plugins:
