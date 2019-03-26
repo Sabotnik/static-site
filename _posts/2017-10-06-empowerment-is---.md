@@ -4,6 +4,9 @@ title: Empowerment is...
 categories: [news]
 image: /assets/images/post-images/empowerment.jpg
 ---
+
+![](/uploads/2017/10/05/empowerment-is/screenshot-2017-10-16-12-56-11.png)
+
 The founders Empower Tanzania chose the two words of its name deliberately and after long discussion. It was important to focus our efforts—and the funds donated to us—on people, not buildings or equipment. Our target was the marginalized people in Tanzania—the poor, the uneducated, the rural, and across all these categories, the women.
 
 As in many developing countries, women are virtually powerless. The traditional culture relegates them to homemaking and subsistence farming. Education is secondary to their roles of fetching water and firewood, bearing and raising children, and tilling the kitchen garden.
@@ -30,8 +33,6 @@ Women participating in these programs have become active in their communities. T
 
 Of course, there has been resistance to these changes in women’s roles—changes that empower them. However, we have minimized backlash by moving slowly, encouraging our women to be respectful of their husbands, and by convincing men that empowering women benefits everyone, including men. Despite these efforts, there are still occasional outbursts of resistance. We found champions among men who supported these programs and we used them and their status to resolve these occasional spasms of resistance.
 
-It would be naïve to think that our programs will lead directly to the empowerment of women in Tanzania or that gender equality will soon result. Women will need to become politically active and mobilize to achieve this goal. But, if they have developed confidence and are convinced that they can be equal, the chances for successful mobilization efforts are greatly enhanced.
+It would be na&iuml;ve to think that our programs will lead directly to the empowerment of women in Tanzania or that gender equality will soon result. Women will need to become politically active and mobilize to achieve this goal. But, if they have developed confidence and are convinced that they can be equal, the chances for successful mobilization efforts are greatly enhanced.
 
 Our goal is to create the conditions under which women are individually empowered and who believe that they can successfully mobilize to gain gender equality and social justice. Without the former, achieving the latter is much more difficult.
-
-
