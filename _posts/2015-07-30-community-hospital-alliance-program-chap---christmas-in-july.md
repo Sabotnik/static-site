@@ -6,7 +6,7 @@ categories:
 image: /assets/images/post-images/ipad8-1.jpg
 ---
 
-*This blog post &nbsp;is part of a series that will take a closer look at our Community-Hospital Alliance Program (CHAP). In case you missed Part I or Part II, click on the links to learn ten key points about this life-changing program. The following post is written by Phil Latessa, executive director of Empower Tanzania.*
+*This blog post &nbsp;is part of a series that will take a closer look at our Community-Hospital Alliance Program (CHAP). In case you missed [Part I ](https://empowertz.org/health/2015/07/09/ten-things-to-know-about-chap-part-i/){: target="_blank"}or [Part II](https://empowertz.org/education/2015/07/20/ten-things-to-know-about-chap-part-ii/){: target="_blank"}, click on the links to learn ten key points about this life-changing program. The following post is written by Phil Latessa, executive director of Empower Tanzania.*
 
 It was an incredible scene, really. In a hot and sticky conference room in northeastern Tanzania, we gathered 30 Maasai women for a summer refresher course, just a year after their initial training through our Community-Hospital Alliance Program (CHAP). Already these Community Health Workers (CHWs) have served over 10,000 people in their villages. Empower Tanzania invited them once again to review basic health topics. But this time, we surprised the CHWs with a bright new program improvement.
 
