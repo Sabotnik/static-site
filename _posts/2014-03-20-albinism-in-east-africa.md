@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A different twist on skin tone
+title: Albinism in East Africa
 categories:
   - education
 image: /assets/images/post-images/tzday5-3.jpg
