@@ -24,15 +24,15 @@ This new role for key women in each Maasai village is a fundamental change in wo
 
 In order to see this program through to its full potential, we need your help. We're asking our kind donors to consider a contribution toward the $3,750 needed for basic medical supplies to stock our 21 rural health clinics and equip our 30 trained Community Health Workers for an entire year. You can help us help our CHWs administer basic healthcare to the thousands who rely on them. It's remarkable, really, what your dollar can do:
 
-##### *$175 will equip an entire clinic for an entire year*
+### *$175 will equip an entire clinic for an entire year*
 
-##### *$125 will provide all supplies for one CHW for an entire year*
+### *$125 will provide all supplies for one CHW for an entire year*
 
-##### *$60 will buy a year's supply of anti-bacterial soap for all clinics*
+### *$60 will buy a year's supply of anti-bacterial soap for all clinics*
 
-##### *$30 will supply medical gloves for one CHW for an entire year*
+### *$30 will supply medical gloves for one CHW for an entire year*
 
-##### *$10 will supply bandages for one CHW for an entire year*
+### *$10 will supply bandages for one CHW for an entire year*
 
 ![](/uploads/2015/08/18/part-v-buy-a-band-aid-change-a-life/3.png)
 
