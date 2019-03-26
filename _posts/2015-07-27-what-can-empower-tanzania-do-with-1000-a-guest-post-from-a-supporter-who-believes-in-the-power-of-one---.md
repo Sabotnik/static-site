@@ -20,6 +20,8 @@ With very little time to plan, we put together a Crowdrise Fundraiser (it took a
 
 Despite the short notice, nearly 40 of us gathered for a great night. We raised $650 on Crowdrise from a whole lot of very generous friends, and then finished with a party where we raised another $355. In total, we raised $1,005…and we had a ball doing it! It's amazing what this will accomplish in Tanzania. The &nbsp;generosity of my friends &nbsp;will touch many, many lives. Not only did I have a wonderful time celebrating my 55th birthday with people I love, but we all took a small step toward making this world a better place. I'm glad I wasn't stopped by the voice in my head questioning whether or not my actions would mean anything. What we did mattered.
 
+![](/uploads/2015/07/26/what-can-empower-tanzania-do-with-1000-a-guest-post-from-a-supporter-who-believes-in-the-power-of-one---/sheris-party-with-a-purpose-copy.jpg)
+
 Empower Tanzania can conduct an annual refresher training for 30 goat farmers We can build a small tank or put in a distribution point for a water project Empower Tanzania can pay for 1/3 of the medical supplies for the CHAP project for a year Our staff can train an entire village to use rooftop rainwater harvesting We can get 20(!) new chicken farmers started Empower Tanzania can build a garden for the kids in the Most Vulnerable Children’s Project Our staff can do an economic strengthening project with the women in the Gender Based Violence Support Groups
 
 Feeling inspired? We'd love to help you leverage your next celebration to benefit Empower Tanzania. Let us know how we can help!&nbsp;
