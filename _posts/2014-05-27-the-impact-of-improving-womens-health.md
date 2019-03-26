@@ -1,12 +1,12 @@
 ---
 layout: post
 title: The Impact of Improving Women's Health
-categories: [health]
-image:
+categories:
+  - health
+image: /assets/images/post-images/img-65930.jpg
 ---
 
-SIGNIFICANCE.
-When you donate your hard earned money to a non-profit like Empower Tanzania, you want to know if it made a difference.  Isn't that what we all want?  To do something significant to improve our world?  Here is a program that is blowing even our minds with its effectiveness and impact!
+SIGNIFICANCE.When you donate your hard earned money to a non-profit like Empower Tanzania, you want to know if it made a difference.  Isn't that what we all want?  To do something significant to improve our world?  Here is a program that is blowing even our minds with its effectiveness and impact!
 
 Empower Tanzania's Improving Women’s Health Program has been providing public health education to the people of the Same District of northern Tanzania (pop. 269,000) for over 18 months.  The 33 Community Health Educators in the program regularly go out and give presentations to small groups of 10-30 people in their villages, educating them about simple and practical ways to improve their health.  Topics range from handwashing to how to create clean and safe drinking water, to malaria prevention, and more.  They have attracted steadily increasing numbers of attendees at these presentations, and now train over 13,000 people per month on important health subjects.  In this remote area, where lack of access to health care is common, this is life-changing!
 
@@ -17,4 +17,3 @@ These 33 women are a cohesive power for public health education of the residents
 The sad loss of CHE Saida Rashidi, of Hedaru, to malaria in December demonstrates the life and death relevance of the public health topics the Community Health Educators address.   One of Saida’s two volunteer assistants stepped into her role and is striving to approach the high standards of Saida, the program’s top presenter, before her death.
 
 Training village women to work with their communities as public health educators exemplifies the local involvement and ownership that are goals of all Empower Tanzania programs.  These women passionately live the motto on their T-shirts that says “ When you educate a woman, you liberate the society.”
-
