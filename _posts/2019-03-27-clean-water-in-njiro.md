@@ -2,7 +2,7 @@
 layout: post
 title: Clean Water in Njiro!
 categories:
-  - news
+  - development
 image: /assets/images/post-images/njiro-100.jpg
 ---
 
@@ -28,7 +28,7 @@ image: /assets/images/post-images/njiro-100.jpg
 
 &gt;People could not build “modern houses” and the village cannot make progress with infrastructure because there is no water to lay bricks.
 
-***But now....***
+***But now….***
 
 ![](/uploads/njiro-24.jpg)
 
@@ -36,6 +36,6 @@ image: /assets/images/post-images/njiro-100.jpg
 
 Empower Tanzania staff worked alongside government officials, well drilling companies trained by Empower Tanzania (made possible with past Water Party funds), and community members to engineer a new system, purchase a solar pump, solar panels, and control equipment, procure proper testing of functionality and water quality, purchase necessary tanks, pipes, and valves, administer civil work (foundation, new building, valve boxes), engineer and build six distribution points throughout the community, and engage with community for proper buy-in and train locals, enabling them to fix mechanical problems that should arise and establish a local management committee.
 
-***And today, clean water flows and life is much, much easier for the 1,750+ people of Njiro. Hooray!&nbsp;***
+***And today, clean water flows and life is much, much easier for the 1,750+ people of Njiro. Hooray! ***
 
 ![](/uploads/njiro-85.jpg)![](/uploads/njiro-123.jpg)![](/uploads/njiro-162.jpg)
