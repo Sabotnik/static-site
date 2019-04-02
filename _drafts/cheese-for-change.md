@@ -20,13 +20,13 @@ Bidders will pledge a donation to Empower Tanzania. The 10 highest bidders will 
 
 [![](/uploads/click-here-to-buy-now.jpg)](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=3&amp;){: target="_blank"}
 
-### Place your bid on the form below:
+### Click the image below to PLACE YOUR BID:&nbsp;
+
+[![](/uploads/click-here-to-buy-now1.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSe3cDhKllBW3r9OYZ2-3ExqYl0WHTZFUQD_Irm3LwV7NsgAOQ/viewform?usp=sf_link){: target="_blank"}
 
 &lt;iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3cDhKllBW3r9OYZ2-3ExqYl0WHTZFUQD\_Irm3LwV7NsgAOQ/viewform?embedded=true" width="640" height="2751" frameborder="0" marginheight="0" marginwidth="0"&gt;Loading…&lt;/iframe&gt;
 
-*\*Fine print: \*\*Pledges must be paid within 24 hours of auction closing. You will be provided payment information if you win!*
-
-*Cheese will be delivered in the Des Moines metro area. Shipping fees will apply to winners outside the Des Moines Metro.*
+***\*Fine print:**&nbsp;Pledges must be paid within 24 hours of auction closing. You will be provided payment information if you win!&nbsp;**Cheese will be delivered in the Des Moines metro area. Shipping fees will apply to winners outside the Des Moines Metro.*
 
 ### How will you help? Here's an idea of what Empower Tanzania can do with your donation!
 
