@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Safe Motherhood
-categories: [health]
-image:
+categories:
+  - health
+image: /assets/images/post-images/safe-motherhood.jpg
 ---
+
 In the Masai village of Nadururu, Tanzania, too many women were dying in childbirth. Tanzania’s maternal mortality rate is 10 times that of the United States, and in a rural area among a minority people it is even worse.
 
 About 2,000 people live in Nadururu, which is 15 miles from a road and has no electricity. The people had no connection to the health system and all births occured at home. If there was a complication, they would start walking or riding a bicycle to the nearest town which is 20 miles away. Most of the time, they died on the way.
@@ -14,11 +16,13 @@ Thanks to many generous donations from Supporters of ETI, $10,000 was raised and
 
 What was $10,000 able to do in Tanzania?
 
-	Educate six women to serve as birth attendants with a stipend of $15/month.
-	Contract with the nearest health facility for a nurse or doctor to visit Nadururu monthly to perform prenatal and postnatal exams, plus well baby checks.
-	Build a three-room building to serve as a birthing center for the village as well as a place for the monthly visits and future health education programming.
-	Purchase a birthing bed, equipment and supplies for the clinic building.
-	Pay stipends for the six trainees and a supervisor, who will be one of the female elders of the village.
+```
+Educate six women to serve as birth attendants with a stipend of $15/month.
+Contract with the nearest health facility for a nurse or doctor to visit Nadururu monthly to perform prenatal and postnatal exams, plus well baby checks.
+Build a three-room building to serve as a birthing center for the village as well as a place for the monthly visits and future health education programming.
+Purchase a birthing bed, equipment and supplies for the clinic building.
+Pay stipends for the six trainees and a supervisor, who will be one of the female elders of the village.
+```
 
 The building was constructed through a joint effort between ETI (roof and joists) and the people of Nadururu (bricks and labor)  The women of the village are also supporting the work of the birth attendants by assuming some of their daily responsibilities.
 
