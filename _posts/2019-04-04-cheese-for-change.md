@@ -8,6 +8,8 @@ image: /assets/images/post-images/cheese1.jpg
 
 ### You're invited to an online auction to benefit women in Tanzania!
 
+&nbsp;
+
 ### ![](/uploads/cheese2.jpg)
 
 We have the most creative, talented, and generous board members! Hobbyist artisan and supporter of women Jill June is auctioning off ten wheels of handmade triple creme brie cheese to benefit our programs in rural Tanzania!
