@@ -1,14 +1,16 @@
 ---
 layout: post
 title: Gunge Safi Update
-categories: [development]
-image:
+categories:
+  - development
+image: /assets/images/post-images/gunge-water-project.jpg
 ---
+
 The very rural village of Gunge has been waiting a long time for water.
 
 Since the 1930's.
 
-During WWII, the German army "drafted" Tanzanians to fight the British, and many of the Tanzanian men in this area were forced into service.  One small group escaped with their families one night and fled into the desert...settling in the place now called Gunge.  Later, it became a place for refugees from many parts of Africa to settle, and has been a tight-knit community ever since.
+During WWII, the German army "drafted" Tanzanians to fight the British, and many of the Tanzanian men in this area were forced into service.  One small group escaped with their families one night and fled into the desert…settling in the place now called Gunge.  Later, it became a place for refugees from many parts of Africa to settle, and has been a tight-knit community ever since.
 
 Gunge is located near the Pangani River, so the people of the village have dug many miles of  irrigation canal, and created an 800-acre field which they share as a community to grow food.  Unfortunately, the intake into their irrigation canal is under constant attack by not only flood waters during the rainy season, but also the resident hippos and crocodiles moving around at night.
 
