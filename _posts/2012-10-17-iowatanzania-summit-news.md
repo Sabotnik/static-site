@@ -1,9 +1,11 @@
 ---
 layout: post
 title: Iowa~Tanzania Summit News
-categories: [news]
-image:
+categories:
+  - news
+image: /assets/images/post-images/iowahungersummit.jpg
 ---
+
 Tuesday, the much awaited Iowa~Tanzania Summit took place in Des Moines as part of the larger Hunger Summit and 2012 World Food Prize events for the week.  In attendance were roughly 90 people from all over the world, eager to learn more about the unique connections between Iowans and Tanzanians.
 
 WHO Channel 13 in Des Moines did an article on the Hunger Summit, including some great coverage of the Iowa~Tanzania Summit that you can see here.
@@ -24,8 +26,6 @@ Dr. Allan Hoffman, President Emeritus of the Santa Barbara Graduate Institute, s
 
 Before the Summit began, Dr. Masinde's summer interns got a chance to show posters and talk about their recent experiences in Tanzania and the research they did, sharing some of the insights they gained during their time there.
 
-
 After the Summit, there was a networking reception for participants to share ideas and contacts, and learn about what others are doing in Tanzania.
-
 
 If you are interested in being a part of the Iowa~Tanzania Summit 2013, or would like to stay in touch with what ETI is doing, click here. The "Subscribe" option adds you to our quarterly newsletter list, and the red "Sign Up Here To Stay Up To Date On Our Progress. Join Us!" box will put you on the list to get email updates when we post a new article on our website.  Of course, you can always go like us on FaceBook, and get all the updates that way!
