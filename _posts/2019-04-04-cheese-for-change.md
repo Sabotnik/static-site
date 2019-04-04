@@ -12,7 +12,7 @@ We have the most creative, talented, and generous board members! Hobbyist artisa
 
 Made with pasteurized milk and creme sourced by Iowa-raised cows at White Picket Fence Farms in Woodward, Iowa, each wheel is approximately 4.5" in diameter and weighs approximately 12 oz.&nbsp;
 
-Fill out the online form below to place your bid. The auction will begin on this site DATE/TIME and will close on &nbsp;DATE/TIME\*.
+Fill out the online form below to place your bid. The auction will begin on this site at 9 a.m. on Friday, April 5th and will close on 9 p.m. Tuesday, April 9th\*.
 
 Bidders will pledge a donation to Empower Tanzania. The 10 highest bidders will each win one wheel OR you can "Buy It Now" for a $50 pledge.
 
@@ -24,7 +24,7 @@ Bidders will pledge a donation to Empower Tanzania. The 10 highest bidders will 
 
 [![](/uploads/click-here-to-buy-now1.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSe3cDhKllBW3r9OYZ2-3ExqYl0WHTZFUQD_Irm3LwV7NsgAOQ/viewform?usp=sf_link){: target="_blank"}
 
-***\*Fine print:**&nbsp;Pledges must be paid within 24 hours of auction closing. You will be provided payment information if you win!&nbsp;**Cheese will be delivered in the Des Moines metro area. Shipping fees will apply to winners outside the Des Moines Metro.*
+***\*Fine print:**&nbsp;Pledges must be paid within 24 hours of auction closing. You will be provided payment information if you win! \*\*Cheese will be delivered in the Des Moines metro area. Shipping fees will apply to winners outside the Des Moines Metro.*
 
 ### How will you help? Here's an idea of what Empower Tanzania can do with your donation!
 
