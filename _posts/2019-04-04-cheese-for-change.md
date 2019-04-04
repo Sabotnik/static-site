@@ -34,6 +34,8 @@ Bidders will pledge a donation to Empower Tanzania. The 10 highest bidders will 
 
 ### How will you help? Here's an idea of what Empower Tanzania can do with your donation!
 
+&nbsp;
+
 &gt;$250 trains and equips a Community Health Worker who will serve an entire village
 
 &gt;$100 supports the purchase of two pregnant goats and the training of a farmer-entrepeneur
