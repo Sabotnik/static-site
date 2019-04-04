@@ -18,9 +18,13 @@ Bidders will pledge a donation to Empower Tanzania. The 10 highest bidders will 
 
 ### Click the image below to BUY NOW:
 
+&nbsp;
+
 [![](/uploads/click-here-to-buy-now.jpg)](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=3&amp;){: target="_blank"}
 
 ### Click the image below to PLACE YOUR BID:&nbsp;
+
+&nbsp;
 
 [![](/uploads/click-here-to-buy-now1.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSe3cDhKllBW3r9OYZ2-3ExqYl0WHTZFUQD_Irm3LwV7NsgAOQ/viewform?usp=sf_link){: target="_blank"}
 
