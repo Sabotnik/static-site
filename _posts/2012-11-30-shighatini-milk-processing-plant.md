@@ -32,30 +32,11 @@ Food Security: Fresh, safe dairy products will be available in the community.
 
 ### Impact by the numbers
 
-Capacity:
+Capacity: Surveys done by Land-O-Lakes, Empower Tanzania, Inc, and other dairy experts on milk production in the region suggest that the average cow will produce 5 liters of milk per day. The milk processing plant will have a 750 liter per day capacity.
 {: .present-before-paste}
 
-Surveys done by Land-O-Lakes, Empower Tanzania, Inc, and other dairy experts on milk production in the region suggest that the average cow will produce 5 liters of milk per day.
+Family Impact: Assuming 4 liters is available for sale, at the current price of 400 Tanzanian Shillings (TSH) per liter, a family could receive 1600 TSH per day in income per cow. The current exchange rate is 1600 TSH to $1 USD. Considering that the average daily income is $1USD, the sale of 4 liters of milk each day will double the household income!
 {: .present-before-paste}
 
-The milk processing plant will have a 750 liter per day capacity.
+Community Impact: At full capacity, 300K TSH of milk money will be added to the local economy each day! This equals about $200 USD per day that didn't exist in the community before! And over $70,000 USD per year injected into the local economy. The impact will be over $70,000 USD per year for over 400 local dairy farmers and their families.
 {: .present-before-paste}
-
-Family Impact:
-{: .present-before-paste}
-
-```abap
-Assuming 4 liters is available for sale, at the current price of 400 Tanzanian Shillings (Tsh) per liter, a family could receive 1600 Tsh per day in income per cow.
-The current exchange rate is 1600 Tsh equals $1 U.S. Considering that the average daily income is $1 U.S. per day, the sale of 4 liters of milk each day will double the household income!
-```
-
-Community Impact:
-{: .present-before-paste}
-
-```
-At full capacity, 300,000 Tsh of milk money will be added to the local economy each day, which is--
-
-About $200 USD per day that didn’t exist in the communities before
-Over $70,000 USD per year injected into the local economy
-The impact will be over $70,000 USD per year for over 400 local dairy farmers and their families!
-```
