@@ -18,13 +18,13 @@ Fill out the online form below to place your bid. The auction will begin on this
 
 Bidders will pledge a donation to Empower Tanzania. The 10 highest bidders will each win one wheel OR you can "Buy It Now" for a $50 pledge.
 
-### Click the image below to BUY NOW:
+### Click the image to BUY NOW:
 
 &nbsp;
 
 [![](/uploads/click-here-to-buy-now.jpg)](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=3&amp;){: target="_blank"}
 
-### Click the image below to PLACE YOUR BID:&nbsp;
+### Click the image to PLACE YOUR BID:&nbsp;
 
 &nbsp;
 
