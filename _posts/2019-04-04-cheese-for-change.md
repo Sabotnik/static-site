@@ -6,7 +6,9 @@ categories:
 image: /assets/images/post-images/cheese1.jpg
 ---
 
-### You're invited to an online auction to benefit women in Tanzania!![](/uploads/cheese2.jpg)
+### You're invited to an online auction to benefit women in Tanzania!
+
+### ![](/uploads/cheese2.jpg)
 
 We have the most creative, talented, and generous board members! Hobbyist artisan and supporter of women Jill June is auctioning off ten wheels of handmade triple creme brie cheese to benefit our programs in rural Tanzania!
 
@@ -28,7 +30,7 @@ Bidders will pledge a donation to Empower Tanzania. The 10 highest bidders will 
 
 [![](/uploads/click-here-to-buy-now1.jpg)](https://docs.google.com/forms/d/e/1FAIpQLSe3cDhKllBW3r9OYZ2-3ExqYl0WHTZFUQD_Irm3LwV7NsgAOQ/viewform?usp=sf_link){: target="_blank"}
 
-***\*Fine print:**&nbsp;Pledges must be paid within 24 hours of auction closing. You will be provided payment information if you win! \*\*Cheese will be delivered in the Des Moines metro area. Shipping fees will apply to winners outside the Des Moines Metro.*
+***\*Fine print:**&nbsp;Pledges must be paid within 24 hours of auction closing. You will be provided payment information if you win! Cheese will be delivered in the Des Moines metro area. Shipping fees will apply to winners outside the Des Moines Metro.*
 
 ### How will you help? Here's an idea of what Empower Tanzania can do with your donation!
 
