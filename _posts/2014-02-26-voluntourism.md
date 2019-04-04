@@ -37,6 +37,8 @@ You will give hope
 You will fall in love
 ```
 
+&nbsp;
+
 You will build relationships that you will never forget, and they will change your life. &nbsp;Then, we hope that you will become so passionate about what it means to EMPOWER Tanzanians instead of HELPING Tanzanians, that you will join us on this side of the pond doing the thing for which Americans are uniquely talented….we hope you will tell the story of what we do, and help us find the funds to continue doing it.
 
 If this concept speaks to you, let us know! &nbsp;There are a whole bunch of crazy people at Empower Tanzania who believe that if we do the right things with the right spirit, we really can change the world, and we would love for you to join us!
