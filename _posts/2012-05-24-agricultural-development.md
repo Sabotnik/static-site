@@ -1,15 +1,16 @@
 ---
 layout: post
 title: Agricultural Development
-categories: [development]
-image:
+categories:
+  - development
+image: /assets/images/post-images/farmer.jpg
 ---
+
 Most Shighatini families are subsistence farmers. That fact translates into a financial challenge for the parish as they try to maintain buildings and pay salaries using offerings from parish farm families who also have medical bills and school fees.
 
 To help become more self-supporting, the Shighatini Parish asked Bethesda for assistance with three priority projects to boost farmers’ incomes: poultry (broilers and layers), dairy (value-added milk processing), and corn (production and storage). In addition, they established a 10–member Agriculture Club of local farmers willing to work toward their entrepreneurship goals.
 
-Chickens and eggs
-The local market for broilers and eggs is strong. Customers are ready to buy, even at their doorsteps. Plus, the amount of time between investment and return is short — making his one of the top priorities for a demonstration project.
+Chickens and eggsThe local market for broilers and eggs is strong. Customers are ready to buy, even at their doorsteps. Plus, the amount of time between investment and return is short — making his one of the top priorities for a demonstration project.
 
 Shighatini goal:
 
@@ -20,7 +21,6 @@ ETI role:
 Jump-start the process by providing loan funds so each of the 10 farmers can buy chicks.
 
 Corn production and storage
-
 
 Shighatini goals:
 
@@ -40,8 +40,7 @@ ETI role:
 
 Provide funds for purchasing hybrid seed and fertilizer plus equipment and instructions for establishing a 10 square-meter demonstration plot. Carl Bern, one of Bethesda’s’ Agricultural Ministries Team (a professor in agricultural engineering), is exploring options for improved storage recommendations.
 
-Pasteurized milk and local yogurt
-This is a three-part effort focused on helping farmers develop two new and marketable products (pasteurized milk and locally-made yogurt), plus increasing milk yields by improving the cows’ diets.
+Pasteurized milk and local yogurtThis is a three-part effort focused on helping farmers develop two new and marketable products (pasteurized milk and locally-made yogurt), plus increasing milk yields by improving the cows’ diets.
 
 Bethesda role:
 
