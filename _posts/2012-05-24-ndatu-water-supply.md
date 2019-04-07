@@ -1,8 +1,10 @@
 ---
 layout: post
 title: Ndatu Water Supply
-categories: [health]
-image:
+categories:
+  - development
+  - education
+image: /assets/images/post-images/water-realities-of-tz.jpg
 ---
 
 In the village of Ndatu, just outside of Arusha, Tanzania, the Uraki School serving 1,300 primary school children, needs a new water supply. Their current source of water is a river, badly contaminated with bacteria.
@@ -14,5 +16,3 @@ This is a cooperative project between Empower Tanzania and Summit4water, a group
 Learn more about the project at www.summit4water.org.
 
 Donate specifically to the Ndatu/Summit4water Project
-
-
