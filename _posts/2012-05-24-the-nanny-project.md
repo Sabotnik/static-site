@@ -1,8 +1,9 @@
 ---
 layout: post
 title: The Nanny Project
-categories: [development]
-image:
+categories:
+  - development
+image: /assets/images/post-images/nanny-project-at-hedaru.jpg
 ---
 
 Who knew that a GOAT could save a life?! &nbsp;In Hedaru, where the pilot project for ETI's Nanny Project is currently entering its second year, 20 very excited farmers know this! &nbsp; The Nanny Project was conceived at the request of the local farmers, and in partnership with Hedaru Lutheran Church and St. Andrew's Lutheran Church in Ames, Iowa, in 2009. &nbsp;
@@ -11,51 +12,25 @@ Tanzania is a semi-arid climate, presenting some real problems for farmers tryin
 
 Goats are by nature more suited to this area than cows.&nbsp; They eat ANYTHING, they take very little water, and by comparison, produce a lot of extremely rich, high-fat milk, which is highly valued in an area of food insecurity and malnutrition.
 
-```
-One of goat milk's most important uses is as baby "formula" for women with HIV who cannot nurse.  Infant formula is expensive and not readily available, so goat milk is a fabulous substitute.
-Goat milk is also a tremendous source of protein for malnourished children, and can be made into cheese and yogurt, which are easier to store in areas lacking refridgeration.
-Goats produce 1-2 offspring per pregnancy, and typically they can be bred twice a year.
-```
+One of goat milk's most important uses is as baby "formula" for women with HIV who cannot nurse. &nbsp;Infant formula is expensive and not readily available, so goat milk is a fabulous substitute. Goat milk is also a tremendous source of protein for malnourished children, and can be made into cheese and yogurt, which are easier to store in areas lacking refrigeration. Goats produce 1-2 offspring per pregnancy, and typically they can be bred twice a year.
 
 All of these things make the goat the perfect dairy animal in this part of the country.
 
-&nbsp; Tangeru Agriculture College is the local dairy goat expert in Tanzania, and their methods of teaching goat farming are more than a little impressive! &nbsp;Empower&nbsp;
-
-Tanzania, Inc, St. Andrew's Lutheran Church in Ames, Iowa, and Hedaru Lutheran Church in Hedaru, Tanzania, are working together with to create what we lovingly call THE NANNY PROJECT!
+Tangeru Agriculture College is the local dairy goat expert in Tanzania, and their methods of teaching goat farming are more than a little impressive! &nbsp;Empower&nbsp; Tanzania, Inc, St. Andrew's Lutheran Church in Ames, Iowa, and Hedaru Lutheran Church in Hedaru, Tanzania, are working together with to create what we lovingly call THE NANNY PROJECT!
 
 The Nanny Project is a pilot program for ETI, with plans in place to expand it to other arid parts of Tanzania in the near future.
 
 This is how it works:
 
-```
-Twenty farmers are chosen to be the initial recipients of the first goats.
-Fifteen of the twenty go to training at the beginning of the process, and learn about Heifer's methods and how to prepare for his/her animal.
-The farmers then go home, where each of them plants the appropriate grasses for feed, and builds a pen for his/her goats.
-When the farmers are ready, the farms and pens are inspected, a contract is signed by the farmer, and then each farmer receives two pregnant goats.
-The first baby that is born to each goat is 'passed back' to Hedaru Lutheran to cover expenses in administrating the program in the village.
-The second female baby that is born is kept by the farmer.
-The third female baby that is born is given to another local farmer to start a new Nanny Project farm.(This is where the next 5-10 farmers come in)
-The fifth female baby is 'passed back' to St. Andrew's, who funded these goats, to pay for the initial investment.
-```
-
-&nbsp;
+&gt;Twenty farmers are chosen to be the initial recipients of the first goats.<br>&gt;Fifteen of the twenty go to training at the beginning of the process, and learn about Heifer's methods and how to prepare for his/her animal.<br>&gt;The farmers then go home, where each of them plants the appropriate grasses for feed, and builds a pen for his/her goats.<br>&gt;When the farmers are ready, the farms and pens are inspected, a contract is signed by the farmer, and then each farmer receives two pregnant goats.<br>&gt;The first baby that is born to each goat is 'passed back' to Hedaru Lutheran to cover expenses in administrating the program in the village.<br>&gt;The second female baby that is born is kept by the farmer.<br>&gt;The third female baby that is born is given to another local farmer to start a new Nanny Project farm. (This is where the next 5-10 farmers come in)<br>&gt;The fifth female baby is 'passed back' to St. Andrew's, who funded these goats, to pay for the initial investment.
 
 This is where much of St. Andrew's involvement over the next year will be.&nbsp; They will assist in financing the initial training, and the purchase of the first goats.&nbsp; We estimate $12,000 total, $2,000 of which will be passed back to the church after two years.&nbsp; What a small investment for a HUGE return!
 
-&nbsp;
-
 WE PRAY FOR TWINS!!
-
-&nbsp;
 
 What makes THE NANNY PROJECT different than raising the indigenous goats that already exist in large herds in Tanzania?
 
-```
-NANNY Dairy Goats are a much higher-quality breed than Tanzanian goats, and produce more milk.  They will be purchased from high quality breeding stock at Heifer International goat farms.
-NANNY Dairy Goats are not grazed free-range, so they do not contribute to environmental degredation.  They are kept in pens made of sticks, and have a small outdoor area to play and exercise.  All their food is grown by the farmer and brought to them each day.
-THE NANNY PROJECT includes peer to peer training for all new farmers, through the Rural Farmer Association structure, and support groups and meetings for the participants to develop strong farming practices together.
-NANNY Dairy Goats must have regular veterinary care.
-```
+&gt;NANNY Dairy Goats are a much higher-quality breed than Tanzanian goats, and produce more milk. &nbsp;They will be purchased from high quality breeding stock at Heifer International goat farms.<br>&gt;NANNY Dairy Goats are not grazed free-range, so they do not contribute to environmental degredation. &nbsp;They are kept in pens made of sticks, and have a small outdoor area to play and exercise. &nbsp;All their food is grown by the farmer and brought to them each day.<br>&gt;THE NANNY PROJECT includes peer to peer training for all new farmers, through the Rural Farmer Association structure, and support groups and meetings for the participants to develop strong farming practices together.<br>&gt;NANNY Dairy Goats must have regular veterinary care.
 
 In addition to the goats, which will vastly improve quality of life in Hedaru, Tangeru training teaches their farmers something called INTEGRATED FARMING, designed to recycle everything…manure, silage from the grasses they grow, water…all of it.&nbsp; These things are used to make mulch, which they are then taught to use for growing better crops, right there in their little home garden.&nbsp; The money from selling the milk allows the farmer to buy more animals, and most Tangeru-trained farmers have very diverse farms that include a number of different kinds of plants and trees that produce food for their animals as well as their own human families, and anything from cows to rabbits, chickens, ducks, pigs & camels.&nbsp; We've even seen one farm that had 8 cows producing enough methane for them to capture and use for cooking instead of the wood fires!! The more animals they have, the more manure, and the more plants they can grow.&nbsp; It's a wonderful green productive cycle!
 
