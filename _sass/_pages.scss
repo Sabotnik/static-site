@@ -9,8 +9,6 @@
 }
 .hero-text {
   padding-bottom: 30px;
-  color: white;
-  text-transform: uppercase;
 }
 .hero-text-success {
   @include color-bg($success);
