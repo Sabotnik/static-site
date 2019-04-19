@@ -1,32 +1,4 @@
-#newsletter {
-  background-image: 
-    url('./../images/orange-divider-pattern.png'),
-    url('./../images/horizon-gradient.jpg');
-  background-repeat: no-repeat, no-repeat;
-  background-size: 100%, cover;
-  background-position: 50% -5px, bottom;
-  display: flex;
-  flex-direction: column;
-  padding: 30px 0;
-  h2 {
-    text-transform: uppercase;
-    color: $success;
-    font-weight: 700;
-    margin-bottom: 30px;
-    align-self: center;
-  }
-}
-.form-control {
-  padding: 10px;
-  margin-bottom: 10px;
-  flex-grow: 1;
-}
-input::placeholder {
-  color: $tertiary;
-}
-form button {
-  border: none;
-}
+
 
 /* =================================
   Media Queries
@@ -36,22 +8,11 @@ form button {
 
 //Small devices (landscape phones, 576px and up)
 @media (min-width: 576px) {
-  form button {
-    align-self: center;
-  }
+  
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-  .form-group {
-    flex-direction: row;
-  }
-  #newsletter {
-    padding-top: 100px;
-    padding-bottom: 50px;
-  }
-  .form-control {
-    margin-right: 10px;
-  }
+  
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
@@ -62,13 +23,10 @@ form button {
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
-  .form-group {
-    width: 80%;
-  }
+  
 }
 @media (min-width: 1400px) {
   
 }
 @media (min-width: 1750px) {
-  width: 70%;
 }
