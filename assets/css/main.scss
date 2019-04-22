@@ -11,10 +11,10 @@ $info: #7d4895;
 $highlight: #fbb040; //no button setup currently for $highlight
 
 // Font import and variables
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fira+Sans');
+@import url('https://fonts.googleapis.com/css?family=Lato|Lobster');
 
-$font-main: 'Fira Sans', sans-serif;
-$font-accent: 'Amatic SC', cursive;
+$font-main: 'Lato', sans-serif;
+$font-accent: 'Lobster', cursive;
 
 // Imports of Sass files
 @import "mixins";
