@@ -12,9 +12,9 @@ I am a girl of 12 years old born in a family of two girls and a mother who is a 
 
 I am in Class 6 at Majengo Primary School. My problem was having difficulty with subjects at school. I found every subject difficult to understand, literally everything. This made my classmates laugh at me. I was called all sorts of names…dull head, koo-koo…and because of this I dreaded attending classes to the extent of dropping out of school.
 
-One day my class teacher sported me to join Same Learning Center. I was puzzled because I did not know anything about it. After arriving at the S.L.C, I met **Yoeza,** who is a program coordinator. We were like 40 new students but he inspired us much that everything here in the world is possible\! Then I felt myself new through his courageous and inspirational &nbsp; words.
+One day my class teacher sported me to join Same Learning Center. I was puzzled because I did not know anything about it. After arriving at the S.L.C, I met **Yoeza,** who is a program coordinator. We were like 40 new students but he inspired us much that everything here in the world is possible\! Then I felt myself new through his courageous and inspirational   words.
 
-&nbsp;The program challenged me to put effort in studying and working hard. The topics covered how to plan for studying and also gave more attention to the subjects that seemed difficult to me — English S & Kiswahili.
+ The program challenged me to put effort in studying and working hard. The topics covered how to plan for studying and also gave more attention to the subjects that seemed difficult to me — English S & Kiswahili.
 
 Good enough we have better staff who helped us with Love, care and they always listen to our problems. Since then I am a living example that my grade has improved tremendously that I am ranked high among the top 8 in my class. I am so happy that I have silenced critics. The **Same Learning Centre** has really helped me a great deal. The **S.L.C** team is indeed a generation of leaders discovered, leading individuals to re-discover themselves for the future.
 
