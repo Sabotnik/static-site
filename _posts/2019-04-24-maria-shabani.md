@@ -18,6 +18,6 @@ Today, just two years later, Maria loves to read and says it one of her favorite
 
 Although Maria doesn’t yet know what she wants to be when she grows up, she now has the opportunity to be whatever she sets her mind on. Through Same Leaning Center programs, she is gaining the knowledge she needs to succeed in school and the confidence she needs to succeed in life\!
 
-### **Check back on the blog for more inspiring stories like Maria's. Consider donating to our work&nbsp;[HERE](https://empowertz.org/donate/){: target="_blank"}.**
+### **Check back on the blog for more inspiring stories like Maria's. Consider donating to our work [HERE](https://empowertz.org/donate/){: target="_blank"}.**
 
 ![](/uploads/learningcenter2-35.jpg)
