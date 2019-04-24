@@ -2,13 +2,13 @@
 layout: post
 title: Angle Mosses
 categories:
-  - development
+  - education
 image: /assets/images/post-images/angle-mosses-1.jpg
 ---
 
 ### As we celebrate two years of Same Learning Center, we want to introduce you to a few of the students. Read about Angle Mosses, in her own words:
 
-&nbsp;
+ 
 
 I am a girl of 12 years old born in a family of two girls and a mother who is a peasant. We live with my grandmother.
 
@@ -18,8 +18,8 @@ One day my class teacher sported me to join Same Learning Center. I was puzzled 
 
 The program challenged me to put effort in studying and working hard. The topics covered how to plan for studying and also gave more attention to the subjects that seemed difficult to me, like English and Kiswahili.
 
-Good enough we have better staff who helped us with love, care, and they always listen to our problems. Since then I am a living example that my grade has improved tremendously. I am ranked high among the Top 8 in my class\!&nbsp;**I am so happy that I have silenced critics. **
+Good enough we have better staff who helped us with love, care, and they always listen to our problems. Since then I am a living example that my grade has improved tremendously. I am ranked high among the Top 8 in my class\! \*\*I am so happy that I have silenced critics. \*\*
 
-The **Same Learning Center**&nbsp;has really helped me a great deal. **The Same Learning Center team is indeed a generation of leaders discovered, leading individuals to re-discover themselves for the future.**
+The **Same Learning Center** has really helped me a great deal. **The Same Learning Center team is indeed a generation of leaders discovered, leading individuals to re-discover themselves for the future.**
 
 ### **Check back on the blog for more stories like Angle's. Consider donating to our work [HERE](https://empowertz.org/donate/){: target="_blank"}.**
