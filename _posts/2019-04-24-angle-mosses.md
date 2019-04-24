@@ -3,7 +3,7 @@ layout: post
 title: Angle Mosses
 categories:
   - education
-image: /assets/images/post-images/angle-mosses-1.jpg
+image: /assets/images/post-images/angle-mosses-2.jpg
 ---
 
 ### As we celebrate two years of Same Learning Center, we want to introduce you to a few of the students. Read about Angle Mosses, in her own words:
