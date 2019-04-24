@@ -18,10 +18,12 @@ One day my class teacher sported me to join Same Learning Center. I was puzzled 
 
 The program challenged me to put effort in studying and working hard. The topics covered how to plan for studying and also gave more attention to the subjects that seemed difficult to me, like English and Kiswahili.
 
-#### Good enough we have better staff who helped us with love, care, and they always listen to our problems. Since then I am a living example that my grade has improved tremendously. I am ranked high among the Top 8 in my class\! I am so happy that I have silenced critics.&nbsp;
+Good enough we have better staff who helped us with love, care, and they always listen to our problems. Since then I am a living example that my grade has improved tremendously. I am ranked high among the Top 8 in my class\! I am so happy that I have silenced critics.&nbsp;
 
 The **Same Learning Center**&nbsp;has really helped me a great deal. **The Same Learning Center team is indeed a generation of leaders discovered, leading individuals to re-discover themselves for the future.**
 
 ### **Check back on the blog for more stories like Angle's. Consider donating to our work [HERE](https://empowertz.org/donate/){: target="_blank"}.**
+
+&nbsp;
 
 ![](/uploads/2019/04/23/angle-mosses/learningcenter1.jpg)
