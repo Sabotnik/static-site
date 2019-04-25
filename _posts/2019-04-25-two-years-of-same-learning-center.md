@@ -10,7 +10,7 @@ image: /assets/images/post-images/yoeza-square-2.jpg
 
 ![](/uploads/yoeza-teaching.jpg)
 
-We thank you all for your efforts and contributions, all of which help the Same Learning Center (SLC) stand today. The group of students we are working with have different historical backgrounds, different beliefs, and different statuses, but we manage to bring them (all 80\!) together as a Same Learning Center family. It takes energy and funding to bring this big family together as one, but through your tireless contributions we continue to make this vital program move forward\!&nbsp;
+We thank you all for your efforts and contributions, all of which help the Same Learning Center (SLC) stand today. The group of students we are working with have different historical backgrounds, different beliefs, and different statuses, but we manage to bring them (all 80\!) together as a Same Learning Center family. It takes energy and funding to bring this big family together as one, but through your tireless contributions we continue to make this vital program move forward\! 
 
 **Here’s a look at what we’ve accomplished since we began two years ago:**
 
@@ -26,7 +26,7 @@ We thank you all for your efforts and contributions, all of which help the Same 
 
 &gt;We provide lunch to all 80 students in their six respective schools, which is something most did not have access to before joining the SLIC
 
-&gt;We succeed to bring hope and courage through guidance and counseling to students who have faced brutal action from their family and community&nbsp;
+&gt;We succeed to bring hope and courage through guidance and counseling to students who have faced brutal action from their family and community 
 
 &gt;We provide hygienic materials to all 80 students and are especially sensitive to the needs of our adolescent girls
 
