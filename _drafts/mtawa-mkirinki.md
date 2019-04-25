@@ -6,7 +6,7 @@ categories:
 image: /assets/images/post-images/mtawa-1.jpg
 ---
 
-### As we celebrate two years of Same Learning Center, we want to introduce you to a few of the students. Read Maria Mkirinki's incredible story below:
+### As we celebrate two years of Same Learning Center, we want to introduce you to a few of the students. Read Mtawa Mkirinki's incredible story below:
 
 &nbsp;
 
@@ -24,7 +24,7 @@ It was then that a teacher noticed both his poor circumstances and her determina
 
 Mtawa's life has changed dramatically. He attends school and gets extra support from the wonderful staff at the Learning Center. “I can’t just struggle from the time my parents died up to now for nothing\!" he says. "I would like to become an accountant or an engineer. I am so thankful to Empower Tanzania because without them I wouldn’t have made it this far. They gave me school uniform, shoes, basic hygiene materials and they paid for me to eat lunch at my school\!"
 
-### **Check back on the blog for more inspiring stories like Maria’s. Consider donating to our work&nbsp;[HERE](https://empowertz.org/donate/){: target="_blank"}.**
+### **Check back on the blog for more inspiring stories like Mtawa’s. Consider donating to our work&nbsp;[HERE](https://empowertz.org/donate/){: target="_blank"}.**
 
 &nbsp;
 
