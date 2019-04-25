@@ -24,7 +24,7 @@ We thank you all for your efforts and contributions, all of which help the Same 
 
 &gt;All 80 students have a school uniform, shoes, and schools stationaries so that they may attend their local, public schools
 
-&gt;We provide lunch to all 80 students in their six respective schools, which is something most did not have access to before joining the SLIC
+&gt;We provide lunch to all 80 students in their six respective schools, which is something most did not have access to before joining the SLC
 
 &gt;We succeed to bring hope and courage through guidance and counseling to students who have faced brutal action from their family and community&nbsp;
 
