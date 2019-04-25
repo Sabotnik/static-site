@@ -6,9 +6,7 @@ categories:
 image: /assets/images/post-images/yoeza-square-2.jpg
 ---
 
-## As we celebrate two years of success at the Same Learning Center, we are eager to share an update from Yoeza Mbonea Mnzava, the Education Programs Director in Tanzania:
-
-&nbsp;
+As we celebrate two years of success at the Same Learning Center, we are eager to share an update from Yoeza Mbonea Mnzava, the Education Programs Director in Tanzania:
 
 ![](/uploads/yoeza-teaching.jpg)
 
