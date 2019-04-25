@@ -18,9 +18,9 @@ But life changed for Maria in April of 2017 when she was selected to join the Sa
 
 "I like after school because it is fun and you get to go with our teachers to learn about school subjects and life skills," Maria says. "I like reading now and taking quizzes is not as hard since I started going to Same Learning Center."
 
-Although Maria doesn’t yet know what she wants to be when she grows up, she now has the opportunity to be whatever she sets her on. Through the Same Leaning Center program, she is gaining the knowledge she needs to succeed in school and the confidence she needs to succeed in life\!
+Although Maria doesn’t yet know what she wants to be when she grows up, she now has the opportunity to be whatever she sets her mind on. Through the Same Leaning Center program, she is gaining the knowledge she needs to succeed in school and the confidence she needs to succeed in life\!
 
-### **Check back on the blog for more inspiring stories like Maria's. Consider donating to our work&nbsp;[HERE](https://empowertz.org/donate/){: target="_blank"}.**
+### **Check back on the blog for more inspiring stories like Maria's and please consider donating to our work&nbsp;[HERE](https://empowertz.org/donate/){: target="_blank"}\!**
 
 &nbsp;
 
