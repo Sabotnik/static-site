@@ -8,6 +8,8 @@ image: /assets/images/post-images/mtawa-1.jpg
 
 ### As we celebrate two years of Same Learning Center, we want to introduce you to a few of the students. Read Mtawa Mkirinki's incredible story below:
 
+&nbsp;
+
 **Mtawa Mkirindi** was orphaned at the age of eight. When he was in Class 2, he moved to live with his aunt, but life was tough as he was not given any time to rest. Mtawa attended school infrequently due to family difficulties and failed tests and exams because he missed so many lessons.
 
 Mtawa was always late and always tired. “Many times, I just wanted to stop school because I used to fail. I loved school so much but I had no one to help me,” he said.
