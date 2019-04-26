@@ -15,7 +15,7 @@ nav {
   padding: 10px 20px;
   }
 .logo {
-  width: 80%;
+  width: 50%;
 }
 .main-nav {
   display: none;
@@ -30,13 +30,13 @@ nav {
   text-transform: uppercase;
 }
 .main-nav a.nav-link.active {
-  color: $warning;
+  color: $secondary;
 }
 .social-icon-nav a {
   color: $primary;
 }
 .main-nav a:hover, .social-icon-nav a:hover {
-  color: $warning;
+  color: $secondary;
 }
 .social-icon-nav, .nav-btn {
   display: flex;
@@ -63,6 +63,7 @@ nav {
   top: 35px;
   right: 15px;
   cursor: pointer;
+  color: $tertiary;
 }
 .nav-toggle-show {
   display: flex;

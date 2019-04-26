@@ -52,6 +52,12 @@ img {
 .text-uppercase {
   text-transform: uppercase;
 }
+.text-primary {
+  color: $primary;
+}
+.text-secondary {
+  color: $secondary;
+}
 .text-tertiary {
   color: $tertiary;
 }
