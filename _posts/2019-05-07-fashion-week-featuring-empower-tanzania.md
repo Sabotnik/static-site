@@ -11,6 +11,8 @@ image: /assets/images/post-images/missiowa-and-kwazzodesign-1.jpg
 
 ### Remember this fabric (above), hand-dyed by these ladies (below)?
 
+&nbsp;
+
 ### ![](/uploads/fashionshow4.jpg)
 
 What fun it was to see the gorgeous fabric pictured above turn into the beautiful clothing pictured below\!
