@@ -27,7 +27,7 @@ What fun it was to see the gorgeous fabric pictured above turn into the beautifu
 When designer Justine Siboma, who grew up in a refugee camp in Tanzania, heard about the women producing this beautiful fabric, she was motivated to use it in her shows and her collections. A talented designer who is on the rise, we were thrilled when she took interest\!\!
 {: .present-before-paste}
 
-On Saturday, April 24th, Kwazzo garments made from Empower Tanzania fabric hit the runway\!
+On Saturday, April 24th, at the TaxSlayer Center in Moline, Ill., Kwazzo garments made from Empower Tanzania fabric hit the runway\!
 {: .present-before-paste}
 
 ![](/uploads/fashionshow2.jpg)![](/uploads/fashion-show-3.jpg)
