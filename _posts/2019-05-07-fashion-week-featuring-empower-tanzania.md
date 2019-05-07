@@ -15,6 +15,9 @@ image: /assets/images/post-images/missiowa-and-kwazzodesign-1.jpg
 
 ### ![](/uploads/fashionshow4.jpg)
 
+&nbsp;
+{: .present-before-paste}
+
 What fun it was to see the gorgeous fabric pictured above turn into the beautiful clothing pictured below\!
 {: .present-before-paste}
 
