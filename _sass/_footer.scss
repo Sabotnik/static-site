@@ -3,23 +3,26 @@
   .footer-row {
     display: flex;
     flex-wrap: wrap;
+    padding-top: 150px;
     ul {
       margin: 15px 30px;
+    }
+    color: white;
+    background-image: 
+      url("../images/metal-footer.svg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: top;
+    h4 {
+      font-weight: 400;
     }
   }
   padding: 1em 0;
   line-height: 1.667;
   text-transform: uppercase;
-  h3 {
-    font-weight: 700;
-    color: $highlight;
-  }
-  h4, a {
+  a {
     font-weight: 400;
-    color: $tertiary;
-  }
-  li a {
-    font-size: 1.125em;
+    color: white;
   }
   a:hover {
     color: $warning;
