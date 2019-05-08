@@ -102,7 +102,7 @@ title: About
     <div class="row">
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 6 %}
+          {% for member in site.data.wezesha.column1 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -110,7 +110,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 6 offset: 6 %}
+          {% for member in site.data.wezesha.column2 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -118,7 +118,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle limit: 6 offset: 12 %}
+          {% for member in site.data.wezesha.column3 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
@@ -126,7 +126,7 @@ title: About
   
       <div class="col">
         <ul>
-          {% for member in site.data.wezesha_circle offset: 18 %}
+          {% for member in site.data.wezesha.column4 %}
           <li>{{ member.name }}</li>
           {% endfor %}
         </ul>
