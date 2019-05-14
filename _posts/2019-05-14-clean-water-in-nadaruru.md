@@ -38,7 +38,7 @@ Here’s what had to happen in order to make this happen…
 
 **The Fix:** Empower Tanzania staff, led by Joseph Johnson Kimbwereza, the Integrated Farming & Water Projects Director, took the following steps alongside government officials, well drilling companies trained by Empower Tanzania (made possible with past Water Party funds), and community members:
 
-&gt;Engineered a new system; Purchased a solar pump, solar panels, and control equip
+&gt;Engineered a new system; purchased a solar pump, solar panels, and control equip
 
 &gt;Procured proper testing of functionality and water quality
 
