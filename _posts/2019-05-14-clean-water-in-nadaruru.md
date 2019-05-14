@@ -40,6 +40,8 @@ Here’s what had to happen in order to make this happen…
 
 &gt;Engineered a new system
 
+&nbsp;
+
 &gt;Purchased a solar pump, solar panels, and control equip
 
 &gt;Procured proper testing of functionality and water quality
