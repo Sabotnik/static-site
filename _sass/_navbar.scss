@@ -9,11 +9,16 @@ nav,
   flex-direction: column;
 }
 nav {
-  align-items: center;
-  width: 95%;
-  margin: 20px auto;
+  width: 100%;
   padding: 10px 20px;
-  }
+  z-index: 100;
+  position: absolute;
+  top: 20px;
+}
+.nav-link-toggle {
+  position: relative;
+  right: 25px;
+}
 .logo {
   width: 50%;
 }
@@ -57,7 +62,6 @@ nav {
   background-color: $primary;
 }
 .nav-link-toggle {
-  align-self: flex-end;
   display: initial;
   position: absolute;
   top: 35px;

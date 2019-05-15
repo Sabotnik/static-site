@@ -20,18 +20,32 @@
   @include color-bg($warning);
 }
 /* hero images on different pages */
-#home-hero {
+#home_hero {
   background-image: 
-    linear-gradient(
+  linear-gradient(
       to top,
-      rgba(black, 0.9),
-      rgba(black, 0));
-  background-size: 100%;
+      rgba(black, 0.3),
+      rgba(black, 0.9)),
+    url('./../images/hero.jpg');
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
   padding: 0 15px;
+  z-index: 0;
 }
-
+#our_brewery {
+}
+#our_story {
+  background-image: 
+  linear-gradient(
+      to top,
+      rgba(black, 0.4),
+      rgba(black, 0.4)),
+  url('./../images/ourstory.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
 /* =================================
   Media Queries
 ==================================== */
