@@ -45,6 +45,44 @@
   }
 }
 #our_brewery {
+  margin: 0;
+  background-image: url('./../images/brushed-lightgray.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: bottom left;
+  text-transform: uppercase;
+  h2 {
+    padding: 20px;
+  }
+  .col {
+    padding: 15px;
+    ul {
+      padding-left: 10px;
+    }
+    font-size: 1.25em;
+  }
+}
+#our_beer {
+  h2 {
+    text-transform: uppercase;
+    margin-top: 10px;
+    margin-bottom: 20px;
+  }
+  justify-content: center;
+  .col {
+    align-items: center;
+    h3 {
+      margin-top: 20px;
+      margin-bottom: 10px;
+      font-size: 1.75em;
+      text-transform: uppercase;
+      color: $tertiary;
+    }
+  }
+  a {
+    font-family: $font-accent;
+    font-size: 2em;
+  }
 }
 #our_story {
   background-image: 
