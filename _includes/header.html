@@ -10,25 +10,11 @@
       <li>
         <a href="{{ site.baseurl }}{% link index.html %}" class="nav-link {% if page.title == "Home" %}active{% endif %}">Home</a>
       </li>
-      <li id="dropdown">
-        <a href="/beer/" class="nav-link {% if page.title == "Beer" %}active{% endif %}" aria-haspopup="true"><i class="fas fa-caret-right"></i> Beer</a>
-        <ul class="dropdown" aria-label="submenu">
-          <li>
-            <a href="#" class="nav-link sub-link">Core</a>
-          </li>
-          <li>
-            <a href="#" class="nav-link sub-link">Seasonal</a>
-          </li>
-          <li>
-            <a href="#" class="nav-link sub-link">Limited Release</a>
-          </li>
-        </ul>
+      <li>
+        <a href="{{ site.baseurl }}{% link _pages/beer.html %}" class="nav-link {% if page.title == "Beer" %}active{% endif %}">Beer</a>
       </li>
       <li>
-        <a href="/about/" class="nav-link {% if page.title == "About" %}active{% endif %}">About</a>
-      </li>
-      <li>
-        <a href="/contact/" class="nav-link {% if page.title == "Contact" %}active{% endif %}">Contact</a>
+        <a href="{{ site.baseurl }}{% link _pages/contact.html %}" class="nav-link {% if page.title == "Contact" %}active{% endif %}">Contact</a>
       </li>
 
     </ul>    
