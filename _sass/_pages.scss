@@ -32,6 +32,9 @@
   background-position: center;
   padding: 0 15px;
   z-index: 0;
+  .logo {
+    width: 50%;
+  }
   h1 {
     color: white;
   }
@@ -99,7 +102,7 @@
   url('./../images/ourstory.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: top;
 
   color: white;
   min-height: 300px;
