@@ -49,6 +49,7 @@
 }
 #our_brewery {
   margin: 0;
+  padding-bottom: 40px;
   background-image: url('./../images/brushed-lightgray.png');
   background-size: cover;
   background-repeat: no-repeat;
@@ -62,10 +63,9 @@
     ul {
       padding-left: 10px;
       li {
-        margin-top: 10px;
+        margin-top: 5px;
       }
     }
-    font-size: 1.25em;
   }
 }
 #our_beer {
