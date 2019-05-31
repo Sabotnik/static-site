@@ -49,12 +49,18 @@
   }
 }
 #our_brewery {
+  align-items: center;
+  h2 {
+    text-align: center;
+  }
+  width: 100%;
   margin: 0;
+  padding-top: 30px;
   padding-bottom: 40px;
-  background-image: url('./../images/brushed-lightgray.png');
+  background-image: url('./../images/brushed-metal.jpg');
   background-size: cover;
-  background-repeat: no-repeat;
-  background-position: bottom left;
+  background-repeat: repeat;
+  background-position: center top;
   text-transform: uppercase;
   h2 {
     padding: 20px;
@@ -77,6 +83,7 @@
     text-transform: uppercase;
     margin-top: 10px;
     margin-bottom: 20px;
+    text-align: center;
   }
   justify-content: center;
   .col {
@@ -132,11 +139,22 @@
   #home_hero .logo {
     width: 20%;
   }
+  #our_brewery .row {
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+  }
+  #hours {
+    border-left: 1px solid $secondary;
+  }
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
   #home_hero .logo {
     width: 33%;
+  }
+  #our_beer .row {
+    flex-direction: row;
   }
 }
 @media screen and (max-device-width: 800px) {
@@ -144,7 +162,22 @@
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-
+  #home_hero .logo {
+    width: 25%;
+  }
+  #our_brewery .row {
+    width: 70%;
+  }
+  #our_story {
+    height: 75vh;
+    h2 {
+      padding-top: 30px;
+      padding-bottom: 20px;
+    }
+    img {
+      margin-bottom: 20px;
+    }
+  }
 }
 @media (min-width: 1050px) {
   

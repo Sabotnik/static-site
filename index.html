@@ -17,61 +17,62 @@ title: Home
   </div>
 </div>
 
-<div id="our_brewery" class="row">
+<div id="our_brewery">
   <h2 class="text-secondary">Our Brewery</h2>
 
-  <div class="col">
-    <ul>
-      <li>537 12th Ave</li>
-      <li>East Moline, IL 61244</li>
-    </ul>
+  <div class="row">
+    <div class="col">
+      <ul>
+        <li>537 12th Ave</li>
+        <li>East Moline, IL 61244</li>
+      </ul>
+    </div>
+  
+    <div id="hours" class="col">
+      <ul>
+        <li class="text-secondary">Hours of Operation</li>
+        <li>Monday - Wednesday  3:00 - 10:00p</li>
+        <li>Thursday  3:00 - Midnight</li>
+        <li>Friday  3:00p - 1:00a</li>
+        <li>Saturday  10:00a - 1:00a</li>
+        <li>Sunday  10:00a - 10:00p</li>
+      </ul>
+    </div>
   </div>
-
-  <div class="col">
-    <ul>
-      <li class="text-secondary">Hours of Operation</li>
-      <li>Monday - Wednesday  3:00 - 10:00p</li>
-      <li>Thursday  3:00 - Midnight</li>
-      <li>Friday  3:00p - 1:00a</li>
-      <li>Saturday  10:00a - 1:00a</li>
-      <li>Sunday  10:00a - 10:00p</li>
-    </ul>
-  </div>
-
 </div>
 
 <div id="our_beer" class="row">
 
-  <div class="col">
-
-    <h2>Our Beer</h2>
+  <h2>Our Beer</h2>
   
+  <div class="row">
+      {% for beer in site.data.beers.core %}
+
+      <div class="col">
+        <img src="{{site.baseurl}}/assets/images/beer1.jpg" alt="">
+        <h3>{{beer.name}}</h3>
+        <p>{{beer.description}}</p>
+      </div>
+      
+    {% endfor %}
   </div>
-
-  {% for beer in site.data.beers.core %}
-
-    <div class="col">
-      <img src="{{site.baseurl}}/assets/images/beer1.jpg" alt="">
-      <h3>{{beer.name}}</h3>
-      <p>{{beer.description}}</p>
-    </div>
-    
-  {% endfor %}
   
 </div>
 
-<div id="our_story" class="row">
+<div id="our_story">
 
-  <div class="col">
+  <div class="row">
+    <div class="col">
 
-    <h2>Our Story</h2>
-
-    <img src="{{site.baseurl}}/assets/images/lines-bothfade.png" alt="lines faded both sides">
-    
-    <p>we Work to make Ales for the Midwest.</p>
-
-    <h3>Cheers!</h3>
-    
+      <h2>Our Story</h2>
+  
+      <img src="{{site.baseurl}}/assets/images/lines-bothfade.png" alt="lines faded both sides">
+      
+      <p>we Work to make Ales for the Midwest.</p>
+  
+      <h3>Cheers!</h3>
+      
+    </div>
   </div>
-
+  
 </div>

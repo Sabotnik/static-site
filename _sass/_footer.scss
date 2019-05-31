@@ -27,9 +27,9 @@
     color: white;
     background-image: 
       url("../images/metal-footer.svg");
-    background-size: 100%;
+    background-size: cover;
     background-repeat: no-repeat;
-    background-position: top;
+    background-position: center top;
     h4 {
       font-weight: 400;
       margin-top: 5px;
@@ -75,7 +75,26 @@
 
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-
+  .main-footer {
+    #map-row {
+      height: 700px;
+      background-image: 
+        url("../images/maw-map-large.jpg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+      z-index: 1;
+    }
+    .footer-row {
+      padding-top: 130px;
+      padding-bottom: 50px;
+      background-image: 
+        url("../images/metal-footer-large.svg");
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center top;
+    }
+  }
 }
 @media (min-width: 1050px) {
  
