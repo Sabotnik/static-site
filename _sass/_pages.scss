@@ -135,7 +135,9 @@
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-
+  #home_hero .logo {
+    width: 33%;
+  }
 }
 @media screen and (max-device-width: 800px) {
 
