@@ -97,7 +97,7 @@ img {
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
   h1 {
-    font-size: 3.75em;
+    font-size: 2.75em;
   }
   h2 {
     font-size: 2.813em;
@@ -114,6 +114,8 @@ img {
 
 }
 // Extra large devices (large desktops, 1200px and up)
-@media (min-width: 1200px) {
-
+@media (min-width: 1600px) {
+  h1 {
+    font-size: 3.75em;
+  }
 }
