@@ -1,10 +1,10 @@
 title: Midwest Ale Works (MAW)
-url:
-baseurl:
+url: "https://maw.beer"
+baseurl: 
 google_analytics_key:
 google_maps_javascript_api_key:
 
-description:
+description: we Work to make Ales for the Midwest
 
 timezone:
 
@@ -19,3 +19,4 @@ collections:
 # Build settings
 markdown: kramdown
 plugins:
+  - jekyll-seo-tag
