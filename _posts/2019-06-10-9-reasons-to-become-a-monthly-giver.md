@@ -18,7 +18,7 @@ We want to invite YOU to consider being a part of the Wezesha Circle, our group 
 
 4. WORK WITH UNCLE SAM—If you are age 70½ or older, the IRS requires that you take out a portion of your IRA assets each year. Because you made these contributions to your retirement account without paying taxes, its taxable upon withdrawal. HOWEVER, if you donate all or some of this required minimum distribution to a nonprofit, there will be no tax on that amount donated\! (In other words, we’re here for you\!\!)
 
-5. KEEP OUR DOORS OPEN—We employ 11 Tanzanians living and working in Tanzania. While many people love to generously donate to specific projects and programs, we need a pool of donors who want to pay salaries, buy office supplies, and keep the lights on. If you understand the importance organizational planning and the ins and outs of operations, the Wezesha Circle is for you\!
+5. KEEP OUR DOORS OPEN—We employ 11 Tanzanians living and working in Tanzania. While many people love to generously donate to specific projects and programs, we need a pool of donors who want to pay salaries, buy office supplies, and keep the lights on. If you understand the importance of organizational planning and the ins and outs of operations, the Wezesha Circle is for you\!
 
 6. PROMOTE GENEROSITY IN YOUR CHILDREN—If you’re a parent, an aunt, an uncle, caretaker, grandparent or neighbor, you have influence over the next generation. When kids see you donate to causes important to you, they're more likely to be givers as they grow\!
 
