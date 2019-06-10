@@ -8,7 +8,7 @@ image: /assets/images/post-images/wezeshaheadera.jpg
 
 We want to invite YOU to consider being a part of the Wezesha Circle, our group of individuals who believe in what we do so much that they have committed to monthly or yearly donations. There are thousands of reasons to engage at this level, and we’ve listed a handful here:
 
-![](/uploads/wazesja-blog.jpg){: width="1750" height="984"}
+![](/uploads/2019/06/09/9-reasons-to-become-a-monthly-giver/wezeshaheaderb.jpg){: width="1200" height="675"}
 
 1. GIVING FEELS GOOD—Gandhi once said “the best way to find yourself is to lose yourself in service of others.” This wisdom rings true for people volunteering time, but those donating money also reap psychological benefits. Several studies show that people report feeling physically healthier, an improved sense of well-being, and lowered stress levels when they actively give to others.
 2. BE A PART OF SOMETHING BIGGER THAN YOURSELF—Re-allocating your resources each month in order to give to programs that help lift men and women from extreme poverty in rural Tanzania widens the world you occupy. It’s remarkable what a small gift from an American can do in a developing nation. And we benefit, too\! When we’re less interested in ourselves and more interested in the world around us, our minds are opened to new ideas and new joys.
@@ -20,4 +20,4 @@ We want to invite YOU to consider being a part of the Wezesha Circle, our group 
 8. EVERYBODY POWERS UP\!—When you give monthly to the Wezesha Circle, you empower Empower Tanzania to make meaningful change in a very poor nation. When you give monthly to the Wezesha Circle, we empower YOU to make social change. You’re empowered, we’re empowered, our brothers and sisters in Tanzania are empowered\! Everyone’s empowered\!
 9. LIVE LONGER—It’s true\! The University of Buffalo found that acts of kindness led to less stress and a longer life\! You’ll get a little boost every single month with your long-term Wezesha commitment.
 
-![](/uploads/wazesja-blog2.jpg){: width="1750" height="984"}We’d love to welcome you to the Wezesha Circle here. Email [leslie@empowertz.org](mailto:leslie@empowertz.org) for details on how to sign up via check, ACH, or automatic withdrawal. Want to sign up with a credit card? Simply click [HERE](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=20&amp;){: target="_blank"}. &nbsp;
+![](/uploads/2019/06/09/9-reasons-to-become-a-monthly-giver/wezeshablogc.jpg){: width="1200" height="675"}We’d love to welcome you to the Wezesha Circle here. Email [leslie@empowertz.org](mailto:leslie@empowertz.org) for details on how to sign up via check, ACH, or automatic withdrawal. Want to sign up with a credit card? Simply click [HERE](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=20&amp;){: target="_blank"}. &nbsp;
