@@ -3,7 +3,7 @@ layout: post
 title: 9 Reasons to Become a Monthly Giver
 categories:
   - news
-image: /assets/images/post-images/wazeshaheader.jpg
+image: /assets/images/post-images/wezeshaheadera.jpg
 ---
 
 We want to invite YOU to consider being a part of the Wezesha Circle, our group of individuals who believe in what we do so much that they have committed to monthly or yearly donations. There are thousands of reasons to engage at this level, and we’ve listed a handful here:
