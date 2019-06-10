@@ -8,9 +8,7 @@ image: /assets/images/post-images/ataglance.jpg
 
 For over a decade, Empower Tanzania has worked in partnership with rural Tanzanians. We address underlying issues that hinder resiliency in rural areas, such as healthcare, education, agriculture practices, markets for products, and access to clean water.
 
-Success requires us to work together with communities to create a vision and a long-term commitment beyond the life of a project. Here we are, at a glance...
-
-![](/uploads/2019/06/09/empower-tanzania-at-a-glance/atag1.jpg){: width="1200" height="800"}
+Success requires us to work together with communities to create a vision and a long-term commitment beyond the life of a project. Here we are, at a glance…
 
 **1: WE ARE A LISTENING ORG**
 
