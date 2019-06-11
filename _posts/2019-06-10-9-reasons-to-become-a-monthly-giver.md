@@ -6,7 +6,7 @@ categories:
 image: /assets/images/post-images/wezeshaheadera.jpg
 ---
 
-We want to invite YOU to consider being a part of the Wezesha Circle, our group of individuals who believe in what we do so much that they have committed to monthly or yearly donations. There are thousands of reasons to engage at this level, and we’ve listed a handful here:
+We want to invite YOU to consider being a part of the [Wezesha Circle](https://empowertz.org/donate/){: target="_blank"}, our group of individuals who believe in what we do so much that they have committed to monthly or yearly donations. There are thousands of reasons to engage at this level, and we’ve listed a handful here:
 
 ![](/uploads/2019/06/09/9-reasons-to-become-a-monthly-giver/wezeshaheaderb.jpg){: width="1200" height="675"}
 
@@ -28,4 +28,6 @@ We want to invite YOU to consider being a part of the Wezesha Circle, our group 
 
 9. LIVE LONGER—It’s true\! The University of Buffalo found that acts of kindness led to less stress and a longer life\! You’ll get a little boost every single month with your long-term Wezesha commitment.
 
-![](/uploads/2019/06/09/9-reasons-to-become-a-monthly-giver/wezeshablogc.jpg){: width="1200" height="675"}We’d love to welcome you to the Wezesha Circle here. Email [leslie@empowertz.org](mailto:leslie@empowertz.org) for details on how to sign up via check, ACH, or automatic withdrawal. Want to sign up with a credit card? Simply click [HERE](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=20&amp;){: target="_blank"}. &nbsp;
+![](/uploads/2019/06/09/9-reasons-to-become-a-monthly-giver/wezeshablogc.jpg){: width="1200" height="675"}
+
+We’d love to welcome you to the Wezesha Circle here. Email [leslie@empowertz.org](mailto:leslie@empowertz.org) for details on how to sign up via check, ACH, or automatic withdrawal. Want to sign up with a credit card? Simply click [HERE](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=20&amp;){: target="_blank"}. &nbsp;
