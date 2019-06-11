@@ -16,15 +16,15 @@ We listen to the people living in Tanzania and our staff on the ground there. We
 
 **2: WE EMPLOY TANZANIANS**
 
-…And rely on them to lead the way\! We employ 10 highly competent staff members at our headquarters in Same, Tanzania. Each was born in Tanzania and comes to us with great training, wisdom, and cultural understanding. We spend as much $$ in Tanzania as possible in order to bolster the local economy.
+…And rely on them to lead the way\! We employ 11 highly competent staff members at our headquarters in Same, Tanzania. Each was born in Tanzania and comes to us with great training, wisdom, and cultural understanding. We spend as much $$ in Tanzania as possible in order to bolster the local economy.
 
 **3: EDUCATION IS KEY IN EVERYTHING WE DO**
 
-Education is foundational to long-term change. We equip school-age students, healthcare workers, community members, committee leaders (everyone we work with\!) with basic knowledge and training. Everything we do includes an educational component to ensure sustainable change.
+Education is foundational to long-term change. We equip school-age students, healthcare workers, community members, committee leaders (everyone we work with, really\!) with basic knowledge and training. Everything we do includes an educational component to ensure sustainable change.
 
 **4: SUSTAINABILITY IS A TOP PRIORITY**
 
-We are doing our best to work ourselves out of a job\! (We really mean that\!) We know that the people we work with are capable— they often just need a "hand up." Our ultimate goal is to no longer be necessary in meeting basic needs, a thriving economy, healthcare and education for all.
+We are doing our best to work ourselves out of a job\! (We really mean that\!) We know that the people we work with are capable—they often just need a "hand up." Our ultimate goal is to no longer be necessary in meeting basic needs, a thriving economy, healthcare and education for all.
 
 **5: JOBS & PURPOSE = DIGNITY&nbsp;**
 
@@ -36,6 +36,6 @@ One clear measure of success is in the number of women who now have leadership r
 
 **7: WHERE YOU LIVE SHOULD NOT DETERMINE WHETHER YOU LIVE**
 
-Tanzania there is no Medicaid, no Social Security, no subsidized housing, no food stamps, and no social safety net. And yet a U.S. dollar will stretch practically beyond imagination in one of the poorest countries in the world. We believe that regardless of where your passport is issued, you have a right to basic human dignity. We work toward access and equality every single day.
+In Tanzania there is no Medicaid, no Social Security, no subsidized housing, no food stamps, and no social safety net. And yet a U.S. dollar will stretch practically beyond imagination in one of the poorest countries in the world. We believe that regardless of where your passport is issued, you have a right to basic human dignity. We work toward access and equality every single day.
 
 ![](/uploads/ataglance1.jpg){: width="1200" height="1552"}
