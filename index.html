@@ -43,7 +43,12 @@ title: Home
 <div id="schedule-session">
   <div>
     <h3>YOU have a vision for being healthy and fit, <strong>let FIT Rx be the fitness prescription for you!</strong></h3>
-    <a class="btn btn-primary-outline" href="#">Schedule a Session</a>
+    <script language="JavaScript">
+      var username = "tara";
+      var hostname = "fitrx-iowa.com";
+      var linktext = "Schedule a Session";
+      document.write("<a href='" + "mail" + "to:" + username + "@" + hostname + "'" + "class='btn btn-primary-outline'>" + linktext + "</a>");
+    </script>
   </div>
 </div>
 
@@ -65,8 +70,8 @@ title: Home
           <h4>Event title goes here</h4>
           <p>Event Date  |  Event Time  |  Event Location</p>
         </div>
-  
-        <a class="btn btn-secondary-outline" href="#">See All Events</a>
+        <!--
+        <a class="btn btn-secondary-outline" href="#">See All Events</a>-->
       {% else %}
         <h4>Check back soon!</h4>
       {% endif %}

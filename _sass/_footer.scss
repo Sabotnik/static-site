@@ -2,9 +2,6 @@
   border-top: 2px solid $tertiary;
   line-height: 3em;
 }
-.border li:last-of-type {
-  border-bottom: 2px solid $tertiary;
-}
 .main-footer {
   background-color: $secondary;
   .footer-row {
@@ -90,6 +87,9 @@
     li a {
       font-size: 1.375em;
     }
+  }
+  .border li:last-of-type {
+    border-bottom: 2px solid $tertiary;
   }
 }
 
