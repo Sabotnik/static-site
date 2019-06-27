@@ -7,7 +7,7 @@ title: Home
 
   <div class="hero-inner">
     <h1>FIT Rx is fitness for YOU.</h1>
-    <a class="btn btn-primary-outline" href="#">Learn More</a>
+    <a class="btn btn-primary-outline" href="{{site.baseurl}}/about/">Learn More</a>
   </div>
   
 </div>
@@ -60,21 +60,16 @@ title: Home
     </div>
   
     <div id="events-list" class="col">
-      {% if site.posts %}
-        <div>
-          <h4>Event title goes here</h4>
-          <p>Event Date  |  Event Time  |  Event Location</p>
-        </div>
-  
-        <div>
-          <h4>Event title goes here</h4>
-          <p>Event Date  |  Event Time  |  Event Location</p>
-        </div>
-        <!--
-        <a class="btn btn-secondary-outline" href="#">See All Events</a>-->
-      {% else %}
+      <div>
         <h4>Check back soon!</h4>
-      {% endif %}
+      </div>
+      <!--
+      <div>
+        <h4>{{post.title}}</h4>
+        <p>{{post.date}}  |  {{post.time}}  |  {{post.location}}</p>
+      </div>
+      
+        <a class="btn btn-secondary-outline" href="#">See All Events</a>-->
     </div>
   </div>
 

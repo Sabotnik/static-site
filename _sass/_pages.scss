@@ -221,6 +221,12 @@
     margin-bottom: 20px;
     color: $secondary;
   }
+  a {
+    color: $primary;
+  }
+  a:hover {
+    color: $tertiary;
+  }
 }
 #trainer-header {
   h1 {
