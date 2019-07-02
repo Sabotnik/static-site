@@ -1,10 +1,25 @@
 header {
   background-color: black;
+  text-align: center;
   h2 {
     color: $primary;
     padding-top: 10px;
     padding-bottom: 10px;
-    text-align: center;
+  }
+  ul {
+    padding-top: 30px;
+    padding-bottom: 20px;
+  }
+  li {
+    color: $primary;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  h3 {
+    color: $primary;
+    font-family: $font-accent;
+    font-size: 1.75em;
+    padding-bottom: 20px;
   }
 }
 
