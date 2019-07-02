@@ -1,3 +1,13 @@
+header {
+  background-color: black;
+  h2 {
+    color: $primary;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+  }
+}
+
 nav,
 .main-nav,
 .social-icon-nav,

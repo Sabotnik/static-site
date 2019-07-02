@@ -39,14 +39,14 @@
   h1 {
     color: white;
   }
-  span.accent-text {
-    font-family: $font-accent;
-    font-weight: 400;
-    font-size: 2.5em;
-  }
-  span.big-text {
-    font-size: 2em;
-  }
+}
+span.accent-text {
+  font-family: $font-accent;
+  font-weight: 400;
+  font-size: 2.5em;
+}
+span.big-text {
+  font-size: 2em;
 }
 #our_brewery {
   align-items: center;
