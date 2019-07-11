@@ -1,0 +1,14 @@
+- day: Monday-Wednesday 
+  timeblock: 3:00p - 10:00p
+
+- day: Thursday 
+  timeblock: 3:00p-Midnight
+
+- day: Friday 
+  timeblock: 3:00p-1:00a
+
+- day: Saturday 
+  timeblock: 12:00p-1:00a
+
+- day: Sunday 
+  timeblock: 12:00p-10:00p

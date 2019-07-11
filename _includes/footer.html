@@ -14,11 +14,9 @@
   
     <div class="col">
       <h4 class="text-tertiary">Hours of Operation</h4>
-      <h4>Monday - Wednesday  3:00p - 10:00p</h4>
-      <h4>Thursday  3:00p - Midnight</h4>
-      <h4>Friday  3:00p - 1:00a</h4>
-      <h4>Saturday  12:00p - 1:00a</h4>
-      <h4>Sunday  12:00p - 10:00p</h4>
+      {% for schedule in site.data.hours %}
+        <h4>{{schedule.day}} {{schedule.timeblock}}</h4>
+      {% endfor %}
     </div>
 
     <div class="col">
