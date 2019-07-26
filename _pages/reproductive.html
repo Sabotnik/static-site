@@ -1,0 +1,67 @@
+---
+permalink: /reproductive/
+layout: page
+title: Reproductive Health R Program
+---
+<div id="reproductive-hero" class="hero">
+  <div class="hero-text">
+    <h1>Summary of Program</h1>
+  </div>
+</div>
+
+<div class="row text-snippet">
+  <p>
+    <strong>Empower Tanzania is about volunteers.</strong> We have a volunteer Board of Directors and a group of incredible individuals working on committees and leading projects, as well as donating services and expertise. Without these dedicated people, nothing we do would be possible. In addition to our excellent volunteers, we have staff in both the U.S. and Tanzania working to maximize our impact. <strong>Together, we make a difference!</strong>
+  </p>
+</div>
+
+<div class="row">
+  <h2 class="text-tertiary text-uppercase">Downloads</h2>
+</div>
+
+<div class="row text-tertiary">
+  
+  <div class="col">
+    <a href="{{ site.baseurl }}/assets/downloads/2018ETIannualreport.pdf" download="2018ETIannualreport">2018 Annual Report</a>
+  </div>
+  
+</div>
+
+{% include picture-row.html 
+  photo1="volunteer1.jpg" 
+  photo2="volunteer2.jpg" 
+  photo3="volunteer3.jpg" 
+  photo4="volunteer4.jpg"
+  %}
+
+<div class="row">
+  <h2 class="text-tertiary text-uppercase">Videos</h2>
+</div>
+
+<div class="row text-tertiary">
+  {% for staff in site.data.us_staff %}
+  <div class="col">
+    <div class="staff">
+      <div class="circle-photo" style="background: url({{site.baseurl}}/assets/images/staff/{{ staff.image }});">
+      </div>
+      <h5>{{ staff.name }}</h5>
+    </div>
+  </div>
+  {% endfor %}
+</div>
+
+<div class="row">
+  <h2 class="text-tertiary text-uppercase">RHRP Newsletter</h2>
+</div>
+
+<div id="rhrp-newsletter">
+
+  <div class="row">
+
+    <a class="btn btn-info-inverse" href="{{ site.baseurl }}/assets/downloads/2018ETIannualreport.pdf" download="2018ETIannualreport">Current Issue</a>
+
+    <a class="btn btn-info-inverse" href="{{ site.baseurl }}/rhrp-archives/">Archives</a>
+
+  </div>
+  
+</div>

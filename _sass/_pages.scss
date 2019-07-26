@@ -71,6 +71,13 @@
     rgba(black, 0)), url('./../images/about-hero.jpg');
   background-position: center;
 }
+#reproductive-hero {
+  background-image: linear-gradient(
+    to top,
+    rgba(black, 0.9),
+    rgba(black, 0)), url('./../images/about-hero.jpg');
+  background-position: center;
+}
 #donate-hero {
   background-image: linear-gradient(
     to top,
