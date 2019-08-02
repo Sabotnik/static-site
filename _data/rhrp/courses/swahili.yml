@@ -1,2 +1,8 @@
-- name: test course swahili 1
-  file_path:
+- name: Primary School Curriculum (Swahili)
+  file_path: Primary School Curriculum Swahilidocx.docx
+- name: Primary Lesson Plans (Swahili)
+  file_path: Primary Lesson Plan Sw.docx
+- name: Secondary School Curriculum (Swahili)
+  file_path: Secondary School Curriculum Sw.docx
+- name: Secondary School Lesson Plans (Swahili)
+  file_path: Secondary School Lesson Plans Sw-Final.docx
