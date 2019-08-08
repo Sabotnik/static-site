@@ -9,40 +9,48 @@ title: Reproductive Health & Relationships Program
   </div>
 </div>
 
-<div class="row text-snippet">
-  <h2>Overview</h2>
-  <p>
-      The Reproductive Health and Relationships Program was designed by Empower Tanzania in coordination with the Tanzanian government to provide comprehensive reproductive health and relationships education to all Tanzania students starting with Same District as a pilot area. The primary goals of this program are threefold: (1) To reduce the rate of teen pregnancy,* (2) delay the age of onset for sexual activity, and (3) reduce the rate of sexually transmitted diseases in teenagers.
-  </p>
+<div id="reproductive-info" class="row">
   
-  <h2>Objectives</h2>
+  <div class="col">
+    <h2>Overview</h2>
 
-  <ul>
-    <li>Educate young people about healthy relationships</li>
-    <li>Allow young people to ask questions about their bodies, their experiences, and sex</li>
-    <li>Educate young people about consent</li>
-    <li>Empower young people to say no to unwanted sex</li>
-    <li>Empower young people to make good choices and be respectful of themselves and others</li>
-    <li>Reduce the risk of sexual assault in young people</li>
-    <li>Empower young people to take control of their own sexual health, including contraception</li>
-    <li>Inform young people about where to seek help if necessary</li>
-  </ul>
+    <p>
+        The Reproductive Health and Relationships Program was designed by Empower Tanzania in coordination with the Tanzanian government to provide comprehensive reproductive health and relationships education to all Tanzania students starting with Same District as a pilot area. The primary goals of this program are threefold: (1) To reduce the rate of teen pregnancy,* (2) delay the age of onset for sexual activity, and (3) reduce the rate of sexually transmitted diseases in teenagers.
+    </p>
+  </div>
+  
+  <div class="col">
+    <h2>Objectives</h2>
 
-  <p>
-      For detailed information about the program, including specific training topics, geographic information, and stakeholders, please <a href="{{ site.baseurl }}/assets/downloads/reproductive/RHRPreport-year1.pdf" download="RHRPreport-year1.pdf">click HERE.</a>
-  </p>
-
-  <small>*Same District has a higher rate of teen pregnancy compared to other districts in Kilimanjaro Region.</small>
-
+    <ul>
+      <li>Educate young people about healthy relationships</li>
+      <li>Allow young people to ask questions about their bodies, their experiences, and sex</li>
+      <li>Educate young people about consent</li>
+      <li>Empower young people to say no to unwanted sex</li>
+      <li>Empower young people to make good choices and be respectful of themselves and others</li>
+      <li>Reduce the risk of sexual assault in young people</li>
+      <li>Empower young people to take control of their own sexual health, including contraception</li>
+      <li>Inform young people about where to seek help if necessary</li>
+    </ul>
+  </div>
+  
+  <div class="col">
+    <p>
+        For detailed information about the program, including specific training topics, geographic information, and stakeholders, please <a href="{{ site.baseurl }}/assets/downloads/reproductive/RHRPreport-year1.pdf" download="RHRPreport-year1.pdf">click HERE.</a>
+      </p>
+    
+      <small>*Same District has a higher rate of teen pregnancy compared to other districts in Kilimanjaro Region.</small>
+  </div>
+  
 </div>
 
 <div class="row">
   <h2 class="text-tertiary text-uppercase">Downloads</h2>
 </div>
 
-<div class="row text-tertiary">
+<div class="row text-tertiary icons">
 
-  {% for course in site.data.rhrp.courses.english %}
+  {% for course in site.data.rhrp.courses %}
   <div class="col">
     <a href="{{ site.baseurl }}/assets/downloads/reproductive/{{ course.file_path }}" download="{{ course.file_path }}">
       <i class="fas fa-file-word fa-5x"></i>
@@ -52,19 +60,6 @@ title: Reproductive Health & Relationships Program
   {% endfor %}
   
 </div>
-
-<div class="row text-tertiary">
-  
-    {% for course in site.data.rhrp.courses.swahili %}
-    <div class="col">
-      <a href="{{ site.baseurl }}/assets/downloads/reproductive/{{ course.file_path }}" download="{{ course.file_path }}">
-        <i class="fas fa-file-word fa-5x"></i>
-      </a>
-      <small>{{course.name}}</small>
-    </div>
-    {% endfor %}
-    
-  </div>
 
 {% include picture-row.html 
   photo1="volunteer1.jpg" 

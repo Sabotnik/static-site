@@ -203,7 +203,42 @@
   p {
     color: $tertiary;
   }
-  
+}
+#reproductive-info {
+  flex-direction: column;
+  h2 {
+    color: $highlight;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+  p, small {
+    color: $tertiary;
+  }
+  ul {
+    text-align: left;
+    margin-bottom: 30px;
+    li {
+      margin-bottom: 10px;
+      color: $tertiary;
+    }
+    li:nth-child(odd) {
+      color: $secondary;
+    }
+  }
+  a {
+    color: $primary;
+  }
+  a:hover {
+    color: $warning;
+  }
+}
+.icons {
+  .col {
+    align-items: center;
+    margin-bottom: 20px;
+  }
 }
 .odd {
   background-color: #e5e3e3;
