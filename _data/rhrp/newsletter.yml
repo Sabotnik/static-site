@@ -1,4 +1,12 @@
-- issue: Test issue 1
-  file_path:
-- issue: Test issue 2
-  file_path:
+- name: May Newsletter (English)
+  file_path: English_May 2019.pdf
+- name: May Newsletter (Swahili)
+  file_path: Swahili_May 2019.pdf
+- name: June Newsletter (English)
+  file_path: English_June 2019.pdf
+- name: June Newsletter (Swahili)
+  file_path: Swahili_June 2019.pdf
+- name: July Newsletter (English)
+  file_path: English_July 2019.pdf
+- name: July Newsletter (Swahili)
+  file_path: Swahili_July 2019.pdf
