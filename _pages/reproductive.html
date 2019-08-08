@@ -44,7 +44,10 @@ title: Reproductive Health & Relationships Program
 
   {% for course in site.data.rhrp.courses.english %}
   <div class="col">
-    <a href="{{ site.baseurl }}/assets/downloads/reproductive/{{ course.file_path }}" download="{{ course.file_path }}">{{course.name}}</a>
+    <a href="{{ site.baseurl }}/assets/downloads/reproductive/{{ course.file_path }}" download="{{ course.file_path }}">
+      <i class="fas fa-file-word fa-5x"></i>
+      {{course.name}}
+    </a>
   </div>
   {% endfor %}
   
@@ -54,7 +57,10 @@ title: Reproductive Health & Relationships Program
   
     {% for course in site.data.rhrp.courses.swahili %}
     <div class="col">
-      <a href="{{ site.baseurl }}/assets/downloads/reproductive/{{ course.file_path }}" download="{{ course.file_path }}">{{course.name}}</a>
+      <a href="{{ site.baseurl }}/assets/downloads/reproductive/{{ course.file_path }}" download="{{ course.file_path }}">
+        <i class="fas fa-file-word fa-5x"></i>
+        {{course.name}}
+      </a>
     </div>
     {% endfor %}
     
@@ -72,13 +78,12 @@ title: Reproductive Health & Relationships Program
 </div>
 
 <div class="row text-tertiary">
-  {% for staff in site.data.us_staff %}
+  {% for video in site.data.rhrp.video_links %}
   <div class="col">
-    <div class="staff">
-      <div class="circle-photo" style="background: url({{site.baseurl}}/assets/images/staff/{{ staff.image }});">
-      </div>
-      <h5>{{ staff.name }}</h5>
-    </div>
+    <a href="{{video.link}}" target="_blank">
+      <i class="fab fa-youtube fa-5x"></i>
+      {{video.name}}
+    </a>
   </div>
   {% endfor %}
 </div>
