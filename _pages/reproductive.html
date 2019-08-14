@@ -72,7 +72,7 @@ title: Reproductive Health & Relationships Program
   <h2 class="text-tertiary text-uppercase">Videos</h2>
 </div>
 
-<div class="row text-tertiary">
+<div class="row text-tertiary icons">
   {% for video in site.data.rhrp.video_links %}
   <div class="col">
     <a href="{{video.link}}" target="_blank">
@@ -91,7 +91,11 @@ title: Reproductive Health & Relationships Program
 
   <div class="row">
 
-    <a class="btn btn-info-inverse" href="{{ site.baseurl }}/assets/downloads/2018ETIannualreport.pdf" download="2018ETIannualreport">Current Issue</a>
+    {% for issue in site.data.rhrp.newsletter reversed limit:1 %}
+
+      <a class="btn btn-info-inverse" href="{{ site.baseurl }}/assets/downloads/reproductive/newsletter/{{issue.file_path}}" download="{{issue.file_path}}">Current Issue</a>
+
+    {% endfor %}
 
     <a class="btn btn-info-inverse" href="{{ site.baseurl }}/rhrp-archives/">Archives</a>
 
