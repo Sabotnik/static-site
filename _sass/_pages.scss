@@ -206,6 +206,10 @@
 }
 #reproductive-info {
   flex-direction: column;
+  .row {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
   h2 {
     color: $highlight;
     text-transform: uppercase;
