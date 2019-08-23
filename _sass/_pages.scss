@@ -252,6 +252,16 @@
     color: $warning;
   }
 }
+
+#rhrp-archives {
+  h2 {
+    color: $highlight;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 40px;
+    margin-top: 20px;
+  }
+}
 .odd {
   background-color: #e5e3e3;
 }
