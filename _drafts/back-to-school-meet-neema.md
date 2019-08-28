@@ -3,7 +3,7 @@ layout: post
 title: 'Back to School: Meet Neema'
 categories:
   - education
-image:
+image: /assets/images/post-images/neema-1.jpg
 ---
 
 ![](/uploads/learningcenter2-27.jpg){: width="1200" height="721"}
