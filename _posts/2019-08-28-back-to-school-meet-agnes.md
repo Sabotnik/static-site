@@ -16,7 +16,7 @@ Agnes is a 15-year-old being raised by her grandmother in the Majevu Ward, a poo
 
 Agnes has these words to share as she takes her first steps towards her bright future: “I am one of the blessed ones. The&nbsp;**Same Learning Centre** has taught me to receive freely and give freely\! If I were to tell our supporters one thing, I would say, I am really grateful. I want them to know that I won’t let them down and will make sure that what I have gained from Same Learning Centre, I will invest to change the community around me.”
 
-##### **Check back on the blog for more inspiring words like Agnes shared here. Please consider donating to our Back to School Campaign&nbsp;[HERE](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=46&amp;fbclid=IwAR0UDxLV4um9uujUu5_lyPh714lc1bW7_MG_u4e7xCEHS_yZ3bXtmFBqMH8){: target="_blank"}&nbsp;so we can reach more students like Agnes\!**
+#### **Check back on the blog for more inspiring words like Agnes shared here. Please consider donating to our Back to School Campaign&nbsp;[HERE](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=46&amp;fbclid=IwAR0UDxLV4um9uujUu5_lyPh714lc1bW7_MG_u4e7xCEHS_yZ3bXtmFBqMH8){: target="_blank"}&nbsp;so we can reach more students like Agnes\!**
 
 &nbsp;
 
