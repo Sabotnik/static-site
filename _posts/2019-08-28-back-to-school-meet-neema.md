@@ -3,7 +3,7 @@ layout: post
 title: 'Back to School: Meet Neema'
 categories:
   - education
-image:
+image: /assets/images/post-images/5.png
 ---
 
 *Neema lives with her parents in Kisima Ward on the outskirts of Same Town, which is where Empower Tanzania is based. Her mother has small business selling fruits and vegetables and her father does labor in the fields. Neema's family has eight children. Neema is a Grade 6 pupil at Kisima Primary School. Here's what Neema had to say during a conversation with Education Program Director, Yoeza Mnzava, who also translated Neema's words from Kiswahili:*
