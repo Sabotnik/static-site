@@ -8,6 +8,8 @@ _options:
     uploads_dir: "assets/images/post-images/"
   content: # Content Editor and block Editable Regions
     uploads_dir: "uploads/:year/:month/:day/:title"
+  data:
+    uploads_dir: "assets/downloads/reproductive/newsletter/"
 
 defaults:
   - scope:

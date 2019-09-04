@@ -1,8 +1,8 @@
 - name: May Newsletter
-  file_path: English May 2019.pdf
+  file_path: /uploads/English May 2019.pdf
 - name: June Newsletter
-  file_path: English June 2019.pdf
+  file_path: /uploads/English June 2019.pdf
 - name: July Newsletter
-  file_path: English July 2019.pdf
+  file_path: /uploads/English July 2019.pdf
 - name: August Newsletter
   file_path: /uploads/english--august2019.pdf

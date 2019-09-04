@@ -1,8 +1,8 @@
 - name: May Newsletter
-  file_path: Swahili May 2019.pdf
+  file_path: /uploads/Swahili May 2019.pdf
 - name: June Newsletter
-  file_path: Swahili June 2019.pdf
+  file_path: /uploads/Swahili June 2019.pdf
 - name: July Newsletter
-  file_path: Swahili July 2019.pdf
+  file_path: /uploads/Swahili July 2019.pdf
 - name: August Newsletter
   file_path: /uploads/swahili--august2019.pdf
