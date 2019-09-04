@@ -17,7 +17,7 @@ title: Reproductive Health R Program Newsletter Archives
   <div class="row text-tertiary icons">
     {% for newsletter in site.data.rhrp.newsletter.english reversed %}
       <div class="col">
-          <a href="{{ site.baseurl }}/{{ newsletter.file_path }}" download="{{ newsletter.file_path }}">
+          <a href="{{ site.baseurl }}/assets/downloads/reproductive/newsletter/{{ newsletter.file_path }}" download="{{ newsletter.file_path }}">
             <i class="fas fa-file-pdf fa-5x"></i>
           </a>
         {{newsletter.name}} (English)
@@ -26,7 +26,7 @@ title: Reproductive Health R Program Newsletter Archives
     
     {% for newsletter in site.data.rhrp.newsletter.swahili reversed %}
       <div class="col">
-          <a href="{{ site.baseurl }}/{{ newsletter.file_path }}" download="{{ newsletter.file_path }}">
+          <a href="{{ site.baseurl }}/assets/downloads/reproductive/newsletter/{{ newsletter.file_path }}" download="{{ newsletter.file_path }}">
             <i class="fas fa-file-pdf fa-5x"></i>
           </a>
         {{newsletter.name}} (Swahili)
