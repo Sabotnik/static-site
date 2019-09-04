@@ -237,6 +237,14 @@
   a:hover {
     color: $warning;
   }
+  .btn {
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  .btn:hover {
+    color: white;
+  }
 }
 .icons {
   flex-direction: column;
