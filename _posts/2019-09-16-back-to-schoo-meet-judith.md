@@ -8,7 +8,7 @@ image: /assets/images/post-images/judith.jpg
 
 *This post was prepared by Education Program Director, Yoeza Mnzava:*
 
-Judith is staying with her grandmother at Kiwanja, which is close to Same Town. (Pronounced Sah-may Town; home to Empower Tanzania headquarters.) Judith was orphaned at a young age and circumstances become even tougher for her when her grandmother passed away.&nbsp;**&nbsp;Judith failed even to go to school because she had no school uniform or stationeries for schooling.**
+Judith is staying with her grandmother at Kiwanja, which is close to Same Town. (Pronounced Sah-may Town; home to Empower Tanzania headquarters.) Judith was orphaned at a young age and circumstances became even tougher for her when her grandmother passed away.&nbsp;**&nbsp;Judith failed even to go to school because she had no school uniform or stationeries for schooling.**
 
 Judith was under constant pressure from her fellow peer group to be married. For a girl raised in a male-dominated society, this should been the end. But not for Judith.
 
