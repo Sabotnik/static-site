@@ -8,13 +8,13 @@ image: /assets/images/post-images/judith.jpg
 
 *This post was prepared by Education Program Director, Yoeza Mnzava:*
 
-Judith is staying with her grandmother at Kiwanja, which is close to Same Town. (Pronounced Sah-may Town; home to Empower Tanzania headquarters.) Judith was orphaned at a young age and circumstances became even tougher for her when her grandmother passed away.&nbsp;**&nbsp;Judith failed even to go to school because she had no school uniform or stationeries for schooling.**
+Judith is staying with her grandmother at Kiwanja, which is close to Same Town. (Pronounced Sah-may Town; home to Empower Tanzania headquarters.) Judith was orphaned at a young age and circumstances became even tougher for her when her grandmother passed away.&nbsp;**&nbsp;Judith failed even to go to school because she had no school uniform or stationaries for schooling.**
 
-Judith was under constant pressure from her fellow peer group to be married. For a girl raised in a male-dominated society, this should been the end. But not for Judith.
+Judith was under constant pressure from her fellow peer group to be married. For a girl raised in a male-dominated society, this should have been the end. But not for Judith.
 
 Judith met Teacher Bertha from Majengo Primary School and explained to her what she faced. Teacher Bertha connected her to Empower Tanzania. This connection was a turning point for Judith.
 
-Judith was assisted by the Empower Tanzania with all of her school expenses: school uniform, stationeries, and school lunch. Judith also started to attend lessons at the Same Learning Center every Tuesday, Thursday, and Saturday. **She has proven herself to be a superstar for her strength to move forward despite her circumstances.**
+Judith was assisted by Empower Tanzania with all of her school expenses: school uniform, shoes, stationaries, supplies, and school lunch. Judith also started to attend lessons at the Same Learning Center every Tuesday, Thursday, and Saturday. **She has proven herself to be a superstar for her strength to move forward despite her circumstances.**
 
 From a life overcoming challenges, Judith believes that Empower Tanzania— through the support of the Same Learning Center—changed her life completely. As Judith says, "Life is a struggle without education; it’s had to survive without it."
 
