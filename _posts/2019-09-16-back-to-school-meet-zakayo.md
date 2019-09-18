@@ -16,7 +16,7 @@ Education Director Yoeza Mwanza passed along the following letter, written by Za
 
 *I love Tourism industry as I am staying close to Mkomazi National park I real enjoying staying close to animals and tourist. It’s my dream to be a tour guide. I lack good words for saying thank you. I do appreciate the donors, staff worker and all Empower Tanzania family for engulfing me in all ways and supporting me in all I need.*
 
-*Thank you and be blessed.*
+*Thank you and be blessed,&nbsp;*
 
 *Zakayo*
 
