@@ -12,7 +12,7 @@ If you speak Swahili, you're in for a treat. If you don't, just know that Empowe
 
 This report about the [Reproductive Health and Relationships Program](https://empowertz.org/reproductive/){: target="_blank"}&nbsp;appeared on the evening news of the main national television station, ITV, in Tanzania on September 9. (Click the photo of Country Director Elibariki Kisimbo to hear the full story.):
 
-[![](/uploads/screen-shot-2019-10-14-at-4-34-56-pm.png){: width="1594" height="916"}](https://www.youtube.com/watch?v=3ZIBjuh9L70&amp;feature=youtu.be){: target="_blank"}
+[![](/uploads/2019/10/13/were-in-the-news/eli-on-tv.jpg){: width="1200" height="824"}](https://www.youtube.com/watch?v=3ZIBjuh9L70&amp;feature=youtu.be){: target="_blank"}
 
 This article appeared in The Daily News, Monday, September 23, 2019:
 
