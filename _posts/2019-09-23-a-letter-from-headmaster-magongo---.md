@@ -3,7 +3,6 @@ layout: post
 title: A Letter from Headmaster Magongo...
 categories:
   - health
-  - education
 image: /assets/images/post-images/rhrp--articel1.jpg
 ---
 
