@@ -3,7 +3,7 @@ layout: post
 title: We're in the News!
 categories:
   - health
-image: /assets/images/post-images/screen-shot-2019-10-14-at-4-36-20-pm.png
+image: /assets/images/post-images/screen-shot-2019-10-14-at-4-43-46-pm.png
 ---
 
 Our work is receiving national attention in Tanzania and we couldn't be more proud of our hardworking staff, program director, volunteers, and supporters who have worked tirelessly to create a phenomenal program that is changing lives. Recently, we have been recognized for our work on the [Reproductive Health and Relationships Program](https://empowertz.org/reproductive/)&nbsp;by two national news outlets.
