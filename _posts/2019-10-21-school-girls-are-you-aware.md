@@ -1,6 +1,6 @@
 ---
 layout: post
-title: School girls! Are You Aware?
+title: School Girls! Are You Aware?
 categories:
   - health
 image: /assets/images/post-images/classroom-scene.jpg
