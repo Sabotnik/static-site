@@ -14,7 +14,7 @@ Graduation Day at the [Same Learning Center (SLC)](https://empowertz.org/program
 
 During the ceremony we prepared programs presented by our beloved students like comedy, talent show, songs, poems and music. All of this brought joy and happiness to everyone at the ceremony. We had two teachers from six schools we are working with, parents of 30 students, and representatives from Compassion Tanzania. Parents and guardians have been very grateful and happy for how we have helped these children in education, both financially and by building them up to be better parents of the future.
 
-![](/uploads/2019/10/21/same-learning-center-graduation-day/slcday1-1.jpg){: width="1200" height="810"}
+![](/uploads/2019/10/21/same-learning-center-graduation-day/slcday1--.jpg){: width="1200" height="690"}
 
 We were happy to have Marietha Shayo (Primary School Special Education Officer) as our guest of honor. She inspired our students in her courageous and inspirational speech. We regard her as a good example of a successful woman&nbsp; a role model for our girls to learn from her.
 
