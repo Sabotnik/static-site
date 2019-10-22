@@ -6,7 +6,7 @@ categories:
 image: /assets/images/post-images/graduation-cover.jpg
 ---
 
-![](/uploads/graduation5.jpg){: width="3679" height="2453"}Greetings from Tanzania\!
+Greetings from Tanzania\!
 
 I am so happy to see our students having fun in our center. I know for all of us it is a great pleasure to see these students happy and successful in their lives after graduating from our center.
 
@@ -14,7 +14,7 @@ Graduation Day at the [Same Learning Center (SLC)](https://empowertz.org/program
 
 During the ceremony we prepared programs presented by our beloved students like comedy, talent show, songs, poems and music. All of this brought joy and happiness to everyone at the ceremony. We had two teachers from six schools we are working with, parents of 30 students, and representatives from Compassion Tanzania. Parents and guardians have been very grateful and happy for how we have helped these children in education, both financially and by building them up to be better parents of the future.
 
-![](/uploads/graduation3.jpg){: width="3678" height="2452"}
+![](/uploads/2019/10/21/same-learning-center-graduation-day/slcday1.jpg){: width="1200" height="900"}
 
 We were happy to have Marietha Shayo (Primary School Special Education Officer) as our guest of honor. She inspired our students in her courageous and inspirational speech. We regard her as a good example of a successful woman&nbsp; a role model for our girls to learn from her.
 
@@ -32,4 +32,6 @@ Regards,
 
 ### Watch the video by clicking the photo below:
 
-![](/uploads/video.jpg){: width="425" height="283"}[...](https://youtu.be/q7XfDTerfQY){: target="_blank"}
+&nbsp;
+
+![](/uploads/video.jpg){: width="425" height="283"}[…](https://youtu.be/q7XfDTerfQY){: target="_blank"}
