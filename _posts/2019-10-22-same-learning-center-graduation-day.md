@@ -28,12 +28,8 @@ Truly, through this program we are contributing significantly to the lives of th
 
 Regards,
 
-**Yoeza Mnzava, Education Programs Director**&nbsp;
+*Yoeza Mnzava, Education Programs Director&nbsp;*
 
-### &nbsp;
-
-### Watch the video by clicking the photo:
-
-&nbsp;
+**Watch the video by clicking the photo:**
 
 [![](/uploads/video.jpg){: width="425" height="283"}](https://youtu.be/q7XfDTerfQY){: target="_blank"}[…](https://youtu.be/q7XfDTerfQY){: target="_blank"}
