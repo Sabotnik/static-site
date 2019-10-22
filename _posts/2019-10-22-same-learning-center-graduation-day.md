@@ -28,4 +28,4 @@ Regards,
 
 &nbsp;
 
-![](/uploads/video.jpg){: width="425" height="283"}[…](https://youtu.be/q7XfDTerfQY){: target="_blank"}
+[![](/uploads/video.jpg){: width="425" height="283"}](https://youtu.be/q7XfDTerfQY){: target="_blank"}[…](https://youtu.be/q7XfDTerfQY){: target="_blank"}
