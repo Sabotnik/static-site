@@ -6,8 +6,6 @@ categories:
 image: /assets/images/post-images/graduation-cover.jpg
 ---
 
-&nbsp;
-
 ![](/uploads/graduation5.jpg){: width="3679" height="2453"}Greetings from Tanzania\!
 
 I am so happy to see our students having fun in our center. I know for all of us it is a great pleasure to see these students happy and successful in their lives after graduating from our center.
@@ -32,4 +30,6 @@ Regards,
 
 **Yoeza Mnzava, Education Programs Director**&nbsp;
 
-Watch the video by clicking the photo below:
+### Watch the video by clicking the photo below:
+
+![](/uploads/video.jpg){: width="425" height="283"}[...](https://youtu.be/q7XfDTerfQY){: target="_blank"}
