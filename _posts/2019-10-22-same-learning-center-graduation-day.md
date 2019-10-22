@@ -18,6 +18,8 @@ During the ceremony we prepared programs presented by our beloved students like 
 
 We were happy to have Marietha Shayo (Primary School Special Education Officer) as our guest of honor. She inspired our students in her courageous and inspirational speech. We regard her as a good example of a successful woman&nbsp; a role model for our girls to learn from her.
 
+![](/uploads/2019/10/21/same-learning-center-graduation-day/blog-post--.jpg){: width="900" height="506"}
+
 During the ceremony, Empower Tanzania staff, our guest of honor, and primary school teachers contributed money for Pre-Form One fees and all necessary stationaries for three months (October-December) to all 30 students. This was great to all of us in the ceremony. We were very happy, but we also had a heartfelt to say goodbye to these beloved students. We contributed this money as our gift to all graduates.
 
 Truly, through this program we are contributing significantly to the lives of these students and the entire community. This is such a wonderful and unique program that practically demonstrates our mission and goal to improve the lives of rural Tanzania and empower our communities.
