@@ -6,6 +6,8 @@ categories:
 image: /assets/images/post-images/graduation-cover.jpg
 ---
 
+![](/uploads/2019/10/21/same-learning-center-graduation-day/img-3975.JPG){: width="6240" height="4160"}
+
 Greetings from Tanzania\!
 
 I am so happy to see our students having fun in our center. I know for all of us it is a great pleasure to see these students happy and successful in their lives after graduating from our center.
