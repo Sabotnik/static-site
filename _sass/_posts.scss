@@ -114,7 +114,7 @@
 }
 .post-heading {
   background-color: #e5e3e3;
-  background: 
+  background:
     linear-gradient(
       rgba(#e5e3e3, 0.75),
       rgba(#e5e3e3, 0.85)
@@ -150,6 +150,9 @@
 }
 .post-content {
   padding: 15px;
+  img {
+    height: auto;
+  }
 }
 .post-navigation {
   a {
@@ -239,7 +242,7 @@
   #event-highlight img {
     width: 400px;
   }
-  
+
 }
 @media (min-width: 1050px) {
   .grid {
@@ -280,7 +283,7 @@
 @media (min-width: 1750px) {
   .grid, .button-group {
     width: 1600px;
-  } 
+  }
   #event-highlight img {
     width: 90%;
   }
