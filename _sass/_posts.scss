@@ -212,9 +212,11 @@
   .button-group {
     flex-direction: row;
   }
-  .post-content img {
-    width: 100%;
-    height: auto;
+  .post-content {
+    img {
+        width: 100%;
+        height: auto;
+    }
   }
 }
 //Medium devices (tablets, 768px and up)
