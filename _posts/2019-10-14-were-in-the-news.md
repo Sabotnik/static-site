@@ -10,9 +10,9 @@ Our work is receiving national attention in Tanzania and we couldn't be more pro
 
 If you speak Swahili, you're in for a treat. If you don't, just know that Empower Tanzania is making headlines.
 
-This report about the [Reproductive Health and Relationships Program](https://empowertz.org/reproductive/){: target="_blank"}&nbsp;appeared on the evening news of the main national television station, ITV, in Tanzania on September 9. (Click the photo of Country Director Elibariki Kisimbo to hear the full story.):
+This report about the [Reproductive Health and Relationships Program](https://empowertz.org/reproductive/){: target="_blank"}&nbsp;appeared on the evening news of the main national television station, ITV, in Tanzania on September 9. (Click [HERE](https://www.youtube.com/watch?v=3ZIBjuh9L70&amp;feature=youtu.be){: target="_blank"} to see Country Director Elibariki Kisimbo and hear the full story.):
 
-![](/uploads/2019/10/13/were-in-the-news/eli--news-1.jpg){: width="1200" height="801"}
+[![](/uploads/2019/10/13/were-in-the-news/eli--news-1.jpg){: width="1200" height="801"}](https://www.youtube.com/watch?v=3ZIBjuh9L70&amp;feature=youtu.be){: target="_blank"}
 
 This article appeared in The Daily News, Monday, September 23, 2019:
 
