@@ -60,16 +60,14 @@ title: Home
     </div>
   
     <div id="events-list" class="col">
-      <div>
-        <h4>Check back soon!</h4>
-      </div>
-      <!--
+      <h3>Monday, Wednesday and Friday Classes</h3>
+      {% for post in site.posts %}
       <div>
         <h4>{{post.title}}</h4>
         <p>{{post.date}}  |  {{post.time}}  |  {{post.location}}</p>
       </div>
-      
-        <a class="btn btn-secondary-outline" href="#">See All Events</a>-->
+      {% endfor %}
+        <a class="btn btn-secondary-outline" href="#">See All Events</a>
     </div>
   </div>
 
