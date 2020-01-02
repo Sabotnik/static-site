@@ -56,15 +56,15 @@ title: Home
 
   <div class="row">
     <div id="upcoming-header" class="col">
-      <h2>Upcoming Events</h2>
+      <h2>Upcoming Classes</h2>
     </div>
   
     <div id="events-list" class="col">
-      <h3>Monday, Wednesday and Friday Classes</h3>
+      <h3>Monday, Wednesday and Friday</h3>
       {% for post in site.posts %}
       <div>
         <h4>{{post.title}}</h4>
-        <p>{{post.date}}  |  {{post.time}}  |  {{post.location}}</p>
+        <p>Time: {{post.class_time}}  |  Class size: {{post.class_size}}  |  Duration is {{post.class_duration}}</p>
       </div>
       {% endfor %}
         <a class="btn btn-secondary-outline" href="#">See All Events</a>
