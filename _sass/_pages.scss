@@ -161,6 +161,12 @@
       margin-bottom: 30px;
     }
   }
+  a {
+    color: $secondary;
+  }
+  a:hover {
+    color: $tertiary;
+  }
 }
 /* Different elements on pages */
 #about-mission {
@@ -216,9 +222,6 @@
   h1,h2,ul,small {
     color: $secondary;
     margin-bottom: 20px;
-  }
-  ul {
-    
   }
 }
 #map {

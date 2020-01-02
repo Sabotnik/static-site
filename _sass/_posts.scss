@@ -36,30 +36,12 @@
     align-items: center;
   }
 }
-.bg-health {
-  @include transparent-bg($success, 0.9);
-  padding: 15px;
-  line-height: 2;
-}
-.bg-development {
-  @include transparent-bg($secondary, 0.9);
-  padding: 15px;
-  line-height: 2;
-}
-.bg-education {
-  @include transparent-bg($warning, 0.9);
-  padding: 15px;
-  line-height: 2;
-}
-.bg-event {
-  @include transparent-bg($highlight, 0.9);
-  padding: 15px;
-  line-height: 2;
-}
-.bg-news {
-  @include transparent-bg($info, 0.9);
-  padding: 15px;
-  line-height: 2;
+#post-title {
+  h1 {
+    color: $tertiary;
+    font-size: 1.2em;
+    margin-bottom: 30px;
+  }
 }
 /* =================================
   Media Queries
@@ -77,7 +59,11 @@
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-
+  #post-title {
+    h1 {
+      font-size: 2em;
+    }
+  }
 }
 @media (min-width: 1050px) {
  
