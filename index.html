@@ -53,22 +53,34 @@ title: Home
 </div>
 
 <div id="upcoming-events">
-
-  <div class="row">
-    <div id="upcoming-header" class="col">
-      <h2>Upcoming Classes</h2>
-    </div>
+  <div id="upcoming-header">
+    <h2>Upcoming Classes</h2>
+  </div>
   
-    <div id="events-list" class="col">
-      <h3>Monday, Wednesday and Friday</h3>
-      {% for post in site.posts %}
-      <div>
-        <h4>{{post.title}}</h4>
-        <p>Time: {{post.class_time}}  |  Class size: {{post.class_size}}  |  Duration is {{post.class_duration}}</p>
+  <div id="events-list">  
+    <div id="class-list" class="row">
+
+      <div class="col">
+        <h3>Monday, Wednesday and Friday</h3>
+        {% for post in site.categories.mwf reversed %}
+          <div class="class-info">
+            <h4>{{post.title}}</h4>
+            <h5>Time: {{post.class_time}}  |  Class size: {{post.class_size}}  |  Duration is {{post.class_duration}}</h5>
+          </div>
+        {% endfor %}
       </div>
-      {% endfor %}
-        <a class="btn btn-secondary-outline" href="#">See All Events</a>
+  
+      <div class="col">
+        <h3>Tuesday and Thursday</h3>
+        {% for post in site.categories.tth reversed %}
+          <div class="class-info">
+            <h4>{{post.title}}</h4>
+            <h5>Time: {{post.class_time}}  |  Class size: {{post.class_size}}  |  Duration is {{post.class_duration}}</h5>
+          </div>
+        {% endfor %}
+      </div>
     </div>
+
   </div>
 
 </div>
