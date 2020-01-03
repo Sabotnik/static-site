@@ -5,7 +5,19 @@ layout: page
 ---
 <div id="class-index">
     <div class="row">
-        <h1 class="h1-list">List of all classes at FitRx</h1>
+        <h1 class="h1-list font-main">List of all classes at FitRx</h1>
+    </div>
+
+    <div id="class-list" class="row">
+        <div class="col">
+            <h3>Pop Up Classes</h3>
+            {% for post in site.categories.popup %}
+            <div class="class-info">
+                <h4><a href="{{post.url}}">{{post.title}}</a></h4>
+                <h5>Time: {{post.class_time}}  |  Class size: {{post.class_size}}  |  Duration is {{post.class_duration}}</h5>
+            </div>
+            {% endfor %}
+        </div>
     </div>
     
     {% include class-list.html %}

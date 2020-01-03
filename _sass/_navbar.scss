@@ -58,6 +58,22 @@ nav {
 #navbar-cta-desktop {
   display: none;
 }
+#announcement {
+  background-color: $tertiary;
+  color: white;
+  text-align: center;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  h5 {
+    font-size: 1.5em;
+  }
+  a {
+    color: white;
+  }
+  a:hover {
+    color: $secondary;
+  }
+}
 /* =================================
   Media Queries
 ==================================== */
