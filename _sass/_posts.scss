@@ -36,11 +36,36 @@
     align-items: center;
   }
 }
-#post-title {
-  h1 {
-    color: $tertiary;
+#post-nav {
+  a {
+    color: $secondary;
+    margin-right: 20px;
+  }
+  a:hover {
+    color: $primary;
+  }
+}
+.h1-list {
+  color: $tertiary;
+  font-size: 1.2em;
+  margin-bottom: 30px;
+}
+#class-index {
+  h3 {
     font-size: 1.2em;
-    margin-bottom: 30px;
+    font-weight: 700;
+    color: $primary;
+    margin-bottom: 20px;
+  }
+  h4 {
+    font-weight: 700;
+    font-size: 1.2em;
+    margin-bottom: 10px;
+  }
+}
+#class-subhead {
+  h3 {
+    color: $primary;
   }
 }
 /* =================================
@@ -59,9 +84,15 @@
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-  #post-title {
-    h1 {
+  .h1-list {
+    font-size: 2em;
+  }
+  #class-list {
+    h3 {
       font-size: 2em;
+    }
+    h4 {
+      font-size: 1.5em;
     }
   }
 }

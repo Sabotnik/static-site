@@ -123,7 +123,7 @@
   background-size: cover;
   background-repeat: no-repeat;
 }
-#upcoming-header {
+#tertiary-header {
   justify-content: flex-start;
   align-items: stretch;
   padding-left: 0;
@@ -287,7 +287,7 @@
       flex-direction: row;
     }
   }
-  #upcoming-header {
+  #tertiary-header {
     flex-grow: 2;
   }
   #events-list {

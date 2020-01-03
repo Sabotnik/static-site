@@ -1,11 +1,16 @@
 ---
 layout: default
 ---
+<div id="post-nav" class="row">
+  <a href="{{page.previous.url}}"><< Previous class</a>
+  <a href="{{page.next.url}}">Next class >></a>
+  <a href="{{site.baseurl}}/classes/">View all classes</a>
+</div>
+<div id="tertiary-header">
+  <h2>Class info for {{ page.title }}</h2>
+</div>
 <div class="row">
-  <div id="post-title" class="col">
-    <h1>Class info for {{ page.title }}</h1>
-  </div>
-  <div class="col">
+  <div id="class-subhead" class="col">
     {% if page.categories contains "mwf" %}
     <h3>Monday, Wednesday and Friday from {{ page.class_time }}</h3>
     {% else %}
