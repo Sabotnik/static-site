@@ -4,7 +4,7 @@ title: 'Spotlight: Neema Mndeme'
 categories:
   - education
   - health
-image: /assets/images/post-images/pangaro-joy.jpg
+image: /assets/images/post-images/neema-in-classroom.jpg
 ---
 
 ![](/uploads/neema-mndeme.jpg){: width="800" height="265"}
