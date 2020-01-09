@@ -3,7 +3,6 @@ layout: post
 title: 'Spotlight: Neema Mndeme'
 categories:
   - education
-  - health
 image: /assets/images/post-images/neema-in-classroom.jpg
 ---
 
