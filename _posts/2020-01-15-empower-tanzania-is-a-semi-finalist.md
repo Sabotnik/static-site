@@ -16,6 +16,6 @@ We were recognized for being bold enough to start this very important conversati
 
 Without your financial support, this would not have been possible. Together we do make a difference\! Thank you\!
 
-## *Want to celebrate more with Empower Tanzania? [Scroll through our News & Events page for other awards, recognition, and bright moments.](https://empowertz.org/news&amp;events/){: target="_blank"}*
+### *Want to celebrate more with Empower Tanzania? [Scroll through our News & Events page for other awards, recognition, and bright moments.](https://empowertz.org/news&amp;events/){: target="_blank"}*
 
 *![](/uploads/school-kids.jpg){: width="1200" height="784"}*
