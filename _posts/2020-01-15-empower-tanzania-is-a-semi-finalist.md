@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Empower Tanzania is Semi-Finalist!
+title: Empower Tanzania is a Semi-Finalist!
 categories:
   - news
 image: /assets/images/post-images/celebrate-semifinalist.jpg
