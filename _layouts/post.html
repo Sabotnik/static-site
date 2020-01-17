@@ -13,8 +13,10 @@ layout: default
   <div id="class-subhead" class="col">
     {% if page.categories contains "mwf" %}
     <h3>Monday, Wednesday and Friday from {{ page.class_time }}</h3>
-    {% else %}
+    {% elsif page.categories contains "tth" %}
     <h3>Tuesday and Thursday from {{ page.class_time }}</h3>
+    {% elsif page.categories contains "popup" %}
+    <h3>Popup class! (one day only) starts at {{ page.class_time }}</h3>
     {% endif %}
     <small>{{ page.class_type }} for {{ page.class_duration }}, class size is {{ page.class_size }} people.</small>
   </div>

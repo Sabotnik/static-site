@@ -1,0 +1,24 @@
+---
+layout: default
+---
+<div id="post-nav" class="row">
+    <a href="{{page.previous.url}}"><< Previous class</a>
+    <a href="{{page.next.url}}">Next class >></a>
+    <a href="{{site.baseurl}}/classes/">View all classes</a>
+  </div>
+  <div id="tertiary-header">
+    <h2 class="font-main">Event info for {{ page.title }}</h2>
+  </div>
+  <div class="row">
+    <div id="class-subhead" class="col">
+      <h3>{{ page.class_time }} on {{ page.class_date}}</h3>
+      
+      <small>Duration: {{ page.class_duration }}</small>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col">
+      {{ page.content }}
+    </div>
+    
+  </div>
