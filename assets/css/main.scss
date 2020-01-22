@@ -2,19 +2,26 @@
 ---
 
 // Color variables
-$primary: #2c318c;
-$secondary: #21a1a1;
-$tertiary: #594a42;
-$warning: #f04e29;
+$primary: #272962;
+$secondary: #275ba8;
+$tertiary: #f68b3c;
+$warning: #f6c539;
 $success: #2a328f;
-$info: #7d4895;
+$info: #c7c8ca;
 $highlight: #fbb040; //no button setup currently for $highlight
 
 // Font import and variables
-@import url('https://fonts.googleapis.com/css?family=Amatic+SC|Fira+Sans');
+@font-face {
+    font-family: "Brandon_med";
+    src: url("../fonts/Brandon_med.otf");
+}
+@font-face {
+    font-family: "Hochstadt-Rounded";
+    src: url("../fonts/Hochstadt-Rounded.otf");
+}
 
-$font-main: 'Fira Sans', sans-serif;
-$font-accent: 'Amatic SC', cursive;
+$font-main: "Brandon_med", sans-serif;
+$font-accent: "Hochstadt-Rounded", sans-serif;
 
 // Imports of Sass files
 @import "mixins";
