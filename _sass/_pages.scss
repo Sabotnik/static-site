@@ -33,7 +33,33 @@
   background-position: center;
   padding: 0 15px;
 }
-
+#full_screen {
+  background: url(../images/landing-background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 100vh;
+  h1 {
+    color: white;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 2em;
+  }
+  text-align: center;
+}
+#tradesman, #web {
+  border-radius: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  line-height: 1.75em;
+}
+#tradesman {
+  background-color: $warning;
+}
+#web {
+  background-color: $tertiary;
+}
 /* =================================
   Media Queries
 ==================================== */
