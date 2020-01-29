@@ -25,15 +25,5 @@ layout: default
   <div class="col">
     {{ page.content }}
   </div>
-  <!-- Calendly inline widget begin -->
-
-  {% if page.class_type == "HIIT" %}
-    <div class="calendly-inline-widget col" data-url="https://calendly.com/fitrx-classes/hiit" style="min-width:320px;height:630px;"></div>
-  {% elsif page.class_type == "HIIT w/Core" %}
-    <div class="calendly-inline-widget col" data-url="https://calendly.com/fitrx-classes/hiit-w-core" style="min-width:320px;height:630px;"></div>
-  {% elsif page.class_type == "Circuit Training" %}
-    <div class="calendly-inline-widget col" data-url="https://calendly.com/fitrx-classes/circuit-training" style="min-width:320px;height:630px;"></div>
-  {% endif %}
-    <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
-  <!-- Calendly inline widget end -->
+  
 </div>
