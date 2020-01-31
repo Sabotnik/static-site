@@ -14,7 +14,7 @@ John lives in a suburb of Same Town where he and his family share a single-room 
 
 “John is always helping out,” says his mother Salome. “He is always reading with his brother (Daudii) and sister (Nainkwa) and he helps the neighbor kids with their English."
 
-Why does John choose to spend so much time helping others? John recently told his teacher, Yoeza Mnzava, with tears in his eyes: “We are taught at the Same Learning Center to help others...especially less-privileged people...as a way of paying back to our community.”&nbsp;
+Why does John choose to spend so much time helping others? John recently told his teacher, Yoeza Mnzava, with tears in his eyes: “We are taught at the Same Learning Center to help others…especially less-privileged people…as a way of paying back to our community.”&nbsp;
 
 John's mother Salome and her husband Mkirindi want to provide a better life for their children but are unable to put all three through school because they are unskilled workers who are paid less than $12 a week.
 
