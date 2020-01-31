@@ -1,16 +1,18 @@
-- name: May Newsletter
+- name: May 2019
   file_path: English May 2019.pdf
-- name: June Newsletter
+- name: June 2019
   file_path: English June 2019.pdf
-- name: July Newsletter
+- name: July 2019
   file_path: English July 2019.pdf
-- name: August Newsletter
+- name: August 2019
   file_path: english--august2019.pdf
-- name: September Newsletter
+- name: September 2019
   file_path: English September 2019.pdf
-- name: October Newsletter
+- name: October 2019
   file_path: English Oct 2019.pdf
-- name: November Newsletter
+- name: November 2019
   file_path: English November 2019.pdf
-- name: December Newsletter
+- name: December 2019
   file_path: English Dec 2019.pdf
+- name: January 2020
+  file_path: english-january2020.pdf

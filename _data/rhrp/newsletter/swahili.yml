@@ -1,16 +1,18 @@
-- name: May Newsletter
+- name: May 2019
   file_path: Swahili May 2019.pdf
-- name: June Newsletter
+- name: June 2019
   file_path: Swahili June 2019.pdf
-- name: July Newsletter
+- name: July 2019
   file_path: Swahili July 2019.pdf
-- name: August Newsletter
+- name: August 2019
   file_path: swahili--august2019.pdf
-- name: September Newsletter
+- name: September 2019
   file_path: Swahili September 2019.pdf
-- name: October Newsletter
+- name: October 2019
   file_path: Swahili Oct 2019.pdf
-- name: November Newsletter
+- name: November 2019
   file_path: Swahili November 2019.pdf
-- name: December Newsletter
+- name: December 2019
   file_path: Swahili Dec 2019.pdf
+- name: January 2020
+  file_path: swahili-january2020.pdf
