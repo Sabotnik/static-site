@@ -22,7 +22,7 @@ John's mother Salome and her husband Mkirindi want to provide a better life for 
 
 Children in John’s situation have very little chance of graduating from school. In Tanzania, the average person has only 5.11 years schooling and only 35% of secondary school-aged children attend school. However, he was chosen to attend the Same Learning Center, and now dreams of a bright future for he and his family.
 
-“I want to become a doctor,” says John, who is ranked Number One in his class in both Swahili and Science at Kiwanja Primary School.**&nbsp;**This dream would be impossible were it not for the support he receives through the Same Learning Center and his incredible attitude and dedication.
+“I want to become a doctor,” says John, who is ranked No. 1 in his class in both Swahili and science at Kiwanja Primary School.**&nbsp;**This dream would be impossible were it not for the support he receives through the Same Learning Center and his incredible attitude and dedication.
 
 “Going to Same Learning Center means he can become whatever he wants to be,” says John's father, Mkirindi. “If he wants to become a doctor, he can become a doctor. If he wants to become teacher, he can become a teacher. Because he has an education, he can get a job and he can help make life better for his brother and sister.”
 
