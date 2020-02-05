@@ -45,6 +45,12 @@
     text-transform: uppercase;
     letter-spacing: 10px;
     font-size: 1em;
+    a {
+      color: white;
+    }
+    a:hover {
+      color: $info;
+    }
   }
 }
 #offset {
