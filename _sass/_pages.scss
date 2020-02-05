@@ -44,15 +44,18 @@
     color: white;
     text-transform: uppercase;
     letter-spacing: 10px;
-    font-size: 2em;
+    font-size: 1em;
   }
-  text-align: center;
+}
+#offset {
+  margin-left: 50px;
+  margin-top: 10vh;
 }
 #tradesman, #web {
   border-radius: 10px;
   padding-left: 10px;
   padding-right: 10px;
-  line-height: 1.75em;
+  line-height: 2em;
 }
 #tradesman {
   background-color: $warning;
@@ -75,11 +78,19 @@
 
 }
 @media screen and (max-device-width: 800px) {
-
+  
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-
+  #full_screen {
+    h1 {
+      font-size: 2em;
+    }
+  }
+  #offset {
+    margin-left: 20vh;
+    margin-top: 20vh;
+  }
 }
 @media (min-width: 1050px) {
   
