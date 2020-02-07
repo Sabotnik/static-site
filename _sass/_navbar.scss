@@ -9,35 +9,35 @@ nav,
   flex-direction: column;
 }
 nav {
-  width: 95%;
-  margin: 20px auto;
-  padding: 10px 20px;
+  width: 100%;
   }
-.logo {
-  width: 80%;
-}
 .main-nav {
   display: none;
   margin-top: 5px;
+  background-image: linear-gradient(
+    to top,
+    rgba(black, 0.9),
+    rgba(black, 0.1));
 }
 .main-nav a {
-  display: block;
+  display: flex;
   padding: 10px 15px;
+  margin-left: 70px;
   font-size: 1.25em;
   font-weight: 500;
-  color: $tertiary;
+  color: white;
   text-transform: uppercase;
 }
 .main-nav a.nav-link.active {
-  color: $warning;
+  color: $info;
 }
 .social-icon-nav a {
   color: $primary;
 }
 .main-nav a:hover, .social-icon-nav a:hover {
-  color: $warning;
+  color: $info;
 }
-.social-icon-nav, .nav-btn {
+.social-icon-nav {
   display: flex;
   justify-content: center;
 }
@@ -45,36 +45,17 @@ nav {
   margin-top: 20px;
   margin-bottom: 20px;
 }
-.nav-btn {
-  font-size: 1.35em;
-  font-weight: 700;
-  background-color: $warning;
-  display: block;
-  width: 100%;
-}
-.nav-btn:hover {
-  background-color: $primary;
-}
 .nav-link-toggle {
   align-self: flex-end;
   display: initial;
   position: absolute;
   top: 35px;
-  right: 15px;
+  left: 15px;
   cursor: pointer;
+  color: white;
 }
 .nav-toggle-show {
   display: flex;
-}
-.dropdown li {
-  margin-left: 20px;
-}
-.dropdown li:hover, .dropdown li:focus-within {
-  background:darken(white,8%);
-  cursor: pointer;
-}
-.dropdown li:focus-within a {
-  outline: none;
 }
 /* =================================
   Media Queries
@@ -88,62 +69,19 @@ nav {
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-  .logo {
-    width: 90%;
-  }
+  
 }
 // Large devices (desktops, 992px and up)
 @media (min-width: 992px) {
-
+  .main-nav {
+    flex-direction: row;
+  }
 }
 // Extra large devices (large desktops, 1200px and up)
 @media (min-width: 1200px) {
-  .logo {
-    width: 100%;
-  }
-  .main-nav {
-    display: flex;
-    flex-direction: row;
-  }
-  .nav-btn {
-    font-size: 3em;
-    width: auto;
-    padding: 10px 30px;
-  }
-  .nav-link-toggle {
-    display: none;
-  }
+  
   nav {
     flex-direction: row;
     justify-content: space-around;
-  }
-  /* Dropdown */
-  .dropdown li {
-    margin-left: 0px;
-    display: block;
-    float: left;
-    padding: 1rem;
-    position: relative;
-    transition-duration: 0.5s;
-  }
-  ul li ul {
-    background: white;
-    visibility: hidden;
-    opacity: 0;
-    position: absolute;
-    transition: all 0.5s ease;
-    display: none;
-  }
-  ul li:hover > ul,
-  ul li:focus-within > ul,
-  ul li ul:hover,
-  ul li ul:focus {
-     visibility: visible;
-     opacity: 1;
-     display: block;
-  }
-  ul li ul li {
-    clear: both;
-    width: 100%;
   }
 }
