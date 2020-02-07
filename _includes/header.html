@@ -1,40 +1,20 @@
 <header>
 
   <nav role="navigation">
-    <a href="{{ site.baseurl }}{% link index.html %}"><img class="logo" src="{{ site.baseurl }}/assets/images/logo-navbar.svg" alt="company logo"></a>
     <div class="nav-link nav-link-toggle">
       <i class="far fa-bars fa-3x"></i>
     </div>
 
     <ul class="main-nav">
       <li>
-        <a href="#" class="nav-link {% if page.title == "About" %}active{% endif %}">Nav link</a>
-      </li>
-      <li id="dropdown">
-        <a href="#" class="nav-link {% if page.title == "Programs" %}active{% endif %}" aria-haspopup="true"><i class="fas fa-caret-right"></i> Nav link</a>
-        <ul class="dropdown" aria-label="submenu">
-          <li>
-            <a href="#" class="nav-link sub-link">dropdown link</a>
-          </li>
-          <li>
-            <a href="#" class="nav-link sub-link">dropdown link</a>
-          </li>
-          <li>
-            <a href="#" class="nav-link sub-link">dropdown link</a>
-          </li>
-        </ul>
+        <a href="{{ site.baseurl }}/webconsultant/" class="nav-link {% if page.title == "Web Consultant" %}active{% endif %}">Web Consultant</a>
       </li>
       <li>
-        <a href="#" class="nav-link {% if page.title == "Join Us" %}active{% endif %}">Nav link</a>
-      </li>
-      <li>
-        <a href="#" class="nav-link {% if page.title == "News & Events" %}active{% endif %}">Nav link</a>
+        <a href="{{ site.baseurl }}/tradesman/" class="nav-link {% if page.title == "Tradesman" %}active{% endif %}">Tradesman</a>
       </li>
 
     </ul>
-    
-    <a class="btn nav-btn" href="#">CTA</a>
-    
+        
   </nav>
 
 </header>

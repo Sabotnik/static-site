@@ -1,7 +1,7 @@
 .hero {
   background-size: cover;
   background-position: center;
-  height: calc(100vh - 249px);
+  height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: flex-end;
@@ -68,6 +68,20 @@
 }
 #web {
   background-color: $tertiary;
+}
+#web-hero {
+  background-image: 
+    linear-gradient(
+      to top,
+      rgba(black, 0.9),
+      rgba(black, 0)),
+    url('./../images/webconsultant-hero.jpg');
+  .col {
+    align-items: center;
+  }
+  img {
+    max-width: 300px;
+  }
 }
 /* =================================
   Media Queries
