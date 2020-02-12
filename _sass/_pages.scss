@@ -34,41 +34,32 @@
   padding: 0 15px;
 }
 #full_screen {
-  background: url(../images/landing-background.jpg) no-repeat center center fixed; 
+  display: flex;
+  height: 100vh;
+  a {
+    color: white;
+  }
+  a:hover {
+    color: $info;
+  }
+}
+
+#left-split {
+  background: url(../images/tradesman-hero.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 100vh;
-  h1 {
-    color: white;
-    text-transform: uppercase;
-    letter-spacing: 10px;
-    font-size: 1em;
-    a {
-      color: white;
-    }
-    a:hover {
-      color: $info;
-    }
-  }
 }
-#offset {
-  margin-left: 50px;
-  margin-top: 10vh;
+
+#right-split {
+  background: url(../images/webconsultant-hero.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
-#tradesman, #web {
-  border-radius: 10px;
-  padding-left: 10px;
-  padding-right: 10px;
-  line-height: 2em;
-}
-#tradesman {
-  background-color: $warning;
-}
-#web {
-  background-color: $tertiary;
-}
+
 #web-hero {
   background-image: 
     linear-gradient(
