@@ -41,18 +41,29 @@ title: Home
 
 <div id="our_beer" class="row">
 
-  <h2>Our Beer</h2>
+  <div class="col">
+    <h2>Our Beers</h2>
+
+    <h3>Four Core Styles</h3>
+  </div>
   
-  <div class="row">
+  <div id="core_beers" class="row">
       {% for beer in site.data.beers.core %}
 
       <div class="col">
-        <img src="{{site.baseurl}}/assets/images/beer1.jpg" alt="">
+        <img src="{{site.baseurl}}/assets/images/{{beer.imagepath}}" alt="">
         <h3>{{beer.name}}</h3>
         <p>{{beer.description}}</p>
       </div>
       
     {% endfor %}
+  </div>
+
+  <div class="row">
+    <div class="col">
+      <h3>Seasonal and Limited Release Beers</h3>
+      <p>One of the great things about being a local, craft brewery is being able to brew small batches of many different beers. We always have at least one of each of our four core beer styles on tap, and depending upon the season and availability, the other 6-8 of our beers change frequently. The only way for you to not miss out is to come and check us out regularly!</p>
+    </div>
   </div>
   
 </div>
@@ -62,11 +73,12 @@ title: Home
   <div class="row">
     <div class="col">
 
-      <h2>Our Story</h2>
+      <h2>Convenient Location</h2>
   
       <img src="{{site.baseurl}}/assets/images/lines-bothfade.png" alt="lines faded both sides">
       
-      <p>we Work to make Ales for the Midwest</p>
+      <p>Midwest Ale Works is in the same building as The Rust Belt concert venue and Jennie's Boxcar in East Moline. This area, just east of The Bend, is growing rapidly. So if you love good craft beer, Mexican food, and local music, we are the perfect place to visit. Stop by for a brew, grab some tacos at Jennie's Boxcar and stay for a concert at The Rust Belt.</p>
+      <p>We are right along the Mississippi River and the bike path that stretches for miles from Moline and Rock Island all the way to Port Byron. If you hop off the bike path by the Hyatt at The Bend or 7th street, we are right next door. Come and enjoy a brew on your next bike ride!</p>
   
       <h3>Cheers!</h3>
       

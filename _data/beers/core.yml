@@ -1,8 +1,12 @@
 - name: Kolsch
-  description: Coming Soon
+  description: A crisp and refreshing beer style, light in color and hop character.
+  imagepath: kolsch.jpg
 - name: IPA
-  description: Coming Soon
+  description: A hoppy beer style which is paired with various flavors, depending upon the hops used.
+  imagepath: ipa.jpg
 - name: Red Ale
-  description: Coming Soon
+  description: A malty beer style, often boasts malty, caramel and biscuit flavors. 
+  imagepath: redale.jpg
 - name: Porter
-  description: Coming Soon
+  description: A roasted malt beer style usually characterized as chocolate or coffee flavors. 
+  imagepath: porter.jpg
