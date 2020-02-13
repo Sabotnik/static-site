@@ -36,6 +36,7 @@
 #full_screen {
   display: flex;
   height: 100vh;
+  flex-direction: column;
   a {
     color: white;
   }
@@ -45,27 +46,42 @@
 }
 
 #left-split {
-  background: url(../images/tradesman-hero.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-image: 
+    linear-gradient(
+      to top,
+      rgba(black, 0.6),
+      rgba(black, 0.6)),
+      url('./../images/tradesman-hero.jpg');
+  background-repeat: no-repeat;
   background-size: cover;
 }
 
 #right-split {
-  background: url(../images/webconsultant-hero.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
+  background-image: 
+    linear-gradient(
+      to top,
+      rgba(black, 0.6),
+      rgba(black, 0.6)),
+      url('./../images/webconsultant-hero.jpg');
+  background-repeat: no-repeat;
   background-size: cover;
+}
+
+#left-split, #right-split {
+  img {
+    max-width: 200px;
+  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 #web-hero {
   background-image: 
     linear-gradient(
       to top,
-      rgba(black, 0.9),
-      rgba(black, 0)),
+      rgba(black, 0.6),
+      rgba(black, 0.6)),
     url('./../images/webconsultant-hero.jpg');
   .col {
     align-items: center;
@@ -86,7 +102,15 @@
 }
 //Medium devices (tablets, 768px and up)
 @media (min-width: 768px) {
-
+  #full_screen {
+    flex-direction: row;
+  }
+  #left-split, #right-split {
+    flex-grow: 1;
+    img {
+      max-width: 300px;
+    }
+  }
 }
 @media screen and (max-device-width: 800px) {
   
