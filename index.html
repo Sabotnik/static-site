@@ -54,13 +54,16 @@ title: Home
 
 <div id="upcoming-events">
   <div id="tertiary-header">
-    <h2>January 2020 Classes</h2>
+    <h2>February Weekly Classes</h2>
   </div>
   
   <div id="events-list">  
-    
-    {% include class-list.html %}
+    <!-- Calendly inline widget begin -->
+      <div class="calendly-inline-widget" data-url="https://calendly.com/fitrx-classes?hide_landing_page_details=1" style="min-width:320px;height:630px;"></div>
+      <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+    <!-- Calendly inline widget end -->
 
+    <a class="btn btn-primary-outline" href="{{site.baseurl}}/classes/">View all classes</a>
   </div>
 
 </div>
