@@ -1,12 +1,17 @@
 ---
-title: Classes
+title: Classes & Events
 permalink: /classes/
 layout: page
 ---
-<div id="class-index">
-    <div class="row">
-        <h1 class="h1-list font-main">List of all classes at FitRx</h1>
+<div id="classes-hero" class="hero">
+
+    <div class="hero-page-title">
+        <h1>{{ page.title }}</h1>
     </div>
+
+</div>
+
+<div id="class-index">
 
     <div id="class-list" class="row">
         <div class="col">
@@ -38,12 +43,10 @@ layout: page
         </div>
     </div>
 
-    <div class="row">
-        
-    </div>
-    
-    {% include class-list.html %}
 </div>
+
+{% include scenic-location.html %}
+
 <script type="text/javascript">
     $('div').dateFilter();
 </script>

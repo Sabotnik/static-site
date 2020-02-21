@@ -59,6 +59,18 @@
     text-align: center;
   }
 }
+#classes-hero {
+  background-image: url('/assets/images/classes-hero.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top left;
+  justify-content: flex-end;
+  align-items: flex-start;
+  h1 {
+    margin-bottom: 20px;
+    text-align: center;
+  }
+}
 #home-about {
   padding-top: 40px;
   padding-bottom: 40px;
@@ -169,6 +181,23 @@
     color: $tertiary;
   }
 }
+#classes-scenery {
+  background-image: 
+    linear-gradient(
+      to top,
+      rgba($tertiary, 0.3), rgba($tertiary, 0.3)
+    ),
+    url('./../images/classes-scenery.jpg')
+  ;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 0 20px;
+  height: 400px;
+}
 /* Different elements on pages */
 #about-mission {
   padding: 0;
@@ -182,17 +211,7 @@
   background-color: $primary;
   color: white;
 }
-#about-location {
-  background-image: 
-    linear-gradient(
-      to top,
-      rgba($tertiary, 0.5), rgba($tertiary, 0.5)
-    ),
-    url('./../images/location-background.jpg')
-  ;
-  color: white;
-  padding: 20px;
-}
+
 #operation-hours {
   h2 {
     @include transparent-bg($secondary, 0.95);
@@ -314,7 +333,7 @@
       padding: 60px;
     }
   }
-  #about-location {
+  #classes-scenery {
     padding: 100px;
     h3 {
       font-size: 1.75em;
@@ -377,7 +396,7 @@
   #home-about {
     width: 70%;
   }
-  #about-location {
+  #classes-scenery {
     padding-left: 300px;
     padding-right: 300px;
     padding-top: 100px;
