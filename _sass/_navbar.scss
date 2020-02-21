@@ -1,5 +1,6 @@
 nav,
-.main-nav {
+.main-nav,
+.social-icon-nav {
   display: flex;
 }
 nav,
@@ -28,8 +29,19 @@ nav {
 .main-nav a.nav-link.active {
   color: $warning;
 }
+.social-icon-nav a {
+  color: $primary;
+}
+.social-icon-nav a:hover {
+  color: $secondary;
+}
 .main-nav a:hover {
   color: $primary;
+}
+.social-icon-nav {
+  justify-content: center;
+  align-items: center;
+  margin: 20px 0;
 }
 .nav-link-toggle {
   color: $secondary;
@@ -118,7 +130,6 @@ nav {
   }
   nav {
     flex-direction: row;
-    justify-content: center;
     width: 90%;
   }
   .main-nav a {
@@ -135,5 +146,11 @@ nav {
   }
   .nav-link {
     margin: 0 20px;
+  }
+  .social-icon-nav .nav-link {
+    margin: 0 10px;
+  }
+  .social-icon-nav {
+    margin-left: auto;
   }
 }
