@@ -29,5 +29,10 @@
     
   </nav>
 
-  <div id="announcement"><a href="{{site.baseurl}}/popup/2020/02/22/popup/"><h5>Sat Feb 22 @ 8a HI-LO/IT $5</h5></a></div>
+  {% for post in site.categories.popup limit:1 %}
+
+    <div id="announcement"><a href="{{post.url}}"><h5>{{ post.title }} {{ post.class_date }} @ {{ post.class_time }}</h5></a></div>
+  
+  {% endfor %}
+
 </header>
