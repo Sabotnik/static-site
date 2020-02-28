@@ -13,6 +13,8 @@ permalink: pretty
 
 include: ['_pages']
 collections:
+  events:
+  popups:
   
 google_maps_javascript_api_key: "AIzaSyCin0fZLR0qmuxfgzpuHDxcMmMFOvGJvMQ"
 # Build settings

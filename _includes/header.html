@@ -29,9 +29,9 @@
     
   </nav>
 
-  {% for post in site.categories.popup limit:1 %}
+  {% for popup in site.popups limit:1 %}
 
-    <div id="announcement"><a href="{{post.url}}"><h5>{{ post.title }} {{ post.class_date }} @ {{ post.class_time }}</h5></a></div>
+    <div id="announcement"><a href="{{site.baseurl}}/classes/"><h5>{{ popup.title }} {{ popup.class_date }} @ {{ popup.class_time }}</h5></a></div>
   
   {% endfor %}
 
