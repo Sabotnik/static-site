@@ -1,14 +1,9 @@
 ---
-layout: event
-title: Free Community Yoga
-categories:
-  - event
-class_time:
-class_duration: 1 hr
-class_type: Yoga
-class_date: 2020-04-11 00:00:00
+title: "Free Community Yoga"
+date: 2020-04-11
+time: "9a-1p"
+location: TaxSlayer Center in Moline, IL
 ---
-
 \*\*Spring into Health\! \*\*
 
 Howard Health Quarters and FIT Rx welcomes you, your family and your friends to Free Community Yoga, Health and Vendor Fair at Tax Slayer Center on April 11, 2020.

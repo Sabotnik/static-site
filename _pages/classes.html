@@ -16,9 +16,9 @@ layout: page
     <div id="class-list" class="row">
         <div class="col">
             <h3>Pop Up Classes</h3>
-            {% for popup in site.popups reversed %}
-            <div class="class-info popup_class_list">
-                <h4>{{ popup.title }} {{ popup.class_date }} @ {{ popup.class_time }}</h4>
+            {% for popup in site.popups %}
+            <div class="class-info event_class_list">
+                <h4>{{ popup.title }} {{ popup.date | date_to_long_string}} @ {{ popup.time }}</h4>
                 <p>{{popup.content}}</p>
             </div>
             {% endfor %}
@@ -26,10 +26,11 @@ layout: page
 
         <div class="col">
             <h3>Upcoming Events</h3>
-            {% for post in site.categories.event reversed %}
-            <div data-date-filter="{{post.date}}" class="class-info">
-                <h4><a href="{{post.url}}">{{post.title}}</a></h4>
-                <h5>Time: {{post.class_time}}  |  Event date: {{post.class_date}}  |  Duration is {{post.class_duration}}</h5>
+            {% for event in site.events %}
+            <div class="class-info event_class_list">
+                <h4>{{event.title}}</h4>
+                <h5>{{event.date | date_to_long_string}} from {{event.time}} @ {{event.location}}</h5>
+                <p>{{event.content}}</p>
             </div>
             {% endfor %}
         </div>

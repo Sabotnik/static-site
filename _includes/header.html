@@ -31,7 +31,7 @@
 
   {% for popup in site.popups limit:1 %}
 
-    <div id="announcement"><a href="{{site.baseurl}}/classes/"><h5>{{ popup.title }} {{ popup.class_date }} @ {{ popup.class_time }}</h5></a></div>
+    <div id="announcement"><a href="{{site.baseurl}}/classes/"><h5>{{ popup.title }} {{ popup.date |date_to_long_string }} @ {{ popup.time }}</h5></a></div>
   
   {% endfor %}
 
