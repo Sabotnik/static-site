@@ -18,7 +18,7 @@ layout: page
             <h3>Pop Up Classes</h3>
             {% for popup in site.popups %}
             <div class="class-info event_class_list">
-                <h4>{{ popup.title }} {{ popup.date | date_to_long_string}} @ {{ popup.time }}</h4>
+                <h4>{{ popup.title }} {{ popup.date | date: "%a %b %-d %I:%M %P" }}</h4>
                 <p>{{popup.content}}</p>
             </div>
             {% endfor %}

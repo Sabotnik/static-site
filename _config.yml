@@ -5,7 +5,7 @@ google_analytics_key:
 
 description: Using a functional fitness approach that promotes better movement, increases strength and cardiovascular ability, we provide a well rounded approach to Fitness.
 
-timezone:
+timezone: America/Chicago
 
 paginate:
 paginate_path:
