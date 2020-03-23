@@ -20,8 +20,4 @@ We will continue to encourage proper hand washing and sanitation via phone calls
 
 We wish each of you health and peace during this time. &nbsp;As we often say, we are better together. May we continue to hold each other up in these tender times.&nbsp;
 
-With great appreciation,
-
-&nbsp;
-
 The Empower Tanzania BOD and Tanzania Team
