@@ -2,7 +2,7 @@
 layout: post
 title: Empower Tanzania's Response to COVID-19 in Tanzania
 categories:
-  - education
+  - news
 image: /assets/images/post-images/strong-tree-in-tz.jpg
 ---
 
