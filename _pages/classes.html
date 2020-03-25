@@ -16,12 +16,10 @@ layout: page
     <div id="class-list" class="row">
         <div class="col">
             <h3>Pop Up Classes</h3>
-            {% for popup in site.popups %}
-            <div class="class-info event_class_list">
-                <h4>{{ popup.title }} {{ popup.date | date: "%a %b %-d %I:%M %P" }}</h4>
-                <p>{{popup.content}}</p>
-            </div>
-            {% endfor %}
+            <!-- Calendly inline widget begin -->
+            <div class="calendly-inline-widget" data-url="https://calendly.com/fitrx-classes/virtual-pop-up-class" style="min-width:320px;height:630px;"></div>
+            <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js"></script>
+            <!-- Calendly inline widget end -->
         </div>
 
         <div class="col">
