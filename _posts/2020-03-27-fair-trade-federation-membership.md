@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Empower Tanzania is a Proud Member of the Fair Trade Federation
+title: Fair Trade Federation Membership!
 categories:
   - development
-image:
+image: /assets/images/post-images/generic---travel-blog-title-iphone-layout.png
 ---
 
 After months of completing the rigorous application process to become a verified member of the [Fair Trade Federation](https://www.fairtradefederation.org){: target="_blank"}, Empower Tanzania met success\! Membership will provide important connections and the recognition that will help bolster the financial future of our gender-based-violence survivors-turned-entrepreneurs. Below is a look at one group of women artisans, the process of creating our fabrics, the beautiful finished product, and the fair trade principles we diligently adhere to. We look forward to building our social enterprise through the continuation of holistic care and economic opportunity for the 99 women we proudly work with\!
