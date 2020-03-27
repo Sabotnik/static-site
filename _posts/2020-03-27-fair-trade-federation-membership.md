@@ -14,4 +14,4 @@ After months of completing the rigorous application process to become a verified
 
 ![](/uploads/untitled-design-2.png){: width="1200" height="400"}
 
-[![](/uploads/principles-halfpage-copy.jpg){: width="1950" height="3300"}](https://www.fairtradefederation.org){: target="_blank"}
+[![](/uploads/2020/03/20/fair-trade-federation-membership/fabric-3.JPG){: width="5275" height="3517"}![](/uploads/principles-halfpage-copy.jpg){: width="1950" height="3300"}](https://www.fairtradefederation.org){: target="_blank"}
