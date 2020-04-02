@@ -8,4 +8,4 @@ image: /assets/images/post-images/1.png
 
 &nbsp;
 
-![](/uploads/1.png){: width="1414" height="2000"}![](/uploads/2.png){: width="1414" height="2000"}
+![](/uploads/1.png){: width="1414" height="2000"}
