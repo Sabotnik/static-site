@@ -29,10 +29,16 @@
     
   </nav>
 
-  {% for popup in site.popups limit:1 %}
+  <div id="announcement"><a href="https://app.acuityscheduling.com/schedule.php?owner=16546307&appointmentType=13808651" target="_blank"><h5>Virtual Workout $5 on Sat @ 8a!</h5></a></div>
 
-    <div id="announcement"><a href="{{site.baseurl}}/classes/"><h5>{{ popup.title }} {{ popup.date | date: "%a %b %-d %I:%M %P" }}</h5></a></div>
-  
-  {% endfor %}
+  <div class="acuity-booking-bar" style="display: none;">
+    <a href="https://app.acuityscheduling.com/schedule.php?owner=16546307&calendarID=2494537" 
+      target="_blank" 
+      class="acuity-embed-button"
+      >
+        Schedule Workout
+    </a>
+  </div>
+  <script src="https://embed.acuityscheduling.com/embed/bar/16546307.js" async></script>
 
 </header>
