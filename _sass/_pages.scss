@@ -74,6 +74,13 @@ span.big-text {
       }
     }
   }
+  a {
+    color: $secondary;
+    font-weight: 600;
+  }
+  a:hover {
+    color: $primary;
+  }
 }
 #our_beer {
   img {
@@ -155,7 +162,7 @@ span.big-text {
     align-items: flex-start;
   }
   #hours {
-    border-left: 1px solid $secondary;
+    border-right: 1px solid $secondary;
   }
 }
 //Medium devices (tablets, 768px and up)
