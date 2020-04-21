@@ -20,7 +20,7 @@
   }
 }
 .btn {
-  font-family: $font-accent;
+  font-family: $font-main;
   font-size: 1.5em;
   font-weight: 700;
   color: white;
@@ -31,7 +31,7 @@
 }
 .btn-block {
   display: block;
-  width: 100%;
+  max-width: 50%;
 }
 .btn-centered {
   justify-content: center;
