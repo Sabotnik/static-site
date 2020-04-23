@@ -1,0 +1,26 @@
+#mask {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 9000;
+    background-color:gray;
+    display: none;
+}
+
+#boxes .window {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 30px;
+    max-width: 500px;
+    display: none;
+    z-index: 9999;
+}
+
+#boxes #dialog {
+    background-color:white;
+}
+
+#popupfoot {
+    text-align: center;
+}

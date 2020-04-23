@@ -81,6 +81,12 @@ span.big-text {
   a:hover {
     color: $primary;
   }
+  .btn {
+    color: white;
+  }
+  .btn:hover {
+    color: lightgray;
+  }
 }
 #our_beer {
   img {

@@ -39,10 +39,10 @@
   text-transform: uppercase;
   a {
     font-weight: 400;
-    color: white;
+    color: $warning;
   }
   a:hover {
-    color: $warning;
+    color: $primary;
   }
 }
 /* =================================
