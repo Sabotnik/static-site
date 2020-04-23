@@ -2,7 +2,7 @@
 layout: post
 title: COVID-19 Facts in Swahili
 categories:
-  - news
+  - covid19
 image: /assets/images/post-images/1-1.png
 ---
 

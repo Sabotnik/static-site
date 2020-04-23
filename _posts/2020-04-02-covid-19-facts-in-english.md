@@ -2,7 +2,7 @@
 layout: post
 title: COVID-19 Facts in English
 categories:
-  - news
+  - covid19
 image: /assets/images/post-images/1.png
 ---
 

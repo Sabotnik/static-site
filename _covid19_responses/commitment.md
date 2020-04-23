@@ -1,0 +1,4 @@
+---
+title: Committed to the Long-Term
+---
+Empower Tanzania is committed to maintaining the employment of our entire Tanzanian staff. All seven full-time and five part-time employees continue to be crucial in the on-the-ground response. Dozens of others will continue to receive stipends for the work that they do. The safety of our staff—both in Tanzania and our contractors and volunteers in the US—is a priority. We’ve been working remotely since the middle of March and will do so for the foreseeable future.  When frontline staff is serving the community, they are practicing strict social distancing and handwashing. All group meetings among our programs have been suspended.

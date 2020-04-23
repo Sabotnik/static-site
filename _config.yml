@@ -28,6 +28,7 @@ collections:
   health_programs:
   education_programs:
   development_programs:
+  covid19_responses:
 
 # Build settings
 markdown: kramdown

@@ -1,5 +1,64 @@
 ---
 layout: default
-title: COVID-19 Response
+title: Covid-19 Response
 permalink: /covid-19response/
 ---
+<div id="covid19-hero" class="hero">
+    <div class="hero-text hero-text-secondary">
+        <h1>Protecting the Vulnerable from Covid-19</h1>
+    </div>
+</div>
+
+<div class="teal-divider-pattern">
+
+    <div class="row program-info">
+        <p>
+            The people we serve in rural Tanzania already live without a safety
+            net or access to adequate healthcare. <b>Throughout the entire country of 60
+            million people there are less than 50 ICU beds and less than 30 ventilators.</b> In
+            the Kilimanjaro Region, where we serve, there is a total of 14 ICU beds and 4
+            ventilators.
+        </p>
+        <p>
+            The warnings from experts about the possible devastation throughout Africa has
+            cemented our belief that it’s more important than ever to care of one another. We all
+            share the same world, and we’re all in this together.
+        </p>
+        <p>
+            Our team in Tanzania is moving forward with optimism and trust. We are
+            determined to help. If you are able, please join us as we jump to action.
+        </p>
+    </div>
+
+</div>
+
+{% for response in site.covid19_responses reversed %}
+<div class="{% cycle 'odd', 'even' %}">
+    <div class="row">
+        <div class="col one-third">
+            <div class="overlay-circle-{% cycle 'secondary', 'success', 'warning', 'highlight', 'info' %}">
+                <div class="inner-circle">
+                    <h2>{{ response.title }}</h2>
+                </div>
+            </div>
+        </div>
+        <div class="col two-thirds">
+            {{ response.content }}
+        </div>
+    </div>
+</div>
+{% endfor %}
+
+<div class="row">
+
+{% for post in site.categories.covid19 limit:3 %}
+    
+    {% include post-preview.html %}
+
+{% endfor %}
+
+</div>
+
+<div class="row btn-centered">
+    <a class="btn btn-tertiary" href="{{ site.baseurl }}/news&events#filter=.covid19">See all posts</a>
+</div>
