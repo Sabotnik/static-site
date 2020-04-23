@@ -125,6 +125,10 @@
     justify-content: flex-start;
     padding-top: 0;
   }
+  h2 {
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
   figure {
     margin-top: 30px;
     align-self: flex-start;
@@ -365,6 +369,9 @@
       align-self: flex-start;
     }
     figure {
+      margin-top: 0;
+    }
+    h2 {
       margin-top: 0;
     }
   }
