@@ -110,7 +110,13 @@
   background-position: center;
 }
 #covid19-hero {
-  background-image: url('./../images/covid19-hero.jpg');
+  background-image: 
+    linear-gradient(
+      to top,
+      rgba(black, 0.9),
+      rgba(black, 0)),
+    url('./../images/covid19-hero.jpg')
+  ;
 }
 /* Different elements on pages */
 #home-about {
@@ -347,6 +353,48 @@
   width: 200px;
   margin-bottom: 20px;
 }
+#covid-donate {
+  background: url('./../images/programs-purple-overlay.png');
+  background-position: top center;
+  background-size: cover;
+}
+#covid-donate-inner {
+  color: white;
+  h2 {
+    text-transform: uppercase;
+  }
+  .btn {
+    align-self: center;
+  }
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#covid-donate-once {
+  .btn {
+    align-self: center;
+  }
+  p {
+    color: $tertiary;
+  }
+  .color-box {
+    h3,p {
+      color: white;
+    }
+    h3 {
+      font-size: 2em;
+    }
+    padding: 30px;
+    margin: 30px;
+  }
+}
+#color-box-row {
+  display: flex;
+  flex-direction: column;
+}
+.centered-button {
+  justify-content: center;
+  margin-bottom: 50px;
+}
 /* =================================
   Media Queries
 ==================================== */
@@ -415,6 +463,18 @@
   .icons {
     flex-direction: row;
   }
+  #color-box-row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    .color-box {
+      max-width: 400px;
+      h3 {
+        font-size: 3em;
+      }
+    }
+  }
+
 }
 @media screen and (max-device-width: 800px) {
 // Switch off hero video on small screens
@@ -443,6 +503,17 @@
   }
   #members {
     flex-grow: 2;
+  }
+  #covid-donate-inner {
+    .btn {
+      max-width: 30%;
+    }
+  }
+  #covid-donate-inner, #covid-donate-once {
+    width: 75%;
+  }
+  .program-info {
+    width: 75%;
   }
 }
 @media (min-width: 1050px) {

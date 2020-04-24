@@ -17,6 +17,18 @@
     }
   }
 }
+.solid-bg-primary {
+  @include solid-bg($primary);
+}
+.solid-bg-secondary {
+  @include solid-bg($secondary);
+}
+.solid-bg-tertiary {
+  @include solid-bg($tertiary);
+}
+.solid-bg-highlight {
+  @include solid-bg($highlight);
+}
 /* =================================
   Media Queries
 ==================================== */
