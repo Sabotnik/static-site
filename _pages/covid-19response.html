@@ -32,6 +32,13 @@ permalink: /covid-19response/
 
 </div>
 
+{% include picture-row.html 
+    photo1="covid4.jpg" 
+    photo2="covid2.jpg" 
+    photo3="covid3.jpg" 
+    photo4="covid1.jpg"
+    %}
+
 {% for response in site.covid19_responses reversed %}
 <div class="{% cycle 'odd', 'even' %}">
     <div class="row">
