@@ -51,6 +51,9 @@
 .btn-tertiary {
   @include button-bg($tertiary);
  }
+.btn-highlight {
+  @include button-bg($highlight);
+}
 .btn-tertiary-inverse {
   @include button-inverse($tertiary);
 }

@@ -5,7 +5,7 @@ permalink: /covid-19response/
 ---
 <div id="covid19-hero" class="hero">
     <div class="hero-text">
-        <h1>Protecting the Vulnerable from Covid-19</h1>
+        <h1>Protecting the Vulnerable <br>from Covid-19</h1>
     </div>
 </div>
 
@@ -18,68 +18,66 @@ permalink: /covid-19response/
         the Kilimanjaro Region, where we serve, there is a total of 14 ICU beds and 4
         ventilators.
     </p>
+
+    <p>
+        The warnings from experts about the possible devastation throughout Africa has
+        cemented our belief that it’s more important than ever to care of one another. We all
+        share the same world, and we’re all in this together.
+        Our team in Tanzania is moving forward with optimism and trust. We are
+        determined to help. If you are able, please join us as we jump to action.
+    </p>
 </div>
 
 <div id="covid-donate">
     <div id="covid-donate-inner" class="row">
 
         <div class="col">
-            <p>
-                The warnings from experts about the possible devastation throughout Africa has
-                cemented our belief that it’s more important than ever to care of one another. We all
-                share the same world, and we’re all in this together.
-                Our team in Tanzania is moving forward with optimism and trust. We are
-                determined to help. If you are able, please join us as we jump to action.
-            </p>
+            
             <p>
                 Our staff in Tanzania has requested food, soap, and essential PPE. Become a monthly
                 supporter by clicking the button below to complete your secure gift. A monthly
                 donation will help fulfill these basic needs over the course of this pandemic.
             </p>
 
-            <a class="btn btn-info-inverse" target="_blank" href="https://empowertz.z2systems.com/np/publicaccess/donation.do?1=1&&campaign=20">Become a Monthly Giver</a>
+            <a class="btn btn-warning" target="_blank" href="https://empowertz.z2systems.com/np/publicaccess/donation.do?1=1&&campaign=20">Become a Monthly Giver</a>
 
+            <p>
+                Even a small gift goes a long way in rural Tanzania. If you’re able, please help our staff, Community Health Workers &amp; Educators,
+                students, farmers, artisans and entrepreneurs stay safe, healthy, and fed during this
+                crisis.
+            </p>
+
+            <a class="btn btn-warning" target="_blank" href="https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=51&">Make a One-Time Donation</a>
         </div>
 
     </div>
-</div>
+    <div id="covid-donate-once" class="row">
 
-<div id="covid-donate-once" class="row">
-
-    <p class="text-snippet">
-        If you’re able, please help our staff, Community Health Workers &amp; Educators,
-        students, farmers, artisans and entrepreneurs stay safe, healthy, and fed during this
-        crisis. <b>Even a small gift goes a long way in rural Tanzania.</b>
-    </p>
-
-    <div id="color-box-row">
-
-        <div class="col color-box solid-bg-primary">
-            <h3>$10</h3>
-            <p>PPE for 10 Community Health Workers</p>
+        <div id="color-box-row">
+    
+            <div class="col color-box solid-bg-primary">
+                <h3>$10</h3>
+                <p>PPE for 10 Community Health Workers</p>
+            </div>
+    
+            <div class="col color-box solid-bg-secondary">
+                <h3>$25</h3>
+                <p>Food, Soap, Masks for ONE family for one month</p>
+            </div>
+    
+            <div class="col color-box solid-bg-tertiary">
+                <h3>$75</h3>
+                <p>Food for FOUR families for one month</p>
+            </div>
+    
+            <div class="col color-box solid-bg-highlight">
+                <h3>$120</h3>
+                <p>Soap and Masks for 30 families</p>
+            </div>
+    
         </div>
-
-        <div class="col color-box solid-bg-secondary">
-            <h3>$25</h3>
-            <p>Food, Soap, Masks for ONE family for one month</p>
-        </div>
-
-        <div class="col color-box solid-bg-tertiary">
-            <h3>$75</h3>
-            <p>Food for FOUR families for one month</p>
-        </div>
-
-        <div class="col color-box solid-bg-highlight">
-            <h3>$120</h3>
-            <p>Soap and Masks for 20 families</p>
-        </div>
-
+    
     </div>
-
-</div>
-
-<div class="row centered-button">
-    <a class="btn btn-warning" target="_blank" href="https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=3&">Make a One-Time Donation</a>
 </div>
 
 {% include picture-row.html 
@@ -89,50 +87,42 @@ permalink: /covid-19response/
     photo4="covid1.jpg"
     %}
 
-<div class="text-snippet row">
-    <div class="col">
-        <h2>What We've Done</h2>
-    </div>
+<div class="covid-response-row row">
+    <h2 id="bigger-h2">What We Are Doing</h2>
     
-    <div class="col">
-        <p>
-            Thanks to your support over the years our staff is prepared to help the community
-            during this time of global pandemic. If you are able, we ask for your help so that we
-            can continue to respond to this crisis.
-        </p>
-    </div>
+    <p>
+        Thanks to your support over the years our staff is prepared to help the community
+        during this time of global pandemic. If you are able, we ask for your help so that we
+        can continue to respond to this crisis.
+    </p>
     
 </div>
 
 {% for response in site.covid19_responses reversed %}
-<div class="{% cycle 'odd', 'even' %}">
-    <div class="row">
-        <div class="col one-third">
-            <div class="overlay-circle-{% cycle 'secondary', 'success', 'warning', 'highlight', 'info' %}">
-                <div class="inner-circle">
-                    <h2>{{ response.title }}</h2>
-                </div>
-            </div>
-        </div>
-        <div class="col two-thirds">
-            {{ response.content }}
-        </div>
-    </div>
+<div class="covid-response-row row">
+    <h2>{{ response.title }}</h2>
+            
+    <p>{{ response.content }}</p>
+        
 </div>
 {% endfor %}
 
-<div id="post-preview">
-    <div class="row">
+<div class="blue-divider-pattern">
 
-        {% for post in site.categories.covid19 limit:3 %}
+    <div id="post-preview" class="solid-bg-primary">
+        <div class="row">
+
+            {% for post in site.categories.covid19 limit:3 %}
+                
+                {% include post-preview.html %}
             
-            {% include post-preview.html %}
-        
-        {% endfor %}
-        
-    </div>
-</div>
+            {% endfor %}
+            
+        </div>
 
-<div class="row btn-centered">
-    <a class="btn btn-tertiary" href="{{ site.baseurl }}/news&events#filter=.covid19">See all Covid-19 posts</a>
+        <div class="row btn-centered">
+            <a class="btn btn-highlight" href="{{ site.baseurl }}/news&events#filter=.covid19">See all Covid-19 posts</a>
+        </div>
+    </div>
+
 </div>

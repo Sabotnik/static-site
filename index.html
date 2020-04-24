@@ -13,30 +13,21 @@ title: Home
   </div>
 </div>
 
-<div id="home-about">
-
-  <div class="row">
-
-    <div class="col text-white">
-      <p>Empower Tanzania works in partnership with rural Tanzanians to improve their quality of life. We address the underlying issues that hinder resiliency in rural areas, such as health care, education, agriculture practices, markets for products, and increasing water supply and quality.</p>
-      <p>Finding answers to rural development challenges requires working together with communities to create a vision and a long-term commitment beyond the life of a project. Empower Tanzania pursues this approach through all we do.</p>
-      <a class="btn btn-secondary-inverse" href="{{ site.baseurl }}/about/">About Us</a>
-    </div>
-  
-    <div class="col text-white">
-
-      <h2>Protecting the vulnerable from COVID-19</h2>
-
-      <p>As Covid-19 spreads through Africa, our staff in Tanzania is deploying crucial support.</p>
-
-      <a class="btn btn-secondary-inverse" href="{{ site.baseurl }}/covid-19response/">Learn More</a>
-
-    </div>
-  
-  </div>
+<div id="home-split-box">
+  {% include split-box.html 
+    left_box_color="secondary" 
+    left_box_text="Empower Tanzania works in partnership with rural Tanzanians to improve their quality of life. We address the underlying issues that hinder resiliency in rural areas, such as health care, education, agriculture practices, markets for products, and increasing water supply and quality.<br><br>Finding answers to rural development challenges requires working together with communities to create a vision and a long-term commitment beyond the life of a project. Empower Tanzania pursues this approach through all we do."
+    left_box_btn="About Us" 
+    left_box_link="/about/" 
+    right_box_color="info" 
+    right_box_title="Protecting the Vulnerable<br>from Covid-19"
+    right_box_text="As Covid-19 spreads through Africa, our staff in Tanzania is deploying crucial support." 
+    right_box_btn="Learn More"
+    right_box_link="/covid-19response/"
+    %}
 </div>
 
-<div id="post-preview">
+<div id="post-preview" class="solid-bg-white">
   <div class="row">
 
     {% for post in site.categories.news limit:2 %}
