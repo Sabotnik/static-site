@@ -8,6 +8,8 @@ image: /assets/images/post-images/strong-tree-in-tz.jpg
 
 March 23, 2020
 
+&nbsp;
+
 Dear Friend,
 
 Let us start by expressing how grateful we are for each one of you. Relationships are precious and we appreciate your messages of concern and encouragement. Together, we will continue to do everything we can to support the people of rural Tanzania.&nbsp;
