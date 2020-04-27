@@ -6,13 +6,9 @@ categories:
 image: /assets/images/post-images/strong-tree-in-tz.jpg
 ---
 
-March 23, 2020
-
-&nbsp;
-
 Dear Friend,
 
-Let us start by expressing how grateful we are for each one of you. Relationships are precious and we appreciate your messages of concern and encouragement. Together, we will continue to do everything we can to support the people of rural Tanzania.&nbsp;
+We're writing this on March 23rd and the world has shifted. Let us start by expressing how grateful we are for each one of you. Relationships are precious and we appreciate your messages of concern and encouragement. Together, we will continue to do everything we can to support the people of rural Tanzania.&nbsp;
 
 Yesterday the Tanzania government announced precautionary measures to protect the country and minimize exposure of the spread of COVID-19. Among them, schools have been closed for 30 days, certain gatherings are restricted, and social distancing is strongly recommended. This is a priority for our in-country staff members, who will be working from home for the next two weeks. We are closely following government recommendations in Tanzania and are responding with the needs of the staff, families, women, and children in rural Tanzania in mind. Our posture has always been to&nbsp;**listen closely**&nbsp;to the needs of our shared communities and respond with swift compassion.&nbsp;
 
