@@ -91,6 +91,7 @@ span.big-text {
 #our_beer {
   img {
     margin-top: 20px;
+    max-width: 300px;
   }
   h2 {
     text-transform: uppercase;
@@ -131,7 +132,6 @@ span.big-text {
   background-repeat: no-repeat;
   background-position: top;
   color: white;
-  min-height: 300px;
   margin-bottom: 0px;
   justify-content: center;
   h2 {
@@ -192,7 +192,6 @@ span.big-text {
     width: 70%;
   }
   #our_story {
-    height: 75vh;
     h2 {
       padding-top: 30px;
       padding-bottom: 40px;
