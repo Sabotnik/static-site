@@ -53,14 +53,15 @@ span.big-text {
   h2 {
     text-align: center;
   }
-  width: 100%;
-  margin: 0;
   padding-top: 30px;
   padding-bottom: 40px;
   background-image: url('./../images/brushed-metal.jpg');
   background-size: cover;
-  background-repeat: repeat;
+  background-repeat: no-repeat;
   background-position: center top;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
   text-transform: uppercase;
   h2 {
     padding: 20px;
