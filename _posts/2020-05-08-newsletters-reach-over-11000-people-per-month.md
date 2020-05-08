@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Newsletters Reach over 11,000 per month!'
+title: 'Newsletters Reach Over 11,000 People Per Month!'
 categories:
   - health
 image: /assets/images/post-images/newslettercover.jpg
