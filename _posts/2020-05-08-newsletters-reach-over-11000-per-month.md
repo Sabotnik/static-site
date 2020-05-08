@@ -27,3 +27,5 @@ In this powerful way, Empower Tanzania is providing crucial public health inform
 **![](/uploads/2020/05/07/newsletters-reach-over-11000-per-month/by-the-numbers-rhrp.jpg){: width="2000" height="478"}**
 
 Click [HERE](https://empowertz.org/reproductive/){: target="_blank"} to learn more about the Reproductive Health & Relationships Program, to read the most current issue of the newsletter, and to access the archives.
+
+![](/uploads/2020/05/07/newsletters-reach-over-11000-per-month/2.png){: width="2000" height="1428"}
