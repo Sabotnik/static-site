@@ -89,6 +89,20 @@
     text-align: center;
   }
 }
+#weekly-schedule {
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  img {
+    max-width: 90%;
+  }
+  h3 {
+    color: $primary;
+    margin-bottom: 20px;
+  }
+}
 #health-icons {
   margin-top: 30px;
   display: flex;
@@ -370,6 +384,11 @@
       font-size: 1.75em;
     }
     width: 80%;
+  }
+  #weekly-schedule {
+    img {
+      max-width: 50%;
+    }
   }
   #schedule-session {
     div {
