@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Saving Moms and Babies
+title: Caring for Moms and Babies
 categories:
   - health
 image: /assets/images/post-images/mama-maria.jpg
