@@ -2,7 +2,7 @@
 title: "Bootcamp"
 days: "Monday,Wednesday,Friday"
 time: "12:00-12:30p"
-date_range: "6/8-7/3"
+date_range: "6/8-7/25"
 location: FITRx gym (5 person max)
 ---
 Need an extra PUSH? FIT Rx's Boot Camp mixes traditional calisthenic and body weight exercises with interval training and strength training. We want you to have tons of fun in 30 minutes!
