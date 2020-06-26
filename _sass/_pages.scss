@@ -148,6 +148,17 @@
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
+  padding-bottom: 30px;
+
+  h2 {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 20px;
+    color: $secondary;
+  }
+  .solo-button {
+    text-align: center;
+  }
 }
 #tertiary-header {
   justify-content: flex-start;
@@ -160,6 +171,14 @@
     margin-bottom: 30px;
   }
 }
+#events-home {
+  max-width: 90%;
+  .event_class_list {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+}
+
 #events-list {
   text-align: center;
   h3 {
@@ -326,6 +345,9 @@
   }
   #tertiary-header {
     flex-grow: 2;
+  }
+  #events-home {
+    max-width: 70%;
   }
   #events-list {
     flex-grow: 3;

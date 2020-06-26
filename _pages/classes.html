@@ -55,13 +55,6 @@ layout: page
 
         <div class="col">
             <h3>Upcoming Events</h3>
-            {% for post in site.posts %}
-            <div class="class-info event_class_list">
-                <h4>{{post.title}}</h4>
-                <h5>{{post.date | date_to_long_string}} from {{post.time}} @ {{post.location}}</h5>
-                <p>{{post.content}}</p>
-            </div>
-            {% endfor %}
 
             {% for event in site.events %}
             <div class="class-info event_class_list">
