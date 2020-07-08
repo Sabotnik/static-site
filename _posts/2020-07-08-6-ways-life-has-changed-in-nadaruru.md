@@ -20,7 +20,7 @@ In 2018, Empower Tanzania staff, along with government stakeholders and communit
 
 **![](/uploads/nadururu--water2.jpg){: width="1200" height="800"}**
 
-**4\. More Time.** 13-year-old Cecilia Selemani (pictured above left)says that her life has changed dramatically since the clean water source and many distribution points were added to her community. “My legs used to ache all day when I had to journey 8 km every morning to collect water for my family from the closest pond,” she said. She now has more time to study and to play. Her parents have more time to farm and produce extra income for her family.
+**4\. More Time.** 13-year-old Cecilia Selemani (pictured above left) says that her life has changed dramatically since the clean water source and many distribution points were added to her community. “My legs used to ache all day when I had to journey 8 km every morning to collect water for my family from the closest pond,” she said. She now has more time to study and to play. Her parents have more time to farm and produce extra income for her family.
 
 **5\. Improved Health and Safety.** Cecilia also says that she and her siblings no longer get sick all of the time from drinking water from a pond, which was the same ponds that cows and other animals drink from and graze in. “There is less disease now and our health has improved because we can drink safe, clean water,” she says. Cecilia and her peers also say they are relieved to not have to walk for hours to collect water with the fear of being attacked by predators.
 
