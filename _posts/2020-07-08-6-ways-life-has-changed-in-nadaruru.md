@@ -2,8 +2,8 @@
 layout: post
 title: 6 Ways Life Has Changed in Nadaruru
 categories:
-  - health
-image:
+  - development
+image: /assets/images/post-images/nadururu--header.jpg
 ---
 
 In 2018, Empower Tanzania staff, along with government stakeholders and community members, completed rehabilitation of a fresh water well in the remote village of Nadaruru. In the year and a half that has followed, the people who live in Nadaruru have seen remarkable improvements in their everyday lives. Here are just a few things that have changed since this clean water project was completed:**![](/uploads/nadururu-water1-1.jpg){: width="1200" height="649"}1\. Clean Clothes.** Teacher Ziada Hashima Matendo (pictured above) celebrates the fact that children come to school each day clean and ready to learn. “The children get baths. Their health has improved. And we all feel smart and clean and ready to learn at the beginning of the day\!”
