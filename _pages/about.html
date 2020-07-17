@@ -17,28 +17,11 @@ title: About
 
 <div class="even">
   <div class="row">
-    <h2 class="text-tertiary text-uppercase">Tanzania Staff</h2>
+    <h2 class="text-tertiary text-uppercase">Our Team</h2>
   </div>
   <div class="row text-tertiary">
-    {% for staff in site.data.tz_staff %}
-    <div class="col">
-      <div class="staff">
-        <div class="circle-photo" style="background: url({{site.baseurl}}/assets/images/staff/{{ staff.image }});">
-        </div>
-        <h5>{{ staff.name }}</h5>
-        <h6>{{ staff.position }}</h6>
-      </div>
-    </div>
-    {% endfor %}
-  </div>
-</div>
-
-<div class="odd">
-  <div class="row">
-    <h2 class="text-tertiary text-uppercase">United States Team</h2>
-  </div>
-  <div class="row text-tertiary">
-    {% for staff in site.data.us_staff %}
+    {% assign sorted = (site.data.staff | sort: 'name') %}
+    {% for staff in sorted %}
     <div class="col">
       <div class="staff">
         <div class="circle-photo" style="background: url({{site.baseurl}}/assets/images/staff/{{ staff.image }});">
