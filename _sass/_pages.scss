@@ -403,6 +403,25 @@
   display: flex;
   flex-direction: column;
 }
+#our-partners {
+  background-image: 
+    url('./../images/orange-divider-pattern.png'),
+    url('./../images/horizon-gradient.jpg');
+  background-repeat: no-repeat, no-repeat;
+  background-size: auto, cover;
+  background-position: 50% -5px, bottom;
+  
+}
+.rustyorangeh2 {
+  font-size: 1.5em;
+  color: white;
+  text-transform: uppercase;
+  background-color: $rustorange;
+  padding-top: 40px;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+}
 /* =================================
   Media Queries
 ==================================== */
