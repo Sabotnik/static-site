@@ -1,8 +1,7 @@
 ---
 title: "HIIT"
 days: "MWF 7:00a, TuTh 4:30p"
-time: "1 hour"
-date_range: "6/8-7/25"
+time: "45 min"
 location: FIT Rx
 ---
 

@@ -3,9 +3,11 @@ title: "Saturday $5 Popup Workout"
 days: "Saturday"
 time: "8:00-9:00a"
 date_range:
-location: Zoom app
+location: FIT Rx or Zoom app
 ---
 Most Saturday mornings (sometimes other random days and times), we offer a special class. Workout varies depending upon number of people and input.
+
+**No class 7/25 and 8/1**
 
 Sign up and pay online and show up ready to go on Saturday morning!
 
