@@ -18,7 +18,7 @@ collections:
   inperson:
   virtual:
   
-google_maps_javascript_api_key: "AIzaSyCin0fZLR0qmuxfgzpuHDxcMmMFOvGJvMQ"
+google_maps_javascript_api_key: "AIzaSyAezwk1m90Wsq_wj9SDQ7nh_-4x7fHAgcs"
 # Build settings
 markdown: kramdown
 plugins:
