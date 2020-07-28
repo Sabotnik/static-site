@@ -1,7 +1,7 @@
 ---
 title: "Circuit Training"
 days: "MWF 5:30a, TuTh 8:00a"
-time: "1 hour"
+time: "45 min"
 location: FIT Rx
 ---
 **Circuit Training** is a fast-paced class in which you do one exercise for 40 seconds, rest for 20 seconds and then move on to another exercise. It’s like a game of musical chairs. Alternating Cardio and Muscle strengthen exercises.  This class is exciting and challenging for all fitness levels and can be scaled to meet your level and challenge you to improve!

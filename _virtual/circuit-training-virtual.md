@@ -1,7 +1,7 @@
 ---
 title: "Circuit Training"
-days: "Tuesday,Thursday"
-time: "8:00-9:00a"
+days: "Tues,Thurs 8:00a"
+time: "45 min"
 location: Zoom app
 ---
 **Circuit Training** is a fast-paced class in which you do one exercise for 40 seconds, rest for 20 seconds and then move on to another exercise. It’s like a game of musical chairs. Alternating Cardio and Muscle strengthen exercises.  This class is exciting and challenging for all fitness levels and can be scaled to meet your level and challenge you to improve!
