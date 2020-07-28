@@ -11,4 +11,4 @@ Class is for all skill levels.
 Price:
 $10 for 1 Workout
 
-[Buy Single Workout ($7)](https://app.acuityscheduling.com/schedule.php?owner=16546307&appointmentType=15864415){: target="_blank"}{: class="btn btn-primary-outline"}
+[Buy Single Workout ($10)](https://app.acuityscheduling.com/schedule.php?owner=16546307&appointmentType=15864415){: target="_blank"}{: class="btn btn-primary-outline"}
