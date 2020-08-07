@@ -127,44 +127,43 @@ title: About
   
 </div>
 
-<div id="our-partners">
-  <div id="our-partners-top">
-    <div class="row">
-      <h2 class="rustyorangeh2">Our Partners</h2>
+<div id="our-partners-top">
+  <div class="row">
+    <h2 class="rustyorangeh2">Our Partners</h2>
+  </div>
+  <div class="row">
+    <div class="col">
+      <ul class="inline-list">
+        {% for partner in site.data.partners.unitedstates %}
+          <li>{{ partner.name }}<i class="fas fa-circle"></i></li>
+        {% endfor %}
+      </ul>
     </div>
+  </div>
+</div>
+
+<div id="our-partners-bottom">
+  <div id="our-partners-bottom-tophalf">
     <div class="row">
       <div class="col">
-        <ul>
-          {% for partner in site.data.partners.unitedstates %}
-          <li>{{ partner.name }}</li>
+        <ul class="inline-list">
+          {% for partner in site.data.partners.universities %}
+            <li>{{ partner.name }}<i class="fas fa-circle"></i></li> 
           {% endfor %}
         </ul>
       </div>
     </div>
   </div>
 
-  <div id="our-partners-bottom">
-    <div id="our-partners-bottom-left">
-      <div class="row">
-        <div class="col">
-          <ul>
-            {% for partner in site.data.partners.universities %}
-            <li>{{ partner.name }}</li>
-            {% endfor %}
-          </ul>
-        </div>
+  <div id="our-partners-bottom-bottomhalf">
+    <div class="row">
+      <div class="col">
+        <ul class="inline-list">
+          {% for partner in site.data.partners.tanzania %}
+            <li>{{ partner.name }}<i class="fas fa-circle"></i></li> 
+          {% endfor %}
+        </ul>
       </div>
-    </div>
-
-    <div id="our-partners-bottom-right">
-      <div class="row">
-        <div class="col">
-          <ul>
-            {% for partner in site.data.partners.tanzania %}
-            <li>{{ partner.name }}</li>
-            {% endfor %}
-          </ul>
-        </div>
     </div>
   </div>
 </div>
