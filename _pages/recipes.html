@@ -1,0 +1,27 @@
+---
+title: Recipes
+permalink: /recipes/
+layout: page
+---
+<div class="row" id="recipes-header">
+    <div class="col">
+        <h1 class="banner-secondary">Recipes</h1>
+    </div>
+</div>
+
+<div class="row" id="recipes">
+    {% for recipe in site.recipes %}
+    <div class="col">
+        <h2>{{recipe.title}}</h2>
+        <img src="{{site.baseurl}}/assets/images/recipes/{{recipe.imagefilename}}" alt="{{recipe.title}}">
+        <br/>
+        <p>Time to prepare: {{recipe.preptime}}</p>
+        <p>Time to cook: {{recipe.cooktime}}</p>
+        <p>{{recipe.content}}</p>
+        <p>Download PDF version of recipe</p>
+        <a href="{{ site.baseurl }}/assets/downloads/recipes/{{ recipe.filedownloadname }}" download="{{ recipe.filedownloadname }}">
+            <i class="fas fa-file-download fa-5x"></i>
+        </a>
+    </div>
+    {% endfor %}
+</div>

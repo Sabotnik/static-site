@@ -1,17 +1,17 @@
 ---
 title: "Saturday $5 Popup Workout"
 days: "Saturday"
-time: "8:00-9:00a"
+time: "8:00 and 9:00a"
 date_range:
 location: FIT Rx or Zoom app
 ---
-Most Saturday mornings (sometimes other random days and times), we offer a special class. Workout varies depending upon number of people and input.
+8AM HIIT workout, 9AM Yoga. Workout varies depending upon number of people and input.
 
-**No class 7/25 and 8/1**
+**No classes 9/12**
 
 Sign up and pay online and show up ready to go on Saturday morning!
 
-Price is just $5, whether you are joining in via Zoom or in-person at FIT Rx.
+Price is just $5 for each, whether you are joining in via Zoom or in-person at FIT Rx.
 
 [Sign-up for In-person](https://app.acuityscheduling.com/schedule.php?owner=16546307&appointmentType=14884755){: target="_blank"}{: class="btn btn-primary-outline"}
 

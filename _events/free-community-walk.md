@@ -1,6 +1,6 @@
 ---
 title: "Free Community Walk"
-date: August 9, 2020
+date: September 20, 2020
 time: "8:30a-10:00a"
 location: FIT Rx
 ---

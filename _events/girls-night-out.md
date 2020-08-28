@@ -1,10 +1,10 @@
 ---
-title: "Girls Night Out"
-date: August 13, 2020
-time: "6:00-8:30p"
+title: "Girls Night Out Sanguine September"
+date: September 17, 2020
+time: "6:00pm"
 location: FIT Rx
 ---
-![Girls Night Out - July 2020](/assets/images/events/girlsnightout-july2020.jpg)
+![Girls Night Out - Sept 2020](/assets/images/events/girlsnightout-sept.jpg)
 
 Cost: $15
 
