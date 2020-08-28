@@ -318,6 +318,11 @@
     justify-content: flex-start;
   }
 }
+#recipes {
+  img {
+    max-width: 600px;
+  }
+}
 /* =================================
   Media Queries
 ==================================== */
