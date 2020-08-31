@@ -1,6 +1,6 @@
 ---
 title: "Yoga"
-days: "Mon 4:45p, Wed 8:00a, Sat 9:00a"
+days: "Mon 4:45p, Wed 9:00a, Sat 9:00a"
 time: "45 min"
 location: FIT Rx
 ---
