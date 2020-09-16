@@ -6,4 +6,4 @@ categories:
 image: /assets/images/post-images/mary-and-tunzo.jpg
 ---
 
-[![](/uploads/eti-marytunzoinfographic-v3a.jpg){: width="1250" height="8967"}](https://empowertz.org/development/2020/07/31/farming-at-kirinjiko/){: target="_blank" rel="noopener"}
+[![](/uploads/eti-marytunzoinfographic-v3a.jpg){: width="1250" height="8967"}](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=53&amp;){: target="_blank" rel="noopener"}
