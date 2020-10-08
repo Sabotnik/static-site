@@ -1,5 +1,5 @@
 ---
-title: "Girls Night Out Sanguine September"
+title: "Girls Night Out"
 date: October 14, 2020
 time: "6:00pm"
 location: FIT Rx
