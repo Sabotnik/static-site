@@ -1,6 +1,6 @@
 ---
 title: "Free Community Yoga"
-date: September 12, 2020
+date: October 31, 2020
 time: "9a-12p"
 location: Volleyball Factory in Davenport, IA
 ---

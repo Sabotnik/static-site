@@ -7,7 +7,7 @@ location: FIT Rx or Zoom app
 ---
 8AM HIIT workout, 9AM Yoga. Workout varies depending upon number of people and input.
 
-**No classes 9/12**
+**No classes 10/31**
 
 Sign up and pay online and show up ready to go on Saturday morning!
 
