@@ -3,7 +3,7 @@ layout: post
 title: Water Project at Ruvu!
 categories:
   - development
-image: /assets/images/post-images/untitled-design-8.png
+image:
 ---
 
 Although the main problem with the existing Ruvu water source was the broken down windmill, we found many other damaged pieces to the system after a survey was done by our technicians and the water engineer. Sander and Joseph did a super job of re-engineering the system so that the community gets water where they need it, and to keep the scope of the work under control.&nbsp;
