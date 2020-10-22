@@ -1,10 +1,10 @@
 ---
-title: "Girls Night Out"
-date: October 14, 2020
+title: "Ladies Night"
+date: November 18, 2020
 time: "6:00pm"
 location: FIT Rx
 ---
-![Girls Night Out - Sept 2020](/assets/images/events/girlsnightout.jpg)
+![Ladies Night - Sept 2020](/assets/images/events/ladiesnight.jpg)
 
 Cost: $15
 
