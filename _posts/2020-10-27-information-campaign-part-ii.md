@@ -2,7 +2,7 @@
 layout: post
 title: 'Information Campaign, Part II'
 categories:
-  - education
+  - covid19
 image: /assets/images/post-images/swahili--12--electronic.png
 ---
 
