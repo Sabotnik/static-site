@@ -2,7 +2,7 @@
 layout: post
 title: A Seat at the Table
 categories:
-  - education
+  - news
 image: /assets/images/post-images/2-1.png
 ---
 
