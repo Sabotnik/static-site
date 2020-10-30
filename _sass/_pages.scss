@@ -99,8 +99,24 @@
     rgba($secondary, 0.8)), url('./../images/donate-monthly.jpg');
   background-position: top;
 }
+#donate-charitable {
+  background-image: linear-gradient(
+    to top,
+    rgba($highlight, 0.9),
+    rgba($highlight, 0.9)), url('./../images/post-background.jpg');
+  background-position: bottom;
+  a {
+    color: $info;
+  }
+  a:hover {
+    color: $warning;
+  }
+}
 #donate-once, #donate-monthly {
   height: 75vh;
+}
+#donate-charitable {
+  height: 50vh;
 }
 #join-hero {
   background-image: linear-gradient(
