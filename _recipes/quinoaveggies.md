@@ -2,7 +2,7 @@
 title: "Quinoa and Veggies"
 preptime: "10 minutes"
 cooktime: "20 minutes"
-imagefilename: "quinoaveggies.png"
+imagefilename: "quinoaveggies.jpg"
 filedownloadname: "quinoaveggies.pdf"
 ---
 ### Quinoa and Veggies
