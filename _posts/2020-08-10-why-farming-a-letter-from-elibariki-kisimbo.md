@@ -6,9 +6,7 @@ categories:
 image: /assets/images/post-images/top-ten-from-tanzania-3.png
 ---
 
-![](/uploads/3.png){: width="1200" height="600"}
-
-*(Empower Tanzania is fundraising for an innovative farm project that you can read about&nbsp;[HERE](https://empowertz.org/development/2020/07/31/farming-at-kirinjiko/){: target="_blank" rel="noopener"}. Below is a letter from Empower Tanzania's Country Director, Elibariki Kisimbo, world-renowned amaranth farmer and expert.)*
+*(Empower Tanzania is fundraising for an innovative farm project that you can read about&nbsp;[HERE](https://empowertz.org/development/2020/07/31/farming-at-kirinjiko/){: target="_blank"}. Below is a letter from Empower Tanzania's Country Director, Elibariki Kisimbo, world-renowned amaranth farmer and expert.)*
 
 Let me start by saying that my background is in agriculture and therefore I'm always excited when we talk about agriculture.
 
@@ -22,7 +20,7 @@ Ultimately, we wan to establish a "SMART CENTRE" for people to gather and learn.
 
 I believe a SMART Centre will accomplish much. It will generate income for the operation of the organization, making it sustainable. Ideally, we will be able to ***drill a deep borehole*** to ensure availability of water for horticultural crop production. Rainfall is not reliable (sometimes there is too much rain and other seasons there is no rain at all) and therefore I'm encouraged to focus on having a deep well at our farm for sustainability.
 
-The SMART Centre will serve as a&nbsp;***demonstration plot&nbsp;***for farmers. We will teach green house development to ensure availability of the quality harvest throughout the year and ["Integrated Farming,"](https://empowertz.org/programs/economicempowerment/){: target="_blank" rel="noopener"} a practice whereby various animals, such as dairy goats, sheep, rabbits, poultry, are kept along with planting crops.
+The SMART Centre will serve as a&nbsp;***demonstration plot&nbsp;***for farmers. We will teach green house development to ensure availability of the quality harvest throughout the year and ["Integrated Farming,"](https://empowertz.org/programs/economicempowerment/){: target="_blank"} a practice whereby various animals, such as dairy goats, sheep, rabbits, poultry, are kept along with planting crops.
 
 I have many hopes for the SMART Centre. With a well and water containment system, **we will have enough water to construct fishponds and raise tilapia. In addition to earning income from these fishponds, their presence will help in providing fish farming education to farmers**. With the animals and livestock, **we will have "bio-gas," which will be used for cooking and producing light.** In addition, the bio-slurry (the by-product from bio-gas) will be used as a fertilizer in the farm. Composting will also be practiced at the Kirinjiko farm for our farm plants, as well as for farmers to learn on how compost is made.
 
@@ -36,4 +34,4 @@ I have a lot to say about the Kirinjiko farm, but let me end here for now. Thank
 
 *\*\[Subsistence farming: noun, (1) farming whose products are intended to provide for the basic needs of the farmer, with little surplus for marketing. (2) farming that brings little or no profit to the farmer, allowing only for a marginal livelihood.\]*
 
-![](/uploads/2.png){: width="1200" height="600"}**Please click&nbsp;[HERE&nbsp;](https://empowertz.z2systems.com/donation.jsp?campaign=53&amp;){: target="_blank" rel="noopener"}to support the Kirinjiko Farm Plot Project. Thank you\!**
+**Please click&nbsp;[HERE&nbsp;](https://empowertz.z2systems.com/donation.jsp?campaign=53&amp;){: target="_blank"}to support the Kirinjiko Farm Plot Project. Thank you\!**
