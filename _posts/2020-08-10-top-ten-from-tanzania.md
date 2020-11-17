@@ -8,7 +8,7 @@ image: /assets/images/post-images/top-ten-from-tanzania-1.png
 
 ![](/uploads/4.png){: width="1200" height="600"}
 
-*(Empower Tanzania is fundraising for an innovative farm project that you can read about [HERE](https://empowertz.org/development/2020/07/31/farming-at-kirinjiko/){: target="_blank" rel="noopener"}. Below are the hopes of our Farm Project Director, Joseph Johnson Kimbwereza.)*
+*(Empower Tanzania is fundraising for an innovative farm project that you can read about [HERE](https://empowertz.org/development/2020/07/31/farming-at-kirinjiko/){: target="_blank"}. Below are the hopes of our Farm Project Director, Joseph Johnson Kimbwereza.)*
 
 Thank you for reading about our campaign to help fund our farm plans at the Empower Tanzania Farm. We believe our Kirinjiko farm will be of great benefit to the people of Same District for all of the following reasons:
 
@@ -32,4 +32,4 @@ Thank you for reading about our campaign to help fund our farm plans at the Empo
 
 10\. Last, but not the least, the farm plot at Kirinjiko will be an environmental conservation and climatic change center where environmental conservation and climatic change education, skills and knowledge will be taught, given, and practiced.
 
-![](/uploads/1.png){: width="1200" height="600"}**Please click [HERE&nbsp;](https://empowertz.z2systems.com/donation.jsp?campaign=53&amp;){: target="_blank" rel="noopener"}to support the Kirinjiko Farm Plot Project. Thank you\!**
+**Please click [HERE&nbsp;](https://empowertz.z2systems.com/donation.jsp?campaign=53&amp;){: target="_blank"}to support the Kirinjiko Farm Plot Project. Thank you\!**
