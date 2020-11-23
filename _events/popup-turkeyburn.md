@@ -8,3 +8,5 @@ location: Zoom app
 FREE HIIT workout to burn off the turkey, our thanks to you!
 
 Sign up today! Virtual space is limited for this class.
+
+[Sign up for the event](https://app.acuityscheduling.com/schedule.php?owner=16546307&appointmentType=18538103){: target="_blank"}{: class="btn btn-primary-outline"}
