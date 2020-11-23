@@ -14,6 +14,7 @@ layout: page
 <div id="class-index">
 
     <div id="class-list" class="row">
+        <!--
         <div class="col">
             <h3>In-Person @ FIT Rx</h3>
             {% for class in site.inperson %}
@@ -25,7 +26,7 @@ layout: page
             </div>
 
             {% endfor %}
-        </div>
+        </div>-->
         <div class="col">
             <h3>Virtual via Zoom</h3>
 
@@ -59,7 +60,9 @@ layout: page
             {% for event in site.events %}
             <div class="class-info event_class_list">
                 <h4>{{event.title}}</h4>
-                <h5>{{event.date | date_to_long_string}} from {{event.time}} @ {{event.location}}</h5>
+                {% if event.time %}
+                <h5>{{event.time}} @ {{event.location}}</h5>
+                {% endif %}
                 <p>{{event.content}}</p>
             </div>
             {% endfor %}

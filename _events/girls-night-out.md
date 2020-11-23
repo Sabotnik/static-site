@@ -1,8 +1,7 @@
 ---
 title: "Ladies Night"
-date: November 18, 2020
-time: "6:00pm"
-location: FIT Rx
+time: "December 9, 2020 at 6:00pm"
+location: Zoom app
 ---
 ![Ladies Night - Sept 2020](/assets/images/events/ladiesnight.jpg)
 
