@@ -72,7 +72,7 @@ title: Home
       {% for event in site.events %}
         <div class="class-info event_class_list col">
             <h4>{{event.title}}</h4>
-            <h5>{{event.date | date_to_long_string}} from {{event.time}} @ {{event.location}}</h5>
+            <h5>{{event.time}} @ {{event.location}}</h5>
             <p>{{event.content}}</p>
         </div>
       {% endfor %}
