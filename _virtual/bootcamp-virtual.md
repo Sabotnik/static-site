@@ -1,7 +1,7 @@
 ---
 title: "Bootcamp"
 days: "Monday,Wednesday,Friday"
-time: "11:30-12:00p"
+time: "11:30a-12:00p"
 location: Zoom app
 ---
 Need an extra PUSH? FIT Rx's Boot Camp mixes traditional calisthenic and body weight exercises with interval training and strength training. We want you to have tons of fun in 30 minutes!

@@ -1,6 +1,6 @@
 ---
 title: "Circuit Training"
-days: "MWF 5:30a, TuTh 8:00a"
+days: "TuTh 8:00a"
 time: "45 min"
 location: FIT Rx
 ---
