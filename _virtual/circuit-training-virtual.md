@@ -1,6 +1,6 @@
 ---
 title: "Circuit Training"
-days: "Tues,Thurs 8:00a"
+days: "Mon, Wed 7:00a"
 time: "45 min"
 location: Zoom app
 ---

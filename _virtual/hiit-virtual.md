@@ -1,6 +1,6 @@
 ---
 title: "HIIT"
-days: "MWF 7:00a, TuTh 4:30p"
+days: "Tues & Thurs 4:30p, Wed 7a"
 time: "45 min"
 location: Zoom app
 ---
