@@ -8,7 +8,7 @@ image: /assets/images/post-images/homedesigninsta.png
 
 Nietiwe was one of the original farmers who participated in our [Integrated Farming Program\*](https://empowertz.org/programs/economicempowerment/){: target="_blank" rel="noopener"} and her star shone brightly. She emerged as a leader within her cohort and community and quickly began to reap the benefits of her training.
 
-Nietiwe developed a successful farm on her small parcel of land. **As a vegetable and goat farmer, she has been able to provide a home and nutritious food for her family, pay for her four children’s school fees, and even[invest in a motorcycle](https://empowertz.org/development/2017/05/01/meet-four-of-the-most-empowered-women-in-tanzania/){: target="_blank" rel="noopener"}to use to gather fresh grass for her livestock from more verdant land.** She has also become a teacher of other famers in her community, as well as a para-veterinarian who serves with her knowledge of animal husbandry.
+Nietiwe developed a successful farm on her small parcel of land. **As a vegetable and goat farmer, she has been able to provide a home and nutritious food for her family, pay for her four children’s school fees, and even&nbsp;[invest in a motorcycle](https://empowertz.org/development/2017/05/01/meet-four-of-the-most-empowered-women-in-tanzania/){: target="_blank" rel="noopener"}&nbsp;to use to gather fresh grass for her livestock from more verdant land.** She has also become a teacher of other famers in her community, as well as a para-veterinarian who serves with her knowledge of animal husbandry.
 
 We know that Nietiwe’s learning and hard work has made a difference in her life, the lives of her children, and the lives of those in her entire community.
 
@@ -30,7 +30,7 @@ In general, Tanzania’s architecture represents a history of diverse styles wit
 
 ![](uploads/1-2.png){: width="2000" height="1600"}
 
-We’re so pleased to know that women in rural Tanzania like Nietiwe enjoy the dignity of a day’s work and the pleasure of coming home to a beautiful home.
+We’re so pleased to know that women in rural Tanzania like Nietiwe enjoy the dignity of a day’s work and the pleasure of coming home to a beautiful dwelling.
 
 Learn more about our new farming project [HERE](https://empowertz.org/development/2020/07/31/farming-at-kirinjiko/){: target="_blank" rel="noopener"}. Learn more about Tanzanian building and design, click [HERE](https://www.archdaily.com/country/tanzania){: target="_blank" rel="noopener"} and [HERE](https://www.tanzania-experience.com/blog/why-so-many-half-finished-houses/){: target="_blank" rel="noopener"}.
 
