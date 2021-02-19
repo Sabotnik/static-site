@@ -32,6 +32,6 @@ In general, Tanzania’s architecture represents a history of diverse styles wit
 
 We’re so pleased to know that women in rural Tanzania like Nietiwe enjoy the dignity of a day’s work and the pleasure of coming home to a beautiful dwelling.
 
-Learn more about our new farming project [HERE](https://empowertz.org/development/2020/07/31/farming-at-kirinjiko/){: target="_blank" rel="noopener"}. Learn more about Tanzanian building and design, click [HERE](https://www.archdaily.com/country/tanzania){: target="_blank" rel="noopener"} and [HERE](https://www.tanzania-experience.com/blog/why-so-many-half-finished-houses/){: target="_blank" rel="noopener"}.
+Learn more about our new farming project [HERE](https://empowertz.org/development/2020/07/31/farming-at-kirinjiko/){: target="_blank" rel="noopener"}. Learn more about Tanzanian building and design&nbsp;[HERE](https://www.archdaily.com/country/tanzania){: target="_blank" rel="noopener"} and [HERE](https://www.tanzania-experience.com/blog/why-so-many-half-finished-houses/){: target="_blank" rel="noopener"}.
 
 ***\*The Integrated Farming Project at Hedaru was handed over to local control in 2018.***
