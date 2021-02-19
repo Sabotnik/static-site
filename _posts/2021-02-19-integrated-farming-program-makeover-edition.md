@@ -12,6 +12,8 @@ Nietiwe developed a successful farm on her small parcel of land. **As a vegetabl
 
 We know that Nietiwe’s learning and hard work has made a difference in her life, the lives of her children, and the lives of those in her entire community.
 
+![](uploads/2021/02/18/integrated-farming-program-makeover-edition/3-1.jpg){: width="2000" height="1600"}
+
 ![](uploads/2021/02/18/integrated-farming-program-makeover-edition/3.jpg){: width="2000" height="1600"}
 
 As an organization, we rely on data to guide us in our work and we take great time and care to assure that we gather information that gauges our effectiveness through culturally appropriate measures. It’s great to know, for instance, that as a result of the Beyond Gender Based Violence program, 91% of the women surveyed feel they have a strong understanding of money management, that 85% of our Community Health Educators hold leadership positions within their community, and that as of 2019, 1,188,080 people had participated in learning opportunities facilitated through our Improving Women’s Health Program.
