@@ -12,7 +12,7 @@ Nietiwe developed a successful farm on her small parcel of land. **As a vegetabl
 
 We know that Nietiwe’s learning and hard work has made a difference in her life, the lives of her children, and the lives of those in her entire community.
 
-![](uploads/add-a-subheading-4.png){: width="2000" height="1600"}
+![](uploads/2021/02/18/integrated-farming-program-makeover-edition/3.jpg){: width="2000" height="1600"}
 
 As an organization, we rely on data to guide us in our work and we take great time and care to assure that we gather information that gauges our effectiveness through culturally appropriate measures. It’s great to know, for instance, that as a result of the Beyond Gender Based Violence program, 91% of the women surveyed feel they have a strong understanding of money management, that 85% of our Community Health Educators hold leadership positions within their community, and that as of 2019, 1,188,080 people had participated in learning opportunities facilitated through our Improving Women’s Health Program.
 
@@ -20,15 +20,15 @@ As an organization, we rely on data to guide us in our work and we take great ti
 
 When Nietiwe found that she could consistently meet the basic needs of her family and still have a bit of income left unspent, she decided to update the interior of her home. She saved enough money to pay for a coat of paint and some updated curtains.
 
-![](uploads/add-a-subheading-5.png){: width="2000" height="1600"}
+![](uploads/2021/02/18/integrated-farming-program-makeover-edition/4.jpg){: width="2000" height="1600"}
 
 **“I am so proud to live in a beautiful home. I love color and it makes me happy to be in this place with my family,” she said of her small home improvement project.**
 
-![](uploads/2-2.png){: width="2000" height="1600"}
+![](uploads/2021/02/18/integrated-farming-program-makeover-edition/2.jpg){: width="2000" height="1600"}
 
 In general, Tanzania’s architecture represents a history of diverse styles with British, German, and Arab influences. Most traditional architecture and structures and shaped by function and culture. Nietiwe’s interest in color and pattern is obvious when you walk into her two-room home. The scalloped details of the living room paint are cheerful and charming.
 
-![](uploads/1-2.png){: width="2000" height="1600"}
+![](uploads/2021/02/18/integrated-farming-program-makeover-edition/1.jpg){: width="2000" height="1600"}
 
 We’re so pleased to know that women in rural Tanzania like Nietiwe enjoy the dignity of a day’s work and the pleasure of coming home to a beautiful dwelling.
 
