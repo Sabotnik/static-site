@@ -22,7 +22,7 @@ These numbers are important (and impressive\!), but we also value the qualitativ
 
 When Nietiwe found that she could consistently meet the basic needs of her family and still have a bit of income left unspent, she decided to update the interior of her home. She saved enough money to pay for a coat of paint and some updated curtains.
 
-&nbsp;
+![](uploads/2021/02/18/integrated-farming-program-makeover-edition/1.jpg){: width="2000" height="1600"}
 
 “I am so proud to live in a beautiful home. I love color and it makes me happy to be in this place with my family,” she said of her small home improvement project.
 
