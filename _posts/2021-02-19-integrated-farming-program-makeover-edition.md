@@ -12,7 +12,7 @@ Nietiwe developed a successful farm on her small parcel of land. As a vegetable 
 
 We know that Nietiwe’s learning and hard work has made a difference in her life, the lives of her children, and the lives of those in her entire community.
 
-![](uploads/2021/02/18/integrated-farming-program-makeover-edition/3-1.jpg)
+&nbsp;
 
 &nbsp;
 
@@ -22,15 +22,15 @@ These numbers are important (and impressive\!), but we also value the qualitativ
 
 When Nietiwe found that she could consistently meet the basic needs of her family and still have a bit of income left unspent, she decided to update the interior of her home. She saved enough money to pay for a coat of paint and some updated curtains.
 
-![](uploads/2021/02/18/integrated-farming-program-makeover-edition/4.jpg)
+&nbsp;
 
 “I am so proud to live in a beautiful home. I love color and it makes me happy to be in this place with my family,” she said of her small home improvement project.
 
-![](uploads/2021/02/18/integrated-farming-program-makeover-edition/2.jpg)
+&nbsp;
 
 In general, Tanzania’s architecture represents a history of diverse styles with British, German, and Arab influences. Most traditional architecture and structures and shaped by function and culture. Nietiwe’s interest in color and pattern is obvious when you walk into her two-room home. The scalloped details of the living room paint are cheerful and charming.
 
-![](uploads/2021/02/18/integrated-farming-program-makeover-edition/1.jpg)
+&nbsp;
 
 We’re so pleased to know that women in rural Tanzania like Nietiwe enjoy the dignity of a day’s work and the pleasure of coming home to a beautiful dwelling.
 
