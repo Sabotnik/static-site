@@ -16,7 +16,7 @@ Our goal is sustainability. When we plan for a project, we include a goal for wh
 
 Encouraged by all the [benefits that come with having access to clean water](https://empowertz.org/development/2020/07/08/6-ways-life-has-changed-in-nadaruru/){: target="_blank" rel="noopener"}, **the community took it upon themselves to fund and build NINE more distribution points to serve even more people\!** They were assisted by the Roman Catholic Diocese for three of the distribution points and the other six were funded by the sale of goats.
 
-&nbsp;
+![](uploads/2021/02/19/working-ourselves-out-of-a-job/distribution-point2.jpg){: width="2240" height="1260"}
 
 &nbsp;
 
