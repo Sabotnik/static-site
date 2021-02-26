@@ -27,7 +27,7 @@ Empower Tanzania is seeking to raise $30,000 in 2021 as start-up capital to laun
 
 &nbsp;
 
-[![](/uploads/vumwe-launch-3.png){: width="2240" height="1260"}](https://bit.ly/37PvvXn){: target="_blank" rel="noopener"}
+[![](/uploads/2021/02/26/were-kickstarting-our-social-enterprise/vumwe-launch-3-1.png){: width="2240" height="1260"}](https://bit.ly/37PvvXn){: target="_blank" rel="noopener"}
 
 ![](/uploads/2021/02/26/were-kickstarting-our-social-enterprise/blog-post---vumwe-5-1.png){: width="2240" height="1260"}
 
