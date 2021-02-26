@@ -19,7 +19,7 @@ Empower Tanzania staff in Tanzania worked with leaders in ten communities to ide
 
 The women **learned how to make tie-dye and batik style fabrics**. They are paid per piece and sales go directly to program costs while providing economic security for these resilient women. **The survivors now proudly call themselves***entrepreneurs* **and chose to name their enterprise VUMWE (voom-wee) Designs because in their Pare language, the word***VUMWE* **means***UNITY***.**
 
-In 2019, Empower Tanzania became a member of the [Fair Trade Federation](https://www.fairtradefederation.org/){: target="_blank" rel="noopener"} and began growing this new social enterprise through sales, market research, and business and product development.
+*In 2019, Empower Tanzania became a member of the [Fair Trade Federation](https://www.fairtradefederation.org/){: target="_blank" rel="noopener"} and began growing this new social enterprise through sales, market research, and business and product development.*
 
 ## PHASE THREE: Entrepreneurs -----&gt; Thriving Business Women
 
@@ -29,7 +29,7 @@ Empower Tanzania is seeking to raise $30,000 in 2021 as start-up capital to laun
 
 [![](/uploads/vumwe-launch-3.png){: width="2240" height="1260"}](https://bit.ly/37PvvXn){: target="_blank" rel="noopener"}
 
-![](/uploads/vumwe-launch-4.png){: width="2240" height="1260"}
+![](/uploads/2021/02/26/were-kickstarting-our-social-enterprise/blog-post---vumwe-5-1.png){: width="2240" height="1260"}
 
 ![](/uploads/vumwe-launch-5.png){: width="2240" height="1260"}
 
