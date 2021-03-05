@@ -3,10 +3,8 @@ layout: post
 title: We're kickstarting our social enterprise!
 categories:
   - news
-  - development
 image: /assets/images/post-images/vumwe-launch-cover.png
 ---
-
 ![](/uploads/vumwe-launch1.png){: width="2240" height="1260"}
 
 ![](/uploads/vumwe-launch-2.png){: width="2240" height="1260"}
