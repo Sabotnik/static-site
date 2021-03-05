@@ -568,8 +568,13 @@
 @media screen and (max-device-width: 800px) {
 // Switch off hero video on small screens
   #home-hero {
-    background-color: gray;
-    background-image: url('./../images/dancingkids_frame.jpg');
+    background-image: 
+    linear-gradient(
+      to top,
+      rgba(black, 0.9),
+      rgba(black, 0)),
+    url('./../images/unfoldingfabric_frame.jpg')
+    ;
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
