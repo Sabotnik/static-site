@@ -47,8 +47,11 @@
 }
 #home-subhero {
   color: white;
-  .row {
-    justify-content: center;
+  .col {
+    align-items: center;
+  }
+  h2 {
+    text-align: center;
   }
 }
 #programs-hero {
