@@ -1,6 +1,6 @@
 ---
-title: "Ladies Night March It Out"
-time: "March 10, 2021 at 5:00pm"
+title: "Ladies Night"
+time: "April 14, 2021 at 5:00pm"
 location: FIT Rx
 ---
 ![Ladies Night flyer](/assets/images/events/ladiesnight.jpg)

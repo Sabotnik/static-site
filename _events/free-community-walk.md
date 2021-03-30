@@ -1,10 +1,10 @@
 ---
 title: "Free Community Walk"
-time: "Sunday, March 21, 2021"
+time: "Sunday, April 11, 2021"
 location: FIT Rx
 ---
 ![Riverfront path behind FIT Rx](/assets/images/classes-scenery.jpg)
 
-Next Walk - 10:00a - 12:00p on Sunday, March 21, 2021
+Next Walk - 10:00a - 12:00p on Sunday, April 11, 2021
 
 FIT Rx will open its doors to the community, offering water outside for your walk between 10:00a - 12:00p!  To keep our distance we will only gather outside and we ask that you respect others' space.  Runners welcome!   Dolly the Gym Dog will be there!  Bring your dogs and families!  Doggie bags are provided to keep our neighborhood clean!

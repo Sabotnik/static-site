@@ -7,7 +7,7 @@ location: Zoom app
 Need an extra PUSH? FIT Rx's Boot Camp mixes traditional calisthenic and body weight exercises with interval training and strength training. We want you to have tons of fun in 30 minutes!
 
 Price:
-$8 Drop-in or $75 for 4 weeks ($20 per week)
+$8 Drop-in or $80 for 4 weeks ($20 per week)
 
 [Buy Single Bootcamp Workout](https://app.acuityscheduling.com/schedule.php?owner=16546307&appointmentType=14797117){: target="_blank"}{: class="btn btn-primary-outline"}
 
