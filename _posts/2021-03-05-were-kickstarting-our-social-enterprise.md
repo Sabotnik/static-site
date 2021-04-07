@@ -35,6 +35,6 @@ Empower Tanzania is seeking to raise $30,000 in 2021 as start-up capital to laun
 
 * **Donate [HERE.](https://bit.ly/37PvvXn){: target="_blank" rel="noopener"}**
 * **Tell your friends\! Share this blog post and our social media posts\!**
-* **Shop our store\! (Coming April 1st)**
+* [**Shop our store HERE\!**](https://shop.empowertz.org){: target="_blank" rel="noopener"}
 * **Invite us to speak about women's empowerment through entrepreneurialism at your community group.**
 * **Reach out to learn more: information@empowertz.org.**
