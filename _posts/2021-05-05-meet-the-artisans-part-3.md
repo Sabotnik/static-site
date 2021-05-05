@@ -15,7 +15,7 @@ Neemaeli Mgonja is an artisan-entrepreneur from the village of Ishinde. She has 
 
 Neemaeli enjoys being a mom and her kids are proud of her work with Vumwe Designs. “Sometimes, when they are home, I teach them the process of making our fabric products, too\! We love working together on our farm, talking, sharing ideas, and making decisions together. We have fun together\!”
 
-Neemaeli is skilled at both batik and tie-dye and her friends describe her as being confident and hardworking. She treasures her friends and loves sitting together with them and sharing ideas. During the pandemic, she has been careful about preventing illness.” We must follow everything we’ve been taught about prevention,” she says, “and lean on the basis of our faith.”
+Neemaeli is skilled at both batik and tie-dye and her friends describe her as being confident and hardworking. She treasures her friends and loves sitting together with them and sharing ideas. During the pandemic, she has been careful about preventing illness. "We must follow everything we’ve been taught about prevention,” she says, “and lean on the basis of our faith.”
 
 *If you’re interested in learning more or getting involved with our new fairtrade social enterprise, you can check out the following:*
 
