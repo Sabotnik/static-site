@@ -2,7 +2,6 @@
 layout: post
 title: Meet the Artisans
 categories:
-  - news
   - development
 image: /assets/images/post-images/2-2.png
 ---
