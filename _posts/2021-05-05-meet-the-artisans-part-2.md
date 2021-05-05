@@ -5,7 +5,7 @@ categories:
   - development
 image: /assets/images/post-images/3.png
 ---
-&nbsp;
+![](/uploads/2021/05/04/meet-the-artisans-part-2/copy-of-invest-in-an-entrepreneur.png){: width="2240" height="1260"}
 
 This year we’re kickstarting our new social enterprise,&nbsp;[Vumwe Designs](https://empowertz.org/news/2021/03/05/were-kickstarting-our-social-enterprise/){: target="_blank" rel="noopener"}\! In working with 99 gender-based violence survivors-turned-entrepreneurs, we are constantly inspired. Below you'll meet one of our artisans, Safina Shabani, who agreed to let us share a bit about her.
 
