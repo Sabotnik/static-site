@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Meet the Artisans
+title: Meet the Artisans (Part 2)
 categories:
   - development
 image: /assets/images/post-images/3.png
 ---
-![](/uploads/2021/05/05/meet-the-artisans/3.png){: width="600" height="200"}
+&nbsp;
 
 This year we’re kickstarting our new social enterprise,[Vumwe Designs](https://empowertz.org/news/2021/03/05/were-kickstarting-our-social-enterprise/){: target="_blank" rel="noopener"}\! In working with 99 gender-based violence survivors-turned-entrepreneurs, we are constantly inspired. Below you'll meet one of our artisans, Safina Shabani, who agreed to let us share a bit about her.
 
 **Safina Shabani, mom of four, is the chairperson of the group of women from the village of Makanya. She is a strong leader and is skilled at both batik and tie-dye. Director of Vumwe Designs, Catherine Wales, was able to ask her a few questions in preparation for Empower Tanzania’s Mother’s Day campaign in which we’re hoping to raise $15,000 to kickstart this social enterprise:**
 
-***Catherine: What special skills do you bring to Vumwe Designs? ***
+*\*\*Catherine: What special skills do you bring to Vumwe Designs? \*\**
 
 Safina: I am the chairperson of our group, the mediator of emerging challenges in the group, and the protector of our unity.
 
@@ -23,7 +23,7 @@ S: When I was young, I always dreamed of a good education and a better life. Sin
 
 S: I have learned to avoid unnecessary or large gatherings and I have learned the importance of taking care of myself and my family. My health is important and I need to take care\!&nbsp; I also have learned more about money, like how important it is to save and make good use of the money I have. It’s important to be prepared for times when I’m not able to work.
 
-***C: What beauty do you find in life? ***
+*\*\*C: What beauty do you find in life? \*\**
 
 S: I find great joy and beauty in my friendships.
 
@@ -31,7 +31,7 @@ S: I find great joy and beauty in my friendships.
 
 S: Strong and confident.
 
-***C: What do your four children think of your work with Vumwe? ***
+*\*\*C: What do your four children think of your work with Vumwe? \*\**
 
 S: My children love what I do because it has helped in improving our lives and it helps to get income for different activities such as agriculture activities.
 
