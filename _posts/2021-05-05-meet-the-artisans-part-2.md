@@ -11,7 +11,7 @@ This year we’re kickstarting our new social enterprise,[Vumwe Designs](https:/
 
 **Safina Shabani, mom of four, is the chairperson of the group of women from the village of Makanya. She is a strong leader and is skilled at both batik and tie-dye. Director of Vumwe Designs, Catherine Wales, was able to ask her a few questions in preparation for Empower Tanzania’s Mother’s Day campaign in which we’re hoping to raise $15,000 to kickstart this social enterprise:**
 
-*\*\*Catherine: What special skills do you bring to Vumwe Designs? \*\**
+***Catherine: What special skills do you bring to Vumwe Designs?&nbsp;***
 
 Safina: I am the chairperson of our group, the mediator of emerging challenges in the group, and the protector of our unity.
 
@@ -23,7 +23,7 @@ S: When I was young, I always dreamed of a good education and a better life. Sin
 
 S: I have learned to avoid unnecessary or large gatherings and I have learned the importance of taking care of myself and my family. My health is important and I need to take care\!&nbsp; I also have learned more about money, like how important it is to save and make good use of the money I have. It’s important to be prepared for times when I’m not able to work.
 
-*\*\*C: What beauty do you find in life? \*\**
+***C: What beauty do you find in life?***
 
 S: I find great joy and beauty in my friendships.
 
@@ -31,7 +31,7 @@ S: I find great joy and beauty in my friendships.
 
 S: Strong and confident.
 
-*\*\*C: What do your four children think of your work with Vumwe? \*\**
+***C: What do your four children think of your work with Vumwe?***
 
 S: My children love what I do because it has helped in improving our lives and it helps to get income for different activities such as agriculture activities.
 
