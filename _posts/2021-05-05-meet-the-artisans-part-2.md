@@ -7,7 +7,7 @@ image: /assets/images/post-images/3.png
 ---
 &nbsp;
 
-This year we’re kickstarting our new social enterprise,[Vumwe Designs](https://empowertz.org/news/2021/03/05/were-kickstarting-our-social-enterprise/){: target="_blank" rel="noopener"}\! In working with 99 gender-based violence survivors-turned-entrepreneurs, we are constantly inspired. Below you'll meet one of our artisans, Safina Shabani, who agreed to let us share a bit about her.
+This year we’re kickstarting our new social enterprise,&nbsp;[Vumwe Designs](https://empowertz.org/news/2021/03/05/were-kickstarting-our-social-enterprise/){: target="_blank" rel="noopener"}\! In working with 99 gender-based violence survivors-turned-entrepreneurs, we are constantly inspired. Below you'll meet one of our artisans, Safina Shabani, who agreed to let us share a bit about her.
 
 **Safina Shabani, mom of four, is the chairperson of the group of women from the village of Makanya. She is a strong leader and is skilled at both batik and tie-dye. Director of Vumwe Designs, Catherine Wales, was able to ask her a few questions in preparation for Empower Tanzania’s Mother’s Day campaign in which we’re hoping to raise $15,000 to kickstart this social enterprise:**
 
@@ -47,6 +47,8 @@ S: We love talking together as a family. We love to share ideas and we make deci
 * **Tell your friends\! Share this blog post and our social media posts\!**
 * **Invite us to speak about women’s empowerment through entrepreneurialism at your community group.**
 * **Reach out to learn more: information@empowertz.org.**
+
+&nbsp;
 
 &nbsp;
 
