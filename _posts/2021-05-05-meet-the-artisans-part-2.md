@@ -29,7 +29,9 @@ S: I have learned to avoid unnecessary or large gatherings and I have learned th
 
 S: I find great joy and beauty in my friendships.
 
-***C: How would your best friend describe you?***
+***C: How would your best friend describe you?***&nbsp;
+
+&nbsp;
 
 S: Strong and confident.
 
@@ -49,6 +51,8 @@ S: We love talking together as a family. We love to share ideas and we make deci
 * **Tell your friends\! Share this blog post and our social media posts\!**
 * **Invite us to speak about women’s empowerment through entrepreneurialism at your community group.**
 * **Reach out to learn more: information@empowertz.org.**
+
+&nbsp;
 
 &nbsp;
 
