@@ -25,6 +25,8 @@ S: I have learned to avoid unnecessary or large gatherings and I have learned th
 
 ***C: What beauty do you find in life?***
 
+&nbsp;
+
 S: I find great joy and beauty in my friendships.
 
 ***C: How would your best friend describe you?***
