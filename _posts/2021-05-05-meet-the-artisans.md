@@ -5,7 +5,7 @@ categories:
   - development
 image: /assets/images/post-images/2-2.png
 ---
-This year's we're kickstarting our new social enterprise, Vumwe Designs\! In working with 99 gender-based violence survivors-turned-entrepreneurs, we are constantly inspired. Meet one of our artisans, Tatu Liputai, who agreed to let us share her story:
+This year we're kickstarting our new social enterprise, Vumwe Designs\! In working with 99 gender-based violence survivors-turned-entrepreneurs, we are constantly inspired. Meet one of our artisans, Tatu Liputai, who agreed to let us share her story:
 
 Tatu Liputai is a member of Vumwe Designs living with her four children in the village of Kisiwani. She is skilled at color making and matching, which requires careful attention and skill in mixing chemicals and dyes. She hopes one day her children will enjoy a good quality of life and believes it might be possible with Vumwe Designs. Tatu loves her work and the way it has bettered her life and the lives of her children. She is able to send her kids to school and provide basic needs and medical treatment for her family.&nbsp;
 
