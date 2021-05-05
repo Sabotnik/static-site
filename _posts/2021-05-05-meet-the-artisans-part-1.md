@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Meet the Artisans (Part 2)
+title: Meet the Artisans (Part 1)
 categories:
   - development
 image: /assets/images/post-images/3.png
