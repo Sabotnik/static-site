@@ -17,8 +17,6 @@ Neemaeli enjoys being a mom and her kids are proud of her work with Vumwe Design
 
 Neemaeli is skilled at both batik and tie-dye and her friends describe her as being confident and hardworking. She treasures her friends and loves sitting together with them and sharing ideas. During the pandemic, she has been careful about preventing illness.” We must follow everything we’ve been taught about prevention,” she says, “and lean on the basis of our faith.”
 
-&nbsp;
-
 *If you’re interested in learning more or getting involved with our new fairtrade social enterprise, you can check out the following:*
 
 * **Read more about Vumwe Designs&nbsp;[HERE](https://empowertz.org/news/2021/03/05/were-kickstarting-our-social-enterprise/){: target="_blank" rel="noopener"}.**
