@@ -28,4 +28,4 @@ Neemaeli is skilled at both batik and tie-dye and her friends describe her as be
 
 &nbsp;
 
-**![](/uploads/blog-post---vumwe-1.png){: width="2240" height="1260"}**
+[**![](/uploads/blog-post---vumwe-1.png){: width="2240" height="1260"}**](https://empowertz.z2systems.com/np/clients/empowertz/donation.jsp?campaign=55&amp;)
