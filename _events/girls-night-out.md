@@ -1,6 +1,6 @@
 ---
 title: "Ladies Night"
-time: "April 14, 2021 at 5:00pm"
+time: "May 19, 2021 at 5:30pm"
 location: FIT Rx
 ---
 ![Ladies Night flyer](/assets/images/events/ladiesnight.jpg)
