@@ -1,6 +1,6 @@
 ---
 title: "HIIT"
-days: "Tues & Thurs 4:30p, Wed 7a"
+days: "Tues & Thurs 4:30p"
 time: "45 min"
 location: FIT Rx
 ---
